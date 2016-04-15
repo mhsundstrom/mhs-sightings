@@ -1,0 +1,224 @@
+- region: Columbus
+- subloc: Olentangy River
+- date: 2013-10-20
+- Belted Kingfisher
+- American Goldfinch
+- date: 2013-10-21
+- House Sparrow
+- Mallard
+- date: 2014-01-15
+- subloc: Scioto River
+- codes: CanGoo HooMer Mallar GrBHer RiBGul
+- date: 2014-02-02
+- subloc: Schiller Park
+- Redhead
+- date: 2014-02-03
+- subloc: Scioto River
+- BelKin
+- date: 2014-02-05
+- DaEJun
+- date: 2014-02-17
+- ReBMer
+- date: 2014-02-28
+- Black-crowned Night-Heron
+- codes: GrBHer Mallar HooMer
+- date: 2014-03-02
+- codes: PiBGre
+- date: 2014-03-06
+- Redhead:
+    notes: about 5 near North Bank Park
+- ReBMer:
+    notes: both male and female near North Bank Park
+- EarGre:
+    quality: Probable
+    notes: pair, at the confluence
+- date: 2014-03-11
+- TurVul:
+    notes: first one I've seen in Columbus this season
+- date: 2014-03-08
+- NorMoc
+- date: 2014-03-17
+- codes: AmeCoo RiBGul
+- date: 2014-04-05
+- subloc: Olentangy River
+- WhTSpa:
+    notes: heard along the trail
+- subloc: Scioto River
+- date: 2014-04-12
+- GrBHer
+- date: 2014-04-16
+- EasTow
+- date: 2014-04-20
+- NorFli
+- date: 2014-04-27
+- subloc: Antrim Lake
+- BelKin
+- date: 2014-04-28
+- subloc: Scioto River
+- AmeCoo
+- date: 2014-05-05
+- WooDuc:
+    notes: pair at North Bank Park
+
+- date: 2014-05-24
+- subloc: Prairie Oaks Metro Park
+# 10 mile runwalk
+- AmeGol
+- AmeRob
+- BelKin
+- BluJay
+- CanGoo
+- ChiSpa
+- EasMea
+- EasPho
+- EasTow
+- EaWPew
+- GrBHer
+- Killde
+- MouDov
+- NorCar
+- NorFli
+- RebWoo
+- RewBla
+- TreSwa
+- TurVul
+- YelWar
+
+- date: 2014-05-25
+- subloc: Scioto Greenways
+- CedWax:
+    notes: spotted by Krystin, near Main St bridge
+
+- date: 2014-05-26
+- subloc: North Bank Park
+- WooThr
+- EaWPew
+
+- region: Slate Run Metro Park
+- date: 2014-06-01
+- codes: ChiSpa TufTit NorCar PilWoo AmeGol ReWBla EasTow EaWPew EasPho
+- codes: EasMea TreSwa TurVul HouWre AmeRob CanGoo Mallar
+- codes: CarWre EasBlu AmeCro
+- SanCra:
+    notes: three, in the grasses in the wetlands on the west side.
+- NorBob:
+    notes: heard only, several times
+- o: fitz-bew sound
+- AmeWoo:
+    notes: heard only, in the fields between wetlands and forest
+
+- region: Columbus
+- subloc: Scioto River
+- date: 2014-08-12
+- CedWax:
+    notes: near the Main St bridge
+
+- date: 2014-08-15
+- codes: GreEgr GrBHer TurVul GryCat AmeGol AmeRob HouSpa BarSwa
+
+- date: 2014-08-17
+- subloc: Olentangy River near Ohio State
+- codes: BarSwa BelKin Mallar CanGoo
+
+- date: 2014-09-01
+- subloc: Scioto River
+- DoCCor
+
+- date: 2014-10-02
+- codes: GreEgr BelKin Mallar AmeRob DoCCor
+- xChickadee
+
+- date: 2014-10-08
+- codes: RiBGul GrBHer DoCCor Mallar
+
+- date: 2014-10-17
+- TurVul
+
+- date: 2014-11-20
+- codes: CanGoo EurSta HouSpa Mallar AmeRob WhTSpa
+
+- date: 2014-11-21
+- AmeGol:
+    notes: heard and seen near COSI on the riverside.
+- RiBGul
+- Mallar
+
+- date: 2014-11-29
+- codes: CanGoo AmeRob WhTSpa Mallar
+- xChickadee
+
+- date: 2014-12-01
+- subloc: Highway 315
+- codes: RocPig AmeCro BluJay
+
+- subloc: Scioto River
+- date: 2014-12-02
+- codes: AmeGol RiBGul DaEJun Mallar NorCar DowWoo
+
+- subloc: Short Street
+- date: 2015-01-01
+- codes: SonSpa NorMoc
+
+- subloc: Scioto River
+- date: 2015-01-11
+- codes: DaEJun HooMer NorCar SonSpa Mallar CanGoo AmeRob GrBHer
+
+- date: 2015-01-17
+- PerFal:
+    notes: seen over city hall from the Broad Street bridge
+- MouDov
+- RiBGul
+
+- date: 2015-01-18
+- subloc: Olentangy River
+- DowWoo:
+    notes: heard only
+- AmeGol
+- HooMer
+
+- date: 2015-02-01
+- subloc: Scioto River
+- codes: HooMer Mallar CanGoo
+
+- date: 2015-02-07
+- SonSpa
+
+- date: 2015-02-08
+- codes: HouFin AmeRob
+
+- date: 2015-03-16
+- codes: NorMoc ReWBla
+
+- date: 2015-03-31
+- subloc: Confluence
+- codes: TurVul EaWPew CanGoo Mallar
+
+- date: 2015-04-02
+- codes: WhTSpa NorCar EaWPew CanGoo Mallar
+
+- date: 2015-04-03
+- subloc: Scioto Greenways
+- DowWoo
+
+- date: 2015-06-19
+- subloc: Confluence
+- CedWax:
+    notes: a group of several seen at the Confluence bridge
+
+- date: 2015-08-28
+- codes: GreEgr AmeRob
+
+- date: 2015-09-08
+- PerFal
+
+- date: 2015-10-14
+- codes: BelKin Killde CanGoo
+
+- subloc: Scioto Greenways
+- date: 2015-11-21
+- AmeCoo
+
+- date: 2015-11-27
+- CarWre:
+    notes: heard only
+

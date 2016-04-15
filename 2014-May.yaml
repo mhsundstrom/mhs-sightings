@@ -1,0 +1,110 @@
+- region: Ohio
+- date: 2014-05-07
+- subloc: US 23 north central
+- CliSwa:
+    notes: seen several times on the way to Maumee Bay SP
+- subloc: Maumee Bay State Park
+- date: 2014-05-07
+- codes: CasTer TreSwa AmeRob AmeGol ReWBla MouDov EurSta TufTit
+- codes: YelWar RuCKin HouSpa BkCChi RoBGro WhCSpa BalOri OrcOri
+- date: 2014-05-08
+# Early morning at the campground
+- codes: PalWar WhTSpa GryCat BalOri ChiSwi YelWar RuTHum NorCar
+- codes: AmeGol
+- WooDuc:
+    notes: several on the pond
+- codes: BuWTea YeRWar BawWar CedWax MouWar TreSwa OrcOri
+- white-winged gull sp.
+# Magee Marsh
+- subloc: Magee Marsh
+- codes: GreEgr Killde BluJay NasWar WarVir AmeGol AmeRed TenWar
+- codes: GrnHer LeaFly MagWar RoBGro BalOri
+# PC: NorWat
+- codes: GryCat RuCKin WhTSpa AmeRob ReWBla NorCar HouWre
+- Black-throated Blue Warbler:
+    notes: several at different locations
+- codes: ChSWar MouWar BaWWar WooThr CanWar
+- Black-throated Green Warbler
+- codes: ComYel EaSOwl SwaThr PalWar Ovenbi NorWat NorPar
+# PC: Blue-Gray Gnatcatcher, Wilson's Warbler
+- codes: ScaTan ProWar DoCCor Veery ReEVir
+- Blackburnian Warbler
+- codes: BaBWar HerGul CaMWar BalEag GrBHer CanGoo
+- ForTer:
+    quality: Probable
+# Back at the campground
+- subloc: Maumee Bay State Park
+- Brown-headed Cowbird
+- codes: TurVul ReTHaw
+
+- subloc: Pearson Metro Park
+- codes: HerThr BluJay NorCar MarWre AmeRed WarVir
+- codes: ReEVir GryCat YeRWar NorFli BalOri BaWWar
+- codes: RuCKin NasWar LeaFly MagWar WhTSpa ReWBla
+- codes: PalWar AmeRob ReBWoo YelWar BkCChi
+- Black-throated Green Warbler
+
+- subloc: Maumee Bay State Park
+- codes: PurMar Killde MouDov EasKin EurSta
+- AmeWoo:
+    notes: both buzz and chattering calls heard, not seen, at dusk
+
+- date: 2014-05-09
+- codes: AmeRob MouDov ReWBla TufTit NorCar YelWar BkCChi Mallar HouFin
+- codes: Killde ComGra EurSta GreEgr BarSwa ChiSwi
+
+- subloc: Magee Marsh
+# removed a GoCSpa, which we no longer believe.
+- codes: CarWre BalOri CanGoo YelWar TreSwa YeRWar WhCSpa
+- codes: SwaThr TufTit BluJay Killde RudTur ForTer
+- codes: MouDov BaWWar AmeRed MagWar YeRWar YelWar GoWWar
+- Blackpoll Warbler
+- codes: NorPar WooDuc EasKin GryCat GrBHer
+- Gray-cheeked Thrush
+- codes: PalWar
+- Black-throated Green Warbler
+- Black-throated Blue Warbler
+- codes: ReBWoo MagWar WilWar HouWre
+# PC- Yellow-breasted Chat
+- codes: TruSwa ChSWar ScaTan BalEag LinSpa ProWar WarVir
+- Blue-gray Gnatcatcher:
+    notes: heard only
+- codes: PhiVir BaBWar CaMWar HooWar Ovenbi ReEVir
+
+- subloc: Ohio Highway 2
+- codes: HerGul AmeKes
+- AmGPlo:
+    notes: about 20 seen in field near 'Happy Hooker' bait shop in OH 2
+
+- subloc: Metzger Marsh
+# rain
+- codes: MutSwa TruSwa GreEgr GrBHer CanGoo AmeCoo ProWar NasWar TenWar
+- Blackpoll Warbler
+- NRWSwa
+- codes: DowWoo Mallar BarSwa BalEag
+
+- subloc: Maumee Bay State Park
+- codes: WilFly MagWar WilWar
+
+- subloc: Pearson Metro Park, north wetlands
+- SpoSan
+
+- date: 2014-05-11
+- region: Dawes Arboretum
+- codes: GrCFly HouWre MouDov AmeRob BluJay CanGoo HouFin ChiSpa Mallar
+- codes: SonSpa HouSpa BarSwa AmeGol BalOri AmeCro TurVul ComGra EurSta
+- codes: EasBlu TreSwa ReBWoo NorMoc WooThr NorCar
+- codes: ReEVir HerThr YeRWar SwaThr EasTow CedWax TufTit FieSpa
+- codes: BuGGna ReWBla SpoSan EasKin OrcOri EaWPew HooWar DowWoo EasPho
+- codes: CaMWar GryCat CarChi CarWre
+
+- region: Blendon Woods Metro Park
+- codes: WilTur NorCar TufTit ReEVir DowWoo AmeCro SonSpa TreSwa CanGoo
+- codes: EasPho GryCat EasTow CarWre ReBWoo BuGGna
+
+# Add an historic sighting. I have other California Condors, too, if I can remember.
+- region: Arizona
+- subloc: Navajo Bridge
+- date: 2011-06-15
+- California Condor
+

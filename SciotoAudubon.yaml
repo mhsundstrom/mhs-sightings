@@ -1,0 +1,179 @@
+- country: United States
+- state: Ohio
+- location: Scioto Audubon Metro Park
+- date: 2014-01-18
+- NorCar
+- date: 2014-02-01
+- codes: MouDov NorCar HouFin
+# removed a GoCSpa which I no longer believe.
+- o: observed a fox on the river ice at the south end of the park
+- codes: AmeCro DoCCor GrBHer CarWre WhBNut AmeRob AmeGol Mallar EurSta
+- date: 2014-03-08
+- SonSpa:
+    notes: numerous
+- codes: ReWBla CanGoo HouFin MouDov Mallar NorCar
+- white-winged gull sp.
+- ReTHaw:
+    notes: pale breast w/ light brown near neck
+- codes: Killde DowWoo
+- Carolina/Black-capped Chickadee
+- codes: DoCCor ComMer EurSta GrBHer HooMer ReBWoo WhCSpa ComGol ReBMer ComGra AmeRob
+- date: 2014-03-15
+- codes: Killde ReWBla DoCCor AmeGol DowWoo HouSpa HooMer AmeRob ComGol CarWre
+- white-winged gull sp.
+- Carolina/Black-capped Chickadee
+- date: 2014-03-23
+- GreEgr
+- date: 2014-04-18
+- codes: AmeRob NorMoc ReWBla MouDov ComGra HouSpa BarSwa NorCar Killde WhTSpa
+- codes: TreSwa DowWoo CarWre CanGoo AmeCro SonSpa DoCCor AmeGol HouFin
+- xSparrow
+- codes: GrBHer Mallar GreEgr Osprey
+- BuGGna:
+    notes: 4-5 seen
+- date: 2014-05-10
+# with Paul
+- codes: ReWBla AmeRob HouFin AmeGol NorCar DowWoo SonSpa HouSpa Mallar
+- codes: CliSwa CanGoo NorMoc Osprey TreSwa EurSta MouDov GrBHer WhCSpa
+- codes: IndBun GryCat HouWre YelWar VesSpa ReEVir BuGGna OrCWar ReBWoo
+- codes: Killde DoCCor ChiSpa
+- date: 2014-05-16
+- AmeRob
+- SonSpa
+- Killde
+- ReWBla
+- HouFin
+- TreSwa
+- TurVul
+- NorCar
+- BalOri
+- GryCat
+- BnHCow
+- CarWre
+- ReEVir:
+    notes: heard only
+- WarVir
+- AmeGol
+- YelWar
+- YeBCuc:
+    notes: north of visitor center, high in trees, 'breathing' action and call.
+- IndBun
+- EasBlu
+- CanGoo
+- BarSwa
+- NRWSwa
+- Mallar
+- HouWre
+- BuGGna
+- CliSwa
+
+- date: 2014-06-05
+- codes: AmeRob NorMoc SonSpa NorCar EurSta YelWar CanGoo TreSwa Mallar GryCat HouWre BalOri
+- codes: ReBWoo BnHCow ReWBla
+- swallow sp.
+- codes: ChiSwi EaWPew AmeGol Osprey
+- sparrow sp.
+- codes: HouFin GreEgr
+- BuGGna:
+    notes: feeding 2 chicks, near merged paths on the north
+
+- date: 2014-06-15
+# With Wes and Suzanne
+- codes: IndBun Osprey BnHCow AmeGol DowWoo TurVul NorMoc NorCar TreSwa BarSwa
+
+- date: 2014-08-19
+- codes: MouDov GryCat HouSpa EurSta AmeGol SonSpa RocPig AmeRob CarWre Killde
+- Green Heron:
+    notes: juvenile, at the pond with the boardwalk
+- codes: EaWPew BuGGna BarSwa GrBHer DoCCor IndBun GreEgr CanGoo NorCar ReBWoo ReTHaw
+- chickadee sp.
+- vireo sp.:
+    notes: heard only at deck
+
+- date: 2014-09-02
+- Green Heron:
+    notes: same place as two weeks ago
+- codes: GreEgr GryCat AmeRob NorCar Mallar
+
+- date: 2014-09-09
+# Very quiet
+- codes: DowWoo CarWre AmeRob NorCar GreEgr DoCCor GryCat MouDov CanGoo Mallar Killde
+- AmeGol:
+    notes: numerous
+- sparrow sp.
+- white-winged gull sp.
+- Carolina/Black-capped Chickadee
+
+- date: 2014-11-23
+- codes: AmeGol HouSpa MouDov AmeRob DowWoo
+- xChickadee
+- CarWre:
+    notes: two buzzing loudly at observation deck on river
+- codes: TufTit HouFin NorCar SonSpa RiBGul
+- duck sp.:
+    notes: fly over
+
+- date: 2014-12-03
+- codes: Mallar AmeRob DoCCor AmeGol MouDov CanGoo NorCar HouSpa WhTSpa TufTit GrBHer NorFli DowWoo
+- xChickadee
+
+- date: 2014-12-09
+- xChickadee
+- codes: RiBGul Mallar DowWoo AmeGol NorCar WhTSpa BelKin MarWre GrBHer WhBNut HouSpa
+- codes: MouDov SonSpa HouFin
+
+- date: 2015-01-01
+- xChickadee
+- codes: WhTSpa RiBGul NorCar CanGoo HouFin AmeGol MouDov
+
+- date: 2015-02-08
+- xChickadee
+- codes: RiBGul EurSta SonSpa DoCCor NorCar HooMer MouDov HouSpa CanGoo AmeGol DowWoo
+
+- date: 2015-05-22
+- xChickadee
+- codes: AmeRob SonSpa GryCat NRWSwa Killde HouSpa ReWBla TreSwa YelWar CanGoo HouWre
+- codes: BnHCow EaWPew BalOri DowWoo BarSwa AmeGol MouDov
+- codes: Mallar GrBHer NorCar ComGra BluJay Osprey HouFin
+
+- date: 2015-08-30
+- codes: Osprey Killde GreEgr
+
+- date: 2015-09-07
+- codes: DoCCor GreEgr Mallar CanGoo
+
+- date: 2015-10-02
+- codes: AmeGol Mallar MouDov NRWSwa GreEgr DoCCor RiBGul
+- xChickadee
+- sparrow sp.
+
+- date: 2015-12-17
+- Sharp-shinned Hawk:
+    notes: Juvenile, at the visitor center bird feeder, west side
+
+- date: 2015-12-21
+- HooMer:
+    notes: about a dozen mid-river just south of the interstate bridge.
+
+- date: 2016-01-29
+- xChickadee
+
+- date: 2016-02-08
+- codes: AmeGol HouFin NorCar RiBGul HooMer
+
+- date: 2016-03-20
+- codes: SonSpa NorCar HouFin TreSwa AmeRob EurSta
+
+- date: 2016-03-21
+- codes: Killde Osprey ReWBla PerFal
+
+- date: 2016-04-05
+- codes: HouSpa NorFli DoCCor CanGoo AmeGol AmeRob SonSpa EurSta Mallar GreEgr TreSwa NorCar BnHCow ReWBla
+
+- date: 2016-04-06
+- xChickadee
+- SonSpa
+- Killde
+- TreSwa
+- NorFli
+

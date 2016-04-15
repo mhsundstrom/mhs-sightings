@@ -1,0 +1,20 @@
+{
+  "sightings": [
+    {
+      "country": "Canada",
+      "date": "2013-08-04",
+      "key": "commonnighthawk",
+      "location": "View Royal, British Columbia",
+      "notes": "Heard only\nId by cam and joy\nTime: 2013-08-04 13:42:30",
+      "state": ""
+    },
+    {
+      "country": "Canada",
+      "date": "2013-08-12",
+      "key": "commonnighthawk",
+      "location": "LatLon (-124.85098226, 49.29936476), British Columbia",
+      "notes": "Heard only, matched call sound\nTime: 2013-08-12 20:42:45",
+      "state": ""
+    }
+  ]
+}

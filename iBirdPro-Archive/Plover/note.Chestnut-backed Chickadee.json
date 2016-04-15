@@ -1,0 +1,28 @@
+{
+  "sightings": [
+    {
+      "country": "Canada",
+      "date": "2013-08-04",
+      "key": "chestnutbackedchickadee",
+      "location": "View Royal, British Columbia",
+      "notes": "At cam and joys\nTime: 2013-08-04 14:06:25",
+      "state": ""
+    },
+    {
+      "country": "Canada",
+      "date": "2013-08-11",
+      "key": "chestnutbackedchickadee",
+      "location": "LatLon (-124.85077213, 49.2992674), British Columbia",
+      "notes": "Springfield\nHeard only\nTime: 2013-08-11 11:39:04",
+      "state": ""
+    },
+    {
+      "country": "United States",
+      "date": "2013-11-18",
+      "key": "chestnutbackedchickadee",
+      "location": "Via Floreado, Orinda",
+      "notes": "\nTime: 2013-11-18 09:57:44",
+      "state": "California"
+    }
+  ]
+}

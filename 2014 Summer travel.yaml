@@ -1,0 +1,166 @@
+- date: 2014-07-03
+- region: Washington
+- subloc: Scullywest
+- codes: HerThr BelKin BkCChi
+
+- date: 2014-07-04
+- codes: NorCro SpoTow BkCChi
+
+- date: 2014-07-05
+- subloc: Snohomish, Jardin del Sol
+# wedding
+- codes: NorFli SteJay ReWBla BkCChi SonSpa
+
+- date: 2014-07-01
+- region: Wyoming
+- subloc: Lyman, campground
+- WesMea
+
+- date: 2014-07-08
+- region: Port Alberni
+- subloc: Springfield
+- codes: ComLoo BalEag
+- date: 2014-07-09
+- codes: ComRav SpoTow HerThr PilWoo
+- owl sp.
+- date: 2014-07-10
+- BalEag
+
+- date: 2014-07-06
+- region: Washington
+- subloc: North Creek Park
+- codes: NorCro BkCChi SonSpa AmeGol MarWre BarSwa ReWBla HerThr
+
+- date: 2014-07-08
+- region: Port Alberni
+- subloc: Springfield
+- ComLoo:
+    notes: heard only, twice.
+- GrHOwl:
+    notes: heard twice, hoo-hoo-hoo
+
+- date: 2014-07-09
+- ReBNut
+- date: 2014-07-10
+- BalEag
+
+- date: 2014-07-12
+- region: British Columbia
+- subloc: Deer Group
+- codes: GrHOwl BalEag ReBNut ComRav AmeRob SonSpa PilWoo HerThr SpoTow
+- codes: HouWre EuCDov BalEag
+- white-winged gull sp.
+- codes: NorCro BelKin BalEag
+- hummingbird sp.
+- codes: VarThr Willet
+- date: 2014-07-13
+- codes: VarThr AmeRob BelKin BkCChi NorCro
+- kinglet sp.
+- codes: SonSpa
+- white-winged gull sp.
+- codes: ComRav BalEag GrBHer BlkOys HarDuc
+
+- date: 2014-07-14
+- region: Port Alberni
+- subloc: Sproat Lake
+- DowWoo
+
+- date: 2014-07-18
+- region: Port Alberni
+- subloc: Kitsuksis
+- codes: NorCro EuCDov SonSpa AmeRob HerThr SpoTow BelKin
+- Fox Sparrow (Sooty)
+- codes: EurSta ChBChi Mallar HouSpa ReBNut Bushti
+- white-winged gull sp.
+- Yellow-rumped Warbler (Audubon's)
+- ComRav
+- Black-throated Gray Warbler:
+    notes: good view, in the bushes next to the river.
+
+- region: Oregon
+- subloc: Albany KOA
+- date: 2014-07-23
+- GrHOwl:
+    notes: heard at night
+
+- subloc: Crater Lake and Diamond Lake campsite
+- date: 2014-07-23
+- BrnCre:
+    notes: At the campsite.
+
+- date: 2014-07-24
+- DaEJun
+- nuthatch sp.:
+    notes: heard only several times
+- ClaNut:
+    notes: at Crater Lake
+- ShSHaw:
+    notes: hunting at the campsite; got a good look
+- Osprey:
+    notes: hovering over Diamond Lake
+- MouChi:
+    notes: in the trees at campsite
+- WewPew:
+    notes: seen several times; very plain, got a good look
+
+- date: 2014-07-25
+- region: Oregon
+- subloc: Highway 97 near Klamath Falls
+- American White Pelican
+
+- date: 2014-07-26
+- region: California
+- subloc: Concord
+- codes: HouFin AmeRob AnnHum BewWre Bushti MouDov
+- Hooded Oriole:
+    notes: Western version. tops of trees, juvenile 1st year, bright yellow
+# in the afternoon
+- codes: WhBNut DowWoo SpoTow WesBlu
+
+- date: 2014-07-27
+- codes: AmeRob HouFin MouDov Bushti AnnHum BewWre HooOri
+- chickadee sp.
+
+- date: 2014-07-28
+- subloc: Costanoa
+- codes: CalQua BrnPel BarSwa
+- gull sp.
+- HeeGul
+
+- date: 2014-08-01
+- subloc: Idyllwild
+- AmeGol
+- MouBlu:
+    notes: both mature and juvenile
+- WeSJay
+- hummingbird sp.
+- CanWre:
+    notes: heard only, distinctive.
+
+- date: 2014-08-02
+- CanWre
+- BaTPig
+- flycatcher sp.
+- WesBlu
+- MouChi
+- MouBlu
+- CalTow
+- PygNut:
+    notes: Good id, flitting around in the trees.
+- hummingbird sp.
+- WeSJay
+- ComRav
+
+- date: 2014-08-03
+- WesTan:
+    notes: male and female
+- CalQua
+- flycatcher sp.:
+    notes: a bit like a Willow Flycatcher. adult feeding juvenile. Juvenile tail brownish.
+- AcoWoo:
+    notes: two
+- AnnHum
+- SpoTow
+- MouChi
+- OakTit
+- TurVul

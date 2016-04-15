@@ -1,0 +1,28 @@
+{
+  "sightings": [
+    {
+      "country": "United States",
+      "date": "2013-07-30",
+      "key": "beltedkingfisher",
+      "location": "13th Dr SE, Bothell",
+      "notes": "At the house\nTime: 2013-07-30 18:45:19",
+      "state": "Washington"
+    },
+    {
+      "country": "United States",
+      "date": "2013-08-15",
+      "key": "beltedkingfisher",
+      "location": "13th Dr SE, Bothell",
+      "notes": "Heard only\nTime: 2013-08-15 08:45:01",
+      "state": "Washington"
+    },
+    {
+      "country": "United States",
+      "date": "2013-11-26",
+      "key": "beltedkingfisher",
+      "location": "Castle Rock",
+      "notes": "\nTime: 2013-11-26 14:43:30",
+      "state": "Washington"
+    }
+  ]
+}

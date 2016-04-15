@@ -1,0 +1,54 @@
+- country: United States
+- state: Ohio
+
+- date: 2015-11-28
+- location: Goodale Park
+- codes: HouSpa DaEJun
+
+- location: Scioto Greenways
+- codes: Mallar CanGoo GrBHer
+
+- date: 2015-12-04
+- xChickadee
+
+- location: Olentangy River
+- codes: BelKin HooMer AmeRob
+
+- date: 2015-12-11
+- location: Scioto Greenways
+- BelKin
+
+- date: 2015-12-16
+- location: Scioto River
+- BelKin
+
+- date: 2015-12-24
+- location: Olentangy River
+- codes: GrBHer ReWBla NorCar
+
+- date: 2016-01-16
+- codes: SonSpa AmeGol
+
+- location: Scioto Greenways
+- date: 2016-01-18
+- DaEJun
+
+- date: 2016-01-28
+- NorCar
+
+- date: 2016-01-31
+- location: Olentangy River
+- codes: HouSpa NorCar DowWoo NorMoc SonSpa CarWre
+
+- date: 2016-02-06
+- location: Columbus
+- WhTSpa:
+    notes: Columbus Commons
+
+- date: 2016-03-23
+- location: Olentangy River
+- BelKin
+
+- date: 2016-04-10
+- location: Scioto Greenways
+- GrBHer

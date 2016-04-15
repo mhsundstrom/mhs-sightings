@@ -1,0 +1,20 @@
+{
+  "sightings": [
+    {
+      "country": "United States",
+      "date": "2013-07-26",
+      "key": "blackbilledmagpie",
+      "location": "Ryegate",
+      "notes": "\nTime: 2013-07-26 09:55:33",
+      "state": "Montana"
+    },
+    {
+      "country": "United States",
+      "date": "2013-11-14",
+      "key": "blackbilledmagpie",
+      "location": "US 101, Santa Maria",
+      "notes": "\nTime: 2013-11-14 09:07:10",
+      "state": "California"
+    }
+  ]
+}

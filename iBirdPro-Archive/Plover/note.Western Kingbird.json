@@ -1,0 +1,20 @@
+{
+  "sightings": [
+    {
+      "country": "United States",
+      "date": "2013-07-25",
+      "key": "westernkingbird",
+      "location": "Hardin",
+      "notes": "campsite\nTime: 2013-07-25 18:17:55",
+      "state": "Montana"
+    },
+    {
+      "country": "United States",
+      "date": "2013-07-26",
+      "key": "westernkingbird",
+      "location": "Townsend",
+      "notes": "Several in campsite incl juveniles\nTime: 2013-07-26 17:01:04",
+      "state": "Montana"
+    }
+  ]
+}
