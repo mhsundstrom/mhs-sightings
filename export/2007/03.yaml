@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2007-03-18
 
-- region: Oklahoma
+- country: United States
+- state: Oklahoma
+- location: Oklahoma
 
-- subloc: Norman; nearby fields
+- location: Norman; nearby fields, Oklahoma
 
 - Red-winged Blackbird
 - Canada Goose
@@ -33,7 +35,7 @@
 
 - date: 2007-03-19
 
-- subloc: ''
+- location: Oklahoma
 
 - Rock Pigeon
 - European Starling
@@ -51,9 +53,11 @@
 
 - date: 2007-03-20
 
-- region: New Mexico
+- country: United States
+- state: New Mexico
+- location: New Mexico
 
-- subloc: Rio Grand Nature
+- location: Rio Grand Nature, New Mexico
 
 - Red-winged Blackbird
 - Canada Goose
@@ -84,7 +88,7 @@
 - Ring-necked Duck
 - Greater Scaup
 
-- subloc: Sandia
+- location: Sandia, New Mexico
 
 - American Crow
 - Common Raven
@@ -94,7 +98,7 @@
 
 - date: 2007-03-21
 
-- subloc: Socarro
+- location: Socarro, New Mexico
 
 - Burrowing Owl
 #- Brewer's Blackbird
@@ -161,11 +165,11 @@
 
 - date: 2007-03-22
 
-- subloc: Albuquerque
+- location: Albuquerque, New Mexico
 
 - Scaled Quail
 
-- subloc: Tijera
+- location: Tijera, New Mexico
 
 #- Pinyon Jay
 - Ladder-backed Woodpecker
@@ -196,4 +200,3 @@
 - Black-throated Sparrow
 - Gambel's Quail:
     notes: ho
-

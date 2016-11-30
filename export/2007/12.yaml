@@ -2,17 +2,20 @@
 # generated 2013-10-19
 - date: 2007-12-24
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Confluence
+- location: Confluence, Columbus
 
 - Hooded Merganser
 
 - date: 2007-12-26
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Belted Kingfisher
-

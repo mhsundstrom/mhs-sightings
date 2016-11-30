@@ -1,6 +1,8 @@
 # Created on 26 April 2014 from entries in the guide book "Hawaii's Birds"
-- region: Hawaii
-- subloc: Kauai, Kilauea Point
+- country: United States
+- state: Hawaii
+- location: Hawaii
+- location: Kauai, Kilauea Point, Hawaii
 - date: 2007-08-03
 - Wedge-tailed Shearwater:
     notes: Nesting and flying
@@ -13,36 +15,36 @@
 - Hawaiian Goose
 
 
-- subloc: Kauai, Kilauea, garden
+- location: Kauai, Kilauea, garden, Hawaii
 - Great Frigatebird:
     notes: numerous
 
 - date: 2007-08-05
-- subloc: Kauai, east of Hyatt
+- location: Kauai, east of Hyatt, Hawaii
 - White-tailed Tropicbird
 - date: 2007-08-08
 - Wandering Tattler
 
 - date: 2007-08-02
-- subloc: Kauai, Hanalei NWR
+- location: Kauai, Hanalei NWR, Hawaii
 - Black-necked Stilt:
     notes: seen at viewpoint
 
-- subloc: Kauai, condo, lower lawn
+- location: Kauai, condo, lower lawn, Hawaii
 - date: 2007-08-02
 - Pacific Golden-Plover:
     quality: Probable
     notes: breeding plumage. Also seen Aug 4 and Aug 5
 
-- subloc: Kauai, coffee
+- location: Kauai, coffee, Hawaii
 - Cattle Egret
 
 - date: 2007-08-07
-- subloc: Kauai, Kokee
+- location: Kauai, Kokee, Hawaii
 - Japanese White-eye
 - Red-crested Cardinal
 
-- subloc: Kauai
+- location: Kauai, Hawaii
 - date: 2007-08-02
 - Spotted Dove
 - Zebra Dove
@@ -59,14 +61,14 @@
 - Java Sparrow
 - Chestnut Munia
 
-- subloc: Kauai, golf course
+- location: Kauai, golf course, Hawaii
 - date: 2007-08-02
 - Red-crested Cardinal
 
 
 
 # Don't include for now; don't know if these are from 2005 or 2007
-#- subloc: Kauai
+- location: Kauai, Hawaii
 #- date: 2007-08-04
 #- Mallard:
 #    notes: date uncertain

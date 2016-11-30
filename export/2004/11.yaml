@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2004-11-02
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Belted Kingfisher
 - Bufflehead
@@ -10,7 +12,9 @@
 
 - date: 2004-11-04
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bufflehead
 - Harlequin Duck
@@ -18,8 +22,10 @@
 - Surf Scoter
 
 - date: 2004-11-26
-- region: Oregon
-- subloc: Astoria
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: Astoria, Oregon
 
 - American Coot
 - Black-capped Chickadee:
@@ -36,29 +42,39 @@
 
 - date: 2004-11-27
 
-- region: Oregon
-- subloc: Boiler Bay
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: Boiler Bay, Oregon
 
 - Black Oystercatcher
 - Black Turnstone:
     quality: Probable
-- region: Oregon
-- subloc: Cannon Beach
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: Cannon Beach, Oregon
 
 - Belted Kingfisher
-- region: Oregon
-- subloc: Rockaway
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: Rockaway, Oregon
 
 - Belted Kingfisher
 - Great Blue Heron
-- region: Oregon
-- subloc: Tillamook
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: Tillamook, Oregon
 
 - Bufflehead
 
 - date: 2004-11-28
-- region: Oregon
-- subloc: Oregon Dunes
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: Oregon Dunes, Oregon
 
 - Northern Flicker
 - Red-breasted Nuthatch
@@ -70,13 +86,16 @@
 
 - date: 2004-11-29
 
-- region: California
-- subloc: Eureka
+- country: United States
+- state: California
+- location: California
+- location: Eureka, California
 
 - Great Egret
 
-- region: California
-- subloc: Klamath River
+- country: United States
+- state: California
+- location: California
+- location: Klamath River, California
 
 - California Quail
-

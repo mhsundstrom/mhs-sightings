@@ -2,20 +2,23 @@
 # generated 2013-10-19
 - date: 1997-04-16
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Beck St
+- location: Beck St, Columbus
 
 - Brown Thrasher
 
 - date: 1997-04-20
 
-- region: Dawes Arboretum
+- country: United States
+- state: Ohio
+- location: Dawes Arboretum
 
-- subloc: ''
+- location: Dawes Arboretum
 
 - Brown Thrasher
 - Golden-crowned Kinglet
 - Tree Swallow
 - White-crowned Sparrow
-

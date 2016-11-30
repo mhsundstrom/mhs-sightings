@@ -2,23 +2,29 @@
 # generated 2013-10-19
 - date: 2006-04-13
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Olentangy near OSU
+- location: Olentangy near OSU, Columbus
 
 - Wood Duck
 
 - date: 2006-04-15
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
-- subloc: ''
+- location: Highbanks Metro Park
 
 - Pileated Woodpecker
 
 - date: 2006-04-16
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - White-throated Sparrow
 
@@ -26,4 +32,3 @@
 
 - American Coot:
     notes: group of 6
-

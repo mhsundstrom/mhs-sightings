@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2003-07-04
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: Schmitz Park
+- location: Schmitz Park, Alki
 
 - Black-capped Chickadee:
     notes: several, including one larger one that walked with wings spread along a
@@ -20,9 +22,11 @@
 
 - date: 2003-07-05
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: 1 mature, 1 juvenile; have seen mature daily for about a week
@@ -30,9 +34,11 @@
 
 - date: 2003-07-06
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Seattle
+- location: Seattle, Seattle
 
 - Bald Eagle:
     notes: '2'
@@ -44,17 +50,21 @@
 
 - date: 2003-07-07
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Osprey
 
 - date: 2003-07-08
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Mt Rainier
+- location: Mt Rainier, Washington
 
 - American Robin
 - Black-capped Chickadee
@@ -74,9 +84,11 @@
 
 - date: 2003-07-12
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - American Goldfinch
 - Black-crowned Night-Heron:
@@ -89,22 +101,28 @@
 
 - date: 2003-07-15
 
-- region: Sharon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Sharon Woods Metro Park
 
 - Gray Catbird
 
 - date: 2003-07-19
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Pickerington Pond
+- location: Pickerington Pond, Columbus
 
 - American Goldfinch
 - Red-winged Blackbird
 
-- region: Dawes Arboretum
+- country: United States
+- state: Ohio
+- location: Dawes Arboretum
 
-- subloc: ''
+- location: Dawes Arboretum
 
 - American Robin
 - Blue Jay
@@ -119,7 +137,9 @@
 
 - date: 2003-07-23
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
 - American Crow
 - Blue Jay
@@ -138,7 +158,9 @@
 
 - date: 2003-07-26
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
 - American Goldfinch
 - Blue Jay
@@ -149,4 +171,3 @@
 - Ruby-throated Hummingbird
 - White-breasted Nuthatch
 - vireo sp.
-

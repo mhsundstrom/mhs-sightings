@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2001-08-01
 
-- region: Pennsylvania
+- country: United States
+- state: Pennsylvania
+- location: Pennsylvania
 
-- subloc: Gettysburg
+- location: Gettysburg, Pennsylvania
 
 - Eastern Kingbird
 - Red-headed Woodpecker:
@@ -12,9 +14,11 @@
 
 - date: 2001-08-02
 
-- region: New York
+- country: United States
+- state: New York
+- location: New York
 
-- subloc: Jamaica Bay NWR
+- location: Jamaica Bay NWR, New York
 
 - Black Skimmer:
     notes: saw skimming activity
@@ -35,9 +39,11 @@
 
 - date: 2001-08-05
 
-- region: Rhode Island
+- country: United States
+- state: Rhode Island
+- location: Rhode Island
 
-- subloc: Sachuest NWR
+- location: Sachuest NWR, Rhode Island
 
 - Common Yellowthroat:
     notes: 95% certain
@@ -48,8 +54,7 @@
 - Semipalmated Plover:
     notes: several
 
-- subloc: Trustom Pond NWR
+- location: Trustom Pond NWR, Rhode Island
 
 - Mute Swan:
     notes: flock of 30-40
-

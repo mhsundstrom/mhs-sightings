@@ -2,34 +2,39 @@
 # generated 2013-10-19
 - date: 1999-09-10
 
-- region: Michigan
+- country: United States
+- state: Michigan
+- location: Michigan
 
-- subloc: Pictured Rocks
+- location: Pictured Rocks, Michigan
 
 - Common Merganser
 - White-rumped Sandpiper:
     notes: saw pair-white rump prominent
 - Wood Duck
 
-- subloc: Seney NWR
+- location: Seney NWR, Michigan
 
 - Trumpeter Swan
 
 - date: 1999-09-23
 
-- region: Vermont
+- country: United States
+- state: Vermont
+- location: Vermont
 
-- subloc: NY border at US2
+- location: NY border at US2, Vermont
 
 - Whimbrel:
     notes: head stripes prominent+curved bill
 
 - date: 1999-09-30
 
-- region: Pennsylvania
+- country: United States
+- state: Pennsylvania
+- location: Pennsylvania
 
-- subloc: Honesdale
+- location: Honesdale, Pennsylvania
 
 - Great Horned Owl:
     notes: heard at night
-

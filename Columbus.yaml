@@ -1,5 +1,7 @@
-- region: Columbus
-- subloc: Olentangy River
+- country: United States
+- state: Ohio
+- location: Columbus
+- location: Olentangy River, Columbus
 - date: 2013-10-20
 - Belted Kingfisher
 - American Goldfinch
@@ -7,13 +9,13 @@
 - House Sparrow
 - Mallard
 - date: 2014-01-15
-- subloc: Scioto River
+- location: Scioto River, Columbus
 - codes: CanGoo HooMer Mallar GrBHer RiBGul
 - date: 2014-02-02
-- subloc: Schiller Park
+- location: Schiller Park, Columbus
 - Redhead
 - date: 2014-02-03
-- subloc: Scioto River
+- location: Scioto River, Columbus
 - BelKin
 - date: 2014-02-05
 - DaEJun
@@ -40,10 +42,10 @@
 - date: 2014-03-17
 - codes: AmeCoo RiBGul
 - date: 2014-04-05
-- subloc: Olentangy River
+- location: Olentangy River, Columbus
 - WhTSpa:
     notes: heard along the trail
-- subloc: Scioto River
+- location: Scioto River, Columbus
 - date: 2014-04-12
 - GrBHer
 - date: 2014-04-16
@@ -51,17 +53,17 @@
 - date: 2014-04-20
 - NorFli
 - date: 2014-04-27
-- subloc: Antrim Lake
+- location: Antrim Lake, Columbus
 - BelKin
 - date: 2014-04-28
-- subloc: Scioto River
+- location: Scioto River, Columbus
 - AmeCoo
 - date: 2014-05-05
 - WooDuc:
     notes: pair at North Bank Park
 
 - date: 2014-05-24
-- subloc: Prairie Oaks Metro Park
+- location: Prairie Oaks Metro Park, Columbus
 # 10 mile runwalk
 - AmeGol
 - AmeRob
@@ -85,16 +87,18 @@
 - YelWar
 
 - date: 2014-05-25
-- subloc: Scioto Greenways
+- location: Scioto Greenways, Columbus
 - CedWax:
     notes: spotted by Krystin, near Main St bridge
 
 - date: 2014-05-26
-- subloc: North Bank Park
+- location: North Bank Park, Columbus
 - WooThr
 - EaWPew
 
-- region: Slate Run Metro Park
+- country: United States
+- state: Ohio
+- location: Slate Run Metro Park
 - date: 2014-06-01
 - codes: ChiSpa TufTit NorCar PilWoo AmeGol ReWBla EasTow EaWPew EasPho
 - codes: EasMea TreSwa TurVul HouWre AmeRob CanGoo Mallar
@@ -107,8 +111,10 @@
 - AmeWoo:
     notes: heard only, in the fields between wetlands and forest
 
-- region: Columbus
-- subloc: Scioto River
+- country: United States
+- state: Ohio
+- location: Columbus
+- location: Scioto River, Columbus
 - date: 2014-08-12
 - CedWax:
     notes: near the Main St bridge
@@ -117,11 +123,11 @@
 - codes: GreEgr GrBHer TurVul GryCat AmeGol AmeRob HouSpa BarSwa
 
 - date: 2014-08-17
-- subloc: Olentangy River near Ohio State
+- location: Olentangy River near Ohio State, Columbus
 - codes: BarSwa BelKin Mallar CanGoo
 
 - date: 2014-09-01
-- subloc: Scioto River
+- location: Scioto River, Columbus
 - DoCCor
 
 - date: 2014-10-02
@@ -148,18 +154,18 @@
 - xChickadee
 
 - date: 2014-12-01
-- subloc: Highway 315
+- location: Highway 315, Columbus
 - codes: RocPig AmeCro BluJay
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 - date: 2014-12-02
 - codes: AmeGol RiBGul DaEJun Mallar NorCar DowWoo
 
-- subloc: Short Street
+- location: Short Street, Columbus
 - date: 2015-01-01
 - codes: SonSpa NorMoc
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 - date: 2015-01-11
 - codes: DaEJun HooMer NorCar SonSpa Mallar CanGoo AmeRob GrBHer
 
@@ -170,14 +176,14 @@
 - RiBGul
 
 - date: 2015-01-18
-- subloc: Olentangy River
+- location: Olentangy River, Columbus
 - DowWoo:
     notes: heard only
 - AmeGol
 - HooMer
 
 - date: 2015-02-01
-- subloc: Scioto River
+- location: Scioto River, Columbus
 - codes: HooMer Mallar CanGoo
 
 - date: 2015-02-07
@@ -190,18 +196,18 @@
 - codes: NorMoc ReWBla
 
 - date: 2015-03-31
-- subloc: Confluence
+- location: Confluence, Columbus
 - codes: TurVul EaWPew CanGoo Mallar
 
 - date: 2015-04-02
 - codes: WhTSpa NorCar EaWPew CanGoo Mallar
 
 - date: 2015-04-03
-- subloc: Scioto Greenways
+- location: Scioto Greenways, Columbus
 - DowWoo
 
 - date: 2015-06-19
-- subloc: Confluence
+- location: Confluence, Columbus
 - CedWax:
     notes: a group of several seen at the Confluence bridge
 
@@ -214,11 +220,10 @@
 - date: 2015-10-14
 - codes: BelKin Killde CanGoo
 
-- subloc: Scioto Greenways
+- location: Scioto Greenways, Columbus
 - date: 2015-11-21
 - AmeCoo
 
 - date: 2015-11-27
 - CarWre:
     notes: heard only
-

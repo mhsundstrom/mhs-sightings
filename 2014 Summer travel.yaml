@@ -1,24 +1,29 @@
 - date: 2014-07-03
-- region: Washington
-- subloc: Scullywest
+- country: United States
+- state: Washington
+- location: Washington
+- location: Scullywest, Washington
 - codes: HerThr BelKin BkCChi
 
 - date: 2014-07-04
 - codes: NorCro SpoTow BkCChi
 
 - date: 2014-07-05
-- subloc: Snohomish, Jardin del Sol
+- location: Snohomish, Jardin del Sol, Washington
 # wedding
 - codes: NorFli SteJay ReWBla BkCChi SonSpa
 
 - date: 2014-07-01
-- region: Wyoming
-- subloc: Lyman, campground
+- country: United States
+- state: Wyoming
+- location: Wyoming
+- location: Lyman, campground, Wyoming
 - WesMea
 
 - date: 2014-07-08
-- region: Port Alberni
-- subloc: Springfield
+- country: Canada
+- location: Port Alberni
+- location: Springfield, Port Alberni
 - codes: ComLoo BalEag
 - date: 2014-07-09
 - codes: ComRav SpoTow HerThr PilWoo
@@ -27,13 +32,16 @@
 - BalEag
 
 - date: 2014-07-06
-- region: Washington
-- subloc: North Creek Park
+- country: United States
+- state: Washington
+- location: Washington
+- location: North Creek Park, Washington
 - codes: NorCro BkCChi SonSpa AmeGol MarWre BarSwa ReWBla HerThr
 
 - date: 2014-07-08
-- region: Port Alberni
-- subloc: Springfield
+- country: Canada
+- location: Port Alberni
+- location: Springfield, Port Alberni
 - ComLoo:
     notes: heard only, twice.
 - GrHOwl:
@@ -45,8 +53,9 @@
 - BalEag
 
 - date: 2014-07-12
-- region: British Columbia
-- subloc: Deer Group
+- country: Canada
+- location: British Columbia
+- location: Deer Group, British Columbia
 - codes: GrHOwl BalEag ReBNut ComRav AmeRob SonSpa PilWoo HerThr SpoTow
 - codes: HouWre EuCDov BalEag
 - white-winged gull sp.
@@ -61,13 +70,15 @@
 - codes: ComRav BalEag GrBHer BlkOys HarDuc
 
 - date: 2014-07-14
-- region: Port Alberni
-- subloc: Sproat Lake
+- country: Canada
+- location: Port Alberni
+- location: Sproat Lake, Port Alberni
 - DowWoo
 
 - date: 2014-07-18
-- region: Port Alberni
-- subloc: Kitsuksis
+- country: Canada
+- location: Port Alberni
+- location: Kitsuksis, Port Alberni
 - codes: NorCro EuCDov SonSpa AmeRob HerThr SpoTow BelKin
 - Fox Sparrow (Sooty)
 - codes: EurSta ChBChi Mallar HouSpa ReBNut Bushti
@@ -77,13 +88,15 @@
 - Black-throated Gray Warbler:
     notes: good view, in the bushes next to the river.
 
-- region: Oregon
-- subloc: Albany KOA
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: Albany KOA, Oregon
 - date: 2014-07-23
 - GrHOwl:
     notes: heard at night
 
-- subloc: Crater Lake and Diamond Lake campsite
+- location: Crater Lake and Diamond Lake campsite, Oregon
 - date: 2014-07-23
 - BrnCre:
     notes: At the campsite.
@@ -104,13 +117,17 @@
     notes: seen several times; very plain, got a good look
 
 - date: 2014-07-25
-- region: Oregon
-- subloc: Highway 97 near Klamath Falls
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: Highway 97 near Klamath Falls, Oregon
 - American White Pelican
 
 - date: 2014-07-26
-- region: California
-- subloc: Concord
+- country: United States
+- state: California
+- location: California
+- location: Concord, California
 - codes: HouFin AmeRob AnnHum BewWre Bushti MouDov
 - Hooded Oriole:
     notes: Western version. tops of trees, juvenile 1st year, bright yellow
@@ -122,13 +139,13 @@
 - chickadee sp.
 
 - date: 2014-07-28
-- subloc: Costanoa
+- location: Costanoa, California
 - codes: CalQua BrnPel BarSwa
 - gull sp.
 - HeeGul
 
 - date: 2014-08-01
-- subloc: Idyllwild
+- location: Idyllwild, California
 - AmeGol
 - MouBlu:
     notes: both mature and juvenile

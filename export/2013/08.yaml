@@ -2,9 +2,10 @@
 # generated 2013-10-19
 - date: 2013-08-02
 
-- region: Port Alberni
+- country: Canada
+- location: Port Alberni
 
-- subloc: Springfield
+- location: Springfield, Port Alberni
 
 - Northern Flicker
 - American Robin:
@@ -16,17 +17,19 @@
 
 - date: 2013-08-04
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Victoria
+- location: Victoria, British Columbia
 
 - Common Nighthawk
 
 - date: 2013-08-08
 
-- region: Port Alberni
+- country: Canada
+- location: Port Alberni
 
-- subloc: Harbor
+- location: Harbor, Port Alberni
 
 - Bald Eagle
 - Red-necked Grebe:
@@ -34,24 +37,28 @@
 
 - date: 2013-08-11
 
-- subloc: Springfield
+- location: Springfield, Port Alberni
 
 - Chestnut-backed Chickadee
 - Red-breasted Nuthatch
 
 - date: 2013-08-17
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Ferry near Edmonds
+- location: Ferry near Edmonds, Washington
 
 - Pigeon Guillemot
 
 - date: 2013-08-23
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Meadowdale Park
+- location: Meadowdale Park, Seattle
 
 - Killdeer
 - gull sp.
@@ -59,9 +66,11 @@
 
 - date: 2013-08-25
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Scullywest
+- location: Scullywest, Washington
 
 - Belted Kingfisher
 - Red-breasted Nuthatch
@@ -79,16 +88,18 @@
 
 - date: 2013-08-28
 
-- subloc: Big Pines Campground
+- location: Big Pines Campground, Washington
 
 - Red-winged Blackbird
 - o: raptor
 
 - date: 2013-08-29
 
-- region: Oregon
+- country: United States
+- state: Oregon
+- location: Oregon
 
-- subloc: Farewell Bend State Park
+- location: Farewell Bend State Park, Oregon
 
 - Canada Goose
 - American Coot
@@ -98,26 +109,28 @@
 - o: shorebird, smaller than Killdeer, brown back, white under. Sandpiper?
 - Black-billed Magpie
 
-- subloc: I-84
+- location: I-84, Oregon
 
 - American Crow
 - Black-billed Magpie
 
-- subloc: La Grande
+- location: La Grande, Oregon
 
 - Red-tailed Hawk
 
-- subloc: Umatilla
+- location: Umatilla, Oregon
 
 - House Sparrow
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Big Pines Campground
+- location: Big Pines Campground, Washington
 
 - Black-billed Magpie
 
-- subloc: WA221/Zillah
+- location: WA221/Zillah, Washington
 
 - American Crow
 - Red-tailed Hawk
@@ -126,31 +139,32 @@
 
 - date: 2013-08-30
 
-- region: Idaho
+- country: United States
+- state: Idaho
+- location: Idaho
 
-- subloc: ID-78
+- location: ID-78, Idaho
 
 - Black-billed Magpie
 - American Crow
 - Rock Pigeon
 
-- subloc: Jerome KOA
+- location: Jerome KOA, Idaho
 
 - American Goldfinch
 
 - date: 2013-08-31
 
-- subloc: I-86
+- location: I-86, Idaho
 
 - Mourning Dove
 - Black-billed Magpie
 
-- subloc: Jerome KOA
+- location: Jerome KOA, Idaho
 
 - Great Horned Owl:
     notes: Two, perched on nearby pole in campground; hooted.
 
-- subloc: Montpelier
+- location: Montpelier, Idaho
 
 - Black-capped Chickadee
-

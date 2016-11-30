@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2008-09-02
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Double-crested Cormorant:
     notes: common recently, up to 3
@@ -17,8 +19,9 @@
 
 - date: 2008-09-26
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
 - Eastern Bluebird:
     notes: 'several in large field '
-

@@ -2,14 +2,17 @@
 # generated 2013-10-19
 - date: 2002-10-01
 
-- region: Port Alberni
+- country: Canada
+- location: Port Alberni
 
 - Common Loon
 - Spruce Grouse
 
 - date: 2002-10-08
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Robin
 - American Wigeon
@@ -25,21 +28,24 @@
 - White-throated Sparrow:
     notes: heard only
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Ballard Locks
+- location: Ballard Locks, Seattle
 
 - Belted Kingfisher
 
 - date: 2002-10-15
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 
 - date: 2002-10-19
 
 - Great Blue Heron
-

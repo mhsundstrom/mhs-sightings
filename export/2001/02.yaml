@@ -2,9 +2,10 @@
 # generated 2013-10-19
 - date: 2001-02-04
 
-- region: Alberta
+- country: Canada
+- location: Alberta
 
-- subloc: Edmonton
+- location: Edmonton, Alberta
 
 - Black-billed Magpie
 - Black-capped Chickadee
@@ -12,25 +13,31 @@
 
 - date: 2001-02-13
 
-- region: Sharon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Sharon Woods Metro Park
 
-- subloc: ''
+- location: Sharon Woods Metro Park
 
 - Golden-crowned Kinglet
 - White-breasted Nuthatch
 
 - date: 2001-02-15
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
 - Pileated Woodpecker:
     notes: excellent view 20 feet away
 
 - date: 2001-02-24
 
-- region: Arizona
+- country: United States
+- state: Arizona
+- location: Arizona
 
-- subloc: Tucson - Ventana Canyon
+- location: Tucson - Ventana Canyon, Arizona
 
 - Cactus Wren
 - Canyon Wren
@@ -39,14 +46,14 @@
 
 - date: 2001-02-25
 
-- subloc: Saguaro NP - West
+- location: Saguaro NP - West, Arizona
 
 - Cactus Wren
 - Canyon Wren
 - Costa's Hummingbird:
     notes: prominent purple and black below face
 
-- subloc: Tucson - Jacobson
+- location: Tucson - Jacobson, Arizona
 
 - Cactus Wren:
     notes: singing
@@ -54,9 +61,11 @@
 
 - date: 2001-02-27
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
-- subloc: ''
+- location: Discovery Park
 
 - Bewick's Wren
 - Bushtit
@@ -66,4 +75,3 @@
 - Song Sparrow
 - Spotted Towhee
 - Western Sandpiper
-

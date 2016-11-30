@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2000-05-26
 
-- region: Orange County
+- country: United States
+- state: California
+- location: Orange County
 
-- subloc: Back Bay
+- location: Back Bay, Orange County
 
 - Double-crested Cormorant
 
@@ -19,4 +21,3 @@
 - Pied-billed Grebe
 - Ruddy Duck
 - Snowy Egret
-

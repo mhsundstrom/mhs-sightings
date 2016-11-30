@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2006-01-05
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: San Francisco
+- location: San Francisco, California
 
 - American Coot
 - Brown Pelican
@@ -29,13 +31,13 @@
 
 - date: 2006-01-06
 
-- subloc: Orinda
+- location: Orinda, California
 
 - Black-capped Chickadee
 - Double-crested Cormorant
 - California Scrub-Jay
 
-- subloc: Round Valley Regional Park / Cosumnes River Preserve
+- location: Round Valley Regional Park / Cosumnes River Preserve, California
 
 - American Coot
 - American Crow
@@ -80,7 +82,7 @@
 
 - date: 2006-01-07
 
-- subloc: Alameda - Crown Beach
+- location: Alameda - Crown Beach, California
 
 - American Crow
 - Black-bellied Plover
@@ -88,7 +90,7 @@
 - Sanderling
 - Western Sandpiper
 
-- subloc: Oakland - Arrowhead Marsh
+- location: Oakland - Arrowhead Marsh, California
 
 - American Coot
 - American Wigeon
@@ -120,21 +122,24 @@
 - White-crowned Sparrow
 - Willet
 
-- subloc: Orinda
+- location: Orinda, California
 
 - Barn Owl:
     notes: heard only
 
 - date: 2006-01-24
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Hooded Merganser
 
 - date: 2006-01-28
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
 - Eastern Bluebird
 - Pileated Woodpecker
-

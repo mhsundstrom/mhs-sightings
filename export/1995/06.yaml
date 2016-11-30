@@ -2,10 +2,11 @@
 # generated 2013-10-19
 - date: 1995-06-01
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Post Ranch Inn
+- location: Post Ranch Inn, California
 
 - Wild Turkey:
     notes: flock of 10
-

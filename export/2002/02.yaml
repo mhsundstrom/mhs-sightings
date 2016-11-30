@@ -2,20 +2,24 @@
 # generated 2013-10-19
 - date: 2002-02-02
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
 - Redhead
 
 - date: 2002-02-06
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: East bay back roads
+- location: East bay back roads, California
 
 - Steller's Jay
 - Turkey Vulture
 
-- subloc: Lafayette Reservoir
+- location: Lafayette Reservoir, California
 
 - American Robin
 - Bald Eagle
@@ -25,13 +29,13 @@
 - California Scrub-Jay
 - o: blackish head, dark green top/back, yellow chest, white wing bars
 
-- subloc: Orinda
+- location: Orinda, California
 
 - Nuttall's Woodpecker
 - Oak Titmouse
 - Spotted Towhee
 
-- subloc: Point Pinole
+- location: Point Pinole, California
 
 - American Robin
 - Anna's Hummingbird
@@ -54,9 +58,11 @@
 
 - date: 2002-02-08
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
-- subloc: ''
+- location: Discovery Park
 
 - American Robin
 - Barrow's Goldeneye
@@ -86,4 +92,3 @@
 - Western Grebe
 - White-winged Scoter
 - Pacific Wren
-

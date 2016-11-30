@@ -2,41 +2,49 @@
 # generated 2013-10-19
 - date: 1999-03-01
 
-- region: North Carolina
+- country: United States
+- state: North Carolina
+- location: North Carolina
 
-- subloc: Beaufort
+- location: Beaufort, North Carolina
 
 - shorebird sp.:
     notes: Sandpiper
 
 - date: 1999-03-04
 
-- region: South Carolina
+- country: United States
+- state: South Carolina
+- location: South Carolina
 
-- subloc: Charleston
+- location: Charleston, South Carolina
 
 - Loggerhead Shrike
 
 - date: 1999-03-05
 
-- subloc: near Charleston
+- location: near Charleston, South Carolina
 
 - Anhinga
 
 - date: 1999-03-20
 
-- region: Oklahoma
+- country: United States
+- state: Oklahoma
+- location: Oklahoma
 
-- subloc: Wichita Mtns
+- location: Wichita Mtns, Oklahoma
 
 - Dark-eyed Junco
 - Savannah Sparrow
 
 - date: 1999-03-25
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Elkhorn Slough
+- location: Elkhorn Slough, California
 
 - American Coot
 - Forster's Tern
@@ -50,4 +58,3 @@
 
 - white egret sp.:
     notes: Egrets in the trees
-

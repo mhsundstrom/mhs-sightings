@@ -1,9 +1,11 @@
-- region: Ohio
+- country: United States
+- state: Ohio
+- location: Ohio
 - date: 2014-05-07
-- subloc: US 23 north central
+- location: US 23 north central, Ohio
 - CliSwa:
     notes: seen several times on the way to Maumee Bay SP
-- subloc: Maumee Bay State Park
+- location: Maumee Bay State Park, Ohio
 - date: 2014-05-07
 - codes: CasTer TreSwa AmeRob AmeGol ReWBla MouDov EurSta TufTit
 - codes: YelWar RuCKin HouSpa BkCChi RoBGro WhCSpa BalOri OrcOri
@@ -16,7 +18,7 @@
 - codes: BuWTea YeRWar BawWar CedWax MouWar TreSwa OrcOri
 - white-winged gull sp.
 # Magee Marsh
-- subloc: Magee Marsh
+- location: Magee Marsh, Ohio
 - codes: GreEgr Killde BluJay NasWar WarVir AmeGol AmeRed TenWar
 - codes: GrnHer LeaFly MagWar RoBGro BalOri
 # PC: NorWat
@@ -33,18 +35,18 @@
 - ForTer:
     quality: Probable
 # Back at the campground
-- subloc: Maumee Bay State Park
+- location: Maumee Bay State Park, Ohio
 - Brown-headed Cowbird
 - codes: TurVul ReTHaw
 
-- subloc: Pearson Metro Park
+- location: Pearson Metro Park, Ohio
 - codes: HerThr BluJay NorCar MarWre AmeRed WarVir
 - codes: ReEVir GryCat YeRWar NorFli BalOri BaWWar
 - codes: RuCKin NasWar LeaFly MagWar WhTSpa ReWBla
 - codes: PalWar AmeRob ReBWoo YelWar BkCChi
 - Black-throated Green Warbler
 
-- subloc: Maumee Bay State Park
+- location: Maumee Bay State Park, Ohio
 - codes: PurMar Killde MouDov EasKin EurSta
 - AmeWoo:
     notes: both buzz and chattering calls heard, not seen, at dusk
@@ -53,7 +55,7 @@
 - codes: AmeRob MouDov ReWBla TufTit NorCar YelWar BkCChi Mallar HouFin
 - codes: Killde ComGra EurSta GreEgr BarSwa ChiSwi
 
-- subloc: Magee Marsh
+- location: Magee Marsh, Ohio
 # removed a GoCSpa, which we no longer believe.
 - codes: CarWre BalOri CanGoo YelWar TreSwa YeRWar WhCSpa
 - codes: SwaThr TufTit BluJay Killde RudTur ForTer
@@ -71,26 +73,28 @@
     notes: heard only
 - codes: PhiVir BaBWar CaMWar HooWar Ovenbi ReEVir
 
-- subloc: Ohio Highway 2
+- location: Ohio Highway 2, Ohio
 - codes: HerGul AmeKes
 - AmGPlo:
     notes: about 20 seen in field near 'Happy Hooker' bait shop in OH 2
 
-- subloc: Metzger Marsh
+- location: Metzger Marsh, Ohio
 # rain
 - codes: MutSwa TruSwa GreEgr GrBHer CanGoo AmeCoo ProWar NasWar TenWar
 - Blackpoll Warbler
 - NRWSwa
 - codes: DowWoo Mallar BarSwa BalEag
 
-- subloc: Maumee Bay State Park
+- location: Maumee Bay State Park, Ohio
 - codes: WilFly MagWar WilWar
 
-- subloc: Pearson Metro Park, north wetlands
+- location: Pearson Metro Park, north wetlands, Ohio
 - SpoSan
 
 - date: 2014-05-11
-- region: Dawes Arboretum
+- country: United States
+- state: Ohio
+- location: Dawes Arboretum
 - codes: GrCFly HouWre MouDov AmeRob BluJay CanGoo HouFin ChiSpa Mallar
 - codes: SonSpa HouSpa BarSwa AmeGol BalOri AmeCro TurVul ComGra EurSta
 - codes: EasBlu TreSwa ReBWoo NorMoc WooThr NorCar
@@ -98,13 +102,16 @@
 - codes: BuGGna ReWBla SpoSan EasKin OrcOri EaWPew HooWar DowWoo EasPho
 - codes: CaMWar GryCat CarChi CarWre
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 - codes: WilTur NorCar TufTit ReEVir DowWoo AmeCro SonSpa TreSwa CanGoo
 - codes: EasPho GryCat EasTow CarWre ReBWoo BuGGna
 
 # Add an historic sighting. I have other California Condors, too, if I can remember.
-- region: Arizona
-- subloc: Navajo Bridge
+- country: United States
+- state: Arizona
+- location: Arizona
+- location: Navajo Bridge, Arizona
 - date: 2011-06-15
 - California Condor
-

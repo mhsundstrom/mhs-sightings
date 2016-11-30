@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2002-12-14
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - American Wigeon
 
@@ -25,19 +27,21 @@
 
 - date: 2002-12-22
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Hwy 1 coast north
+- location: Hwy 1 coast north, California
 
 - California Quail
 
-- subloc: Redwoods NP;Founder's Grove
+- location: Redwoods NP;Founder's Grove, California
 
 - Varied Thrush
 
 - date: 2002-12-26
 
-- subloc: Idyllwild
+- location: Idyllwild, California
 
 - California Thrasher
 - Common Raven
@@ -52,9 +56,11 @@
 
 - date: 2002-12-28
 
-- region: Orange County
+- country: United States
+- state: California
+- location: Orange County
 
-- subloc: Corona del Mar
+- location: Corona del Mar, Orange County
 
 - Black Phoebe
 - Black Turnstone:
@@ -101,7 +107,7 @@
     quality: Possible
 - Willet
 
-- subloc: San Joaquin Wildlife Refuge
+- location: San Joaquin Wildlife Refuge, Orange County
 
 - American Avocet:
     notes: several in a pond
@@ -134,10 +140,9 @@
 
 - date: 2002-12-30
 
-- subloc: Back Bay
+- location: Back Bay, Orange County
 
 - American Coot
 - American Kestrel:
     notes: two sitting on a fence
 - Osprey
-

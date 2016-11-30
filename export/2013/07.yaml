@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2013-07-14
 
-- region: Whittier Peninsula
+- country: United States
+- state: Ohio
+- location: Scioto Audubon Metro Park
 # with Paul
 - Canada Goose
 - Osprey
@@ -24,7 +26,8 @@
 
 - date: 2013-07-19
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Turkey Vulture
-

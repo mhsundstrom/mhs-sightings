@@ -2,9 +2,9 @@
 # generated 2013-10-19
 - date: 1999-12-24
 
-- region: Mexico
+- country: Mexico
+- location: Mexico
 
-- subloc: Cancun
+- location: Cancun, Mexico
 
 - o: bird with white throat, short, pointy beak, black head, angled wings
-

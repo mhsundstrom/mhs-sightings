@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2003-01-01
 
-- region: Orange County
+- country: United States
+- state: California
+- location: Orange County
 
-- subloc: Back Bay
+- location: Back Bay, Orange County
 
 - American Coot
 - American Kestrel
@@ -31,7 +33,7 @@
 - sparrow sp.
 - flycatcher sp.
 
-- subloc: Corona del Mar
+- location: Corona del Mar, Orange County
 
 - American Crow
 - Anna's Hummingbird
@@ -53,15 +55,17 @@
 
 - date: 2003-01-02
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Hwy 1
+- location: Hwy 1, California
 
 - American Kestrel:
     quality: Probable
 - o: raptors
 
-- subloc: Morro Bay
+- location: Morro Bay, California
 
 - Black Oystercatcher
 - Black Phoebe
@@ -97,7 +101,7 @@
 
 - date: 2003-01-03
 
-- subloc: Hwy 1 near San Simeon
+- location: Hwy 1 near San Simeon, California
 
 - Black Phoebe
 - Brown Pelican
@@ -113,9 +117,11 @@
     notes: heard only
 - o: tiny streaked sparrow w/ good song, white below beak
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Elkhorn Slough
+- location: Elkhorn Slough, California
 
 - Acorn Woodpecker
 - American Crow
@@ -143,23 +149,25 @@
 
 - date: 2003-01-05
 
-- region: Oregon
+- country: United States
+- state: Oregon
+- location: Oregon
 
-- subloc: Brookings Harbor
+- location: Brookings Harbor, Oregon
 
 - Clark's Grebe:
     quality: Possible
 - Pelagic Cormorant
 - Western Grebe
 
-- subloc: Harris State Beach
+- location: Harris State Beach, Oregon
 
 - Black Oystercatcher
 - Purple Finch:
     notes: thick beak,only head was red,faint streaks on head
 - Ruby-crowned Kinglet
 
-- subloc: Loeb State Park
+- location: Loeb State Park, Oregon
 
 - Hermit Thrush
 - Varied Thrush
@@ -167,11 +175,11 @@
 
 - date: 2003-01-06
 
-- subloc: North Bend
+- location: North Bend, Oregon
 
 - Belted Kingfisher
 
-- subloc: Winchester Bay
+- location: Winchester Bay, Oregon
 
 - American Robin
 - Bufflehead
@@ -179,9 +187,11 @@
 
 - date: 2003-01-08
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - Bald Eagle
 
@@ -196,7 +206,9 @@
 - Red-tailed Hawk:
     quality: Probable
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
 - American Wigeon
 - Black-capped Chickadee
@@ -204,7 +216,9 @@
 
 - date: 2003-01-11
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bufflehead
 - Surf Scoter
@@ -222,24 +236,30 @@
 - Harlequin Duck:
     notes: west side at the park
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Common Goldeneye:
     notes: from condo,group,might include young
 
 - date: 2003-01-16
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Camp Long
+- location: Camp Long, Seattle
 
 - Fox Sparrow
 
 - date: 2003-01-18
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - Canada Goose
 - Common Goldeneye
@@ -251,14 +271,18 @@
 - Surf Scoter
 - Western Grebe
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
 - Northern Flicker:
     notes: Interlaken
 
 - date: 2003-01-19
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Barrow's Goldeneye
 - Bufflehead
@@ -278,14 +302,18 @@
 
 - date: 2003-01-23
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: first immature seen here
 
 - date: 2003-01-24
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - American Robin
 - Bald Eagle:
@@ -296,7 +324,9 @@
 - Red-breasted Merganser
 - Western Grebe
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Barrow's Goldeneye
 - Bufflehead
@@ -308,7 +338,9 @@
 - Great Blue Heron:
     notes: at sunset with a low tide
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Coot
 - American Crow:
@@ -352,9 +384,11 @@
 
 - date: 2003-01-31
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Green Lake
+- location: Green Lake, Seattle
 
 - American Coot
 - American Wigeon
@@ -373,10 +407,9 @@
     notes: Originally thought it was Muscovy Duck - domestic goose,black w/ white head,
       red beak and eye area, short legs, several. Have seen since, so unlikely.
 
-- subloc: Ship Canal
+- location: Ship Canal, Seattle
 
 - Greater Scaup:
     notes: black both ends, white middle, gray back top, white sides, broad bill.
       Group of 40
     quality: Probable
-

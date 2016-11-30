@@ -2,20 +2,23 @@
 # generated 2013-10-19
 - date: 2001-10-06
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
 - Hairy Woodpecker
 - Northern Flicker
 
 - date: 2001-10-10
 
-- region: Port Alberni
+- country: Canada
+- location: Port Alberni
 
 - Pacific Wren:
     quality: Probable
 - crow sp.
 
-- subloc: Kitsuksis River walking trail
+- location: Kitsuksis River walking trail, Port Alberni
 
 - American Robin
 - Belted Kingfisher
@@ -31,7 +34,7 @@
 
 - date: 2001-10-11
 
-- subloc: Stamp Falls
+- location: Stamp Falls, Port Alberni
 
 - American Dipper
 - Golden-crowned Kinglet:
@@ -41,16 +44,20 @@
 
 - date: 2001-10-13
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - Great Blue Heron:
     notes: unusual to see a group of 3
 
 - date: 2001-10-14
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Wigeon:
     notes: pond on NW shore. several
@@ -66,7 +73,9 @@
 
 - date: 2001-10-15
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bald Eagle
 
@@ -82,9 +91,11 @@
 
 - date: 2001-10-21
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Lincoln Park
+- location: Lincoln Park, Seattle
 
 - Barrow's Goldeneye:
     notes: mixed in with Harlequin Duck
@@ -94,9 +105,11 @@
 
 - date: 2001-10-23
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
-- subloc: ''
+- location: Seward Park
 
 - American Coot
 - Bald Eagle:
@@ -110,7 +123,9 @@
 
 - date: 2001-10-26
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - American Robin
 - Black-capped Chickadee
@@ -123,7 +138,7 @@
 - Northwestern Crow
 - Pacific Wren
 
-- subloc: south beach near Alki Lighthouse
+- location: south beach near Alki Lighthouse, Alki
 
 - Dunlin:
     notes: a few mixed in with the Sanderling
@@ -132,9 +147,11 @@
 
 - date: 2001-10-31
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
-- subloc: ''
+- location: Blendon Woods Metro Park
 
 - American Crow
 - American Goldfinch
@@ -157,4 +174,3 @@
 - White-breasted Nuthatch
 - White-throated Sparrow
 - Winter Wren
-

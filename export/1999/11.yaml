@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 1999-11-20
 
-- region: Arizona
+- country: United States
+- state: Arizona
+- location: Arizona
 
-- subloc: Tucson
+- location: Tucson, Arizona
 
 - Cactus Wren
 
@@ -15,4 +17,3 @@
 - date: 1999-11-22
 
 - Gila Woodpecker
-

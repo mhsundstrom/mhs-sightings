@@ -1,49 +1,61 @@
-- region: Illinois
-- subloc: US 50 near Lebanon
+- country: United States
+- state: Illinois
+- location: Illinois
+- location: US 50 near Lebanon, Illinois
 - date: 2013-10-24
 - Bald Eagle
-- region: Oklahoma
-- subloc: Salt Plains State Park
+- country: United States
+- state: Oklahoma
+- location: Oklahoma
+- location: Salt Plains State Park, Oklahoma
 - date: 2013-10-25
 - American Avocet
 - Great Horned Owl:
     notes: Heard several calling, just after sunset, both male and female
-- region: New Mexico
-- subloc: Grants
+- country: United States
+- state: New Mexico
+- location: New Mexico
+- location: Grants, New Mexico
 - date: 2013-10-27
 - Western Bluebird
 - House Finch
-- region: Arizona
-- subloc: Apache Junction
+- country: United States
+- state: Arizona
+- location: Arizona
+- location: Apache Junction, Arizona
 - date: 2013-10-29
 - Great Horned Owl
 - Cactus Wren
 - Curve-billed Thrasher
 - House Finch
 - Mourning Dove
-- subloc: Wellton
+- location: Wellton, Arizona
 - Eurasian Collared-Dove
 - date: 2013-10-30
 - Great Horned Owl
-- region: San Diego
-- subloc: Chula Vista
+- country: United States
+- state: California
+- location: San Diego
+- location: Chula Vista, San Diego
 - codes: RetHaw Mallar AmeCoo AmeCro
-- subloc: Mission Bay
+- location: Mission Bay, San Diego
 - date: 2013-10-31
 - BelKin
 - Brown Pelican
 - Bufflehead
 - Heermann's Gull
 - Marbled Godwit
-- subloc: Chula Vista
+- location: Chula Vista, San Diego
 - date: 2013-11-03
 - codes: MarGod Mallar AmeCoo BrnPel RocPig AmeCro
 - xGull
 - xHummingbird
 - Eared Grebe:
     notes: a pair, white cheeks, winter coat, white breast, yellowish eye
-- region: California
-- subloc: Anza-Borrego Desert State Park
+- country: United States
+- state: California
+- location: California
+- location: Anza-Borrego Desert State Park, California
 - date: 2013-11-07
 - White-crowned Sparrow
 - American Kestrel:
@@ -51,7 +63,7 @@
 - Mourning Dove
 - House Finch
 - American Crow
-- subloc: Idyllwild
+- location: Idyllwild, California
 - date: 2013-11-08
 - Common Raven
 - California Quail
@@ -60,7 +72,7 @@
 - date: 2013-11-10
 - Oak Titmouse
 - Mountain Chickadee
-- subloc: El Capitan State Beach and Ocean Mesa RV Park
+- location: El Capitan State Beach and Ocean Mesa RV Park, California
 - date: 2013-11-12
 - codes: CalThr WhCSpa Bushti Osprey AmeCro BrnPel HeeGul Whimbr SurSco Killde HouFin
 - Elegant Tern:
@@ -70,19 +82,19 @@
 - Yellow-rumped Warbler
 - ComYel
 - date: 2013-11-13
-- subloc: Santa Barbara
+- location: Santa Barbara, California
 - Western Grebe
 - Black Phoebe
 - American Coot
 - Brown Pelican
-- subloc: El Capitan State Beach and Ocean Mesa RV Park
+- location: El Capitan State Beach and Ocean Mesa RV Park, California
 - American Robin
 - Red-tailed Hawk
 - White-crowned Sparrow
 - California Towhee
 - California Scrub-Jay
 - date: 2013-11-14
-- subloc: Moss Landing
+- location: Moss Landing, California
 - codes: AmeCoo GrBHer WesGre WhCSpa BrnPel SurSco
 - Brandt's Cormorant:
     notes: numerous
@@ -98,26 +110,26 @@
     notes: numerous, identified by sound
 - RetHaw
 - Semipalmated Plover
-- subloc: Lafayette Reservoir
+- location: Lafayette Reservoir, California
 - codes: AmWPel DoCCor AmeCoo YeRWar CooHaw PiBGre Buffle ReWBla SteJay AmeCro GrBHer WilTur Gadwal
 - EarGre:
     quality: Probable
 - CanGoo:
     notes: both large and small ones -- Cackling Goose
 - date: 2013-11-16
-- subloc: Orinda
+- location: Orinda, California
 - Western Screech-Owl:
     notes: At dusk, fed mice by Sherri. male took from hook, female from top of nest house
 - date: 2013-11-17
-- subloc: Lafayette Reservoir
+- location: Lafayette Reservoir, California
 - Red-shouldered Hawk:
     notes: heard only; distinctive call
 - Canvasback
 - date: 2013-11-18
-- subloc: Orinda
+- location: Orinda, California
 - Band-tailed Pigeon:
     notes: one, in a tree in the backyard
-- subloc: Livermore
+- location: Livermore, California
 - codes: WhCSpa WhBNut CedWax AmeRob BlkPho
 - codes: AcoWoo  WesBlu SteJay
 - California Scrub-Jay
@@ -130,8 +142,10 @@
 - codes: TurVul WesMea GoCSpa ComRav
 - Loggerhead Shrike
 - date: 2013-11-21
-- region: Oregon
-- subloc: Bullard's Beach State Park
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: Bullard's Beach State Park, Oregon
 - codes: Buffle WesGre WhCSpa BkCChi
 - Brown Creeper
 - codes: RuCKin GoCKin YeRWar
@@ -144,7 +158,7 @@
 - NorFli
 - SpoTow
 - date: 2013-11-22
-- subloc: Cape Arago
+- location: Cape Arago, Oregon
 - FoxSpa
 - WesGre
 - Common Goldeneye:
@@ -161,22 +175,23 @@
 - Peregrine Falcon:
     notes: excellent long look plus call at viewpoint north of Simpson Reef
 - date: 2013-11-24
-- subloc: Hecata Head Lighthouse area
+- location: Hecata Head Lighthouse area, Oregon
 - Hermit Thrush
 - hummingbird sp.
-- region: Washington
-- subloc: Mount St Helens Visitor Center
+- country: United States
+- state: Washington
+- location: Washington
+- location: Mount St Helens Visitor Center, Washington
 - date: 2013-11-26
 - BelKin
 - date: 2013-11-28
-- subloc: Bellevue
+- location: Bellevue, Washington
 - BkCChi
 - hummingbird sp.:
     notes: probably Anna's
 - date: 2013-11-29
-- subloc: Bothell, North Creek area
+- location: Bothell, North Creek area, Washington
 - codes: ReTHaw AmeWig AmeCoo CanGoo Mallar Buffle HooMer Gadwal DocCor GrBHer HouFin
 - Green-winged Teal
 - Ring-necked Duck
-
 

@@ -2,47 +2,59 @@
 # generated 2013-10-19
 - date: 2001-11-03
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
 - Belted Kingfisher
 
-- region: Sharon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Sharon Woods Metro Park
 
 - Red-tailed Hawk
 
 - date: 2001-11-04
 
-- region: Dawes Arboretum
+- country: United States
+- state: Ohio
+- location: Dawes Arboretum
 
 - Red-tailed Hawk:
     notes: Circling at sunset, made several calls. Good view.
 
 - date: 2001-11-10
 
-- region: Vermont
+- country: United States
+- state: Vermont
+- location: Vermont
 
-- subloc: Montpelier
+- location: Montpelier, Vermont
 
 - Common Merganser
 
-- subloc: Mt Ascutney
+- location: Mt Ascutney, Vermont
 
 - Wild Turkey:
     notes: saw 3 in the woods, light clucking as they left
 
 - date: 2001-11-13
 
-- region: Pennsylvania
+- country: United States
+- state: Pennsylvania
+- location: Pennsylvania
 
-- subloc: Hawk Mtn
+- location: Hawk Mtn, Pennsylvania
 
 - Northern Harrier
 
 - date: 2001-11-16
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
-- subloc: ''
+- location: Blendon Woods Metro Park
 
 - Northern Mockingbird
 - Ring-billed Gull
@@ -56,9 +68,11 @@
 
 - date: 2001-11-23
 
-- region: Ohio
+- country: United States
+- state: Ohio
+- location: Ohio
 
-- subloc: Clear Creek Metro Park
+- location: Clear Creek Metro Park, Ohio
 
 - American Crow
 - Blue Jay
@@ -76,23 +90,26 @@
 
 - date: 2001-11-24
 
-- subloc: Hocking Hills - Conkles Hollow
+- location: Hocking Hills - Conkles Hollow, Ohio
 
 - Pileated Woodpecker
 
 - date: 2001-11-25
 
-- region: Dawes Arboretum
+- country: United States
+- state: Ohio
+- location: Dawes Arboretum
 
-- subloc: ''
+- location: Dawes Arboretum
 
 - Northern Mockingbird
 
 - date: 2001-11-29
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
 - Pileated Woodpecker
 - o: No Hooded Mergansers at the pond. They had been present for the past couple of
     weeks.
-

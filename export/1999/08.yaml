@@ -2,37 +2,45 @@
 # generated 2013-10-19
 - date: 1999-08-01
 
-- region: Rocky Mountain National Park
+- country: United States
+- state: Colorado
+- location: Rocky Mountain National Park
 
 - Dark-eyed Junco
 
 - date: 1999-08-05
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Beck St
+- location: Beck St, Columbus
 
 - Carolina Wren
 
 - date: 1999-08-08
 
-- region: Iowa
+- country: United States
+- state: Iowa
+- location: Iowa
 
-- subloc: Western Historic Trails Center,Council Bluffs
+- location: Western Historic Trails Center,Council Bluffs, Iowa
 
 - Red-headed Woodpecker
 
 - date: 1999-08-10
 
-- region: Rocky Mountain National Park
+- country: United States
+- state: Colorado
+- location: Rocky Mountain National Park
 
-- subloc: Fall River
+- location: Fall River, Rocky Mountain National Park
 
 - Black-billed Magpie
 
 - date: 1999-08-11
 
-- subloc: Cub Lake
+- location: Cub Lake, Rocky Mountain National Park
 
 - Broad-tailed Hummingbird:
     quality: Probable
@@ -41,35 +49,37 @@
 
 - date: 1999-08-12
 
-- subloc: ''
+- location: Rocky Mountain National Park
 
 - Blue Jay
 
-- subloc: Dream Lake
+- location: Dream Lake, Rocky Mountain National Park
 
 - Clark's Nutcracker
 
 - date: 1999-08-13
 
-- subloc: Wild Basin
+- location: Wild Basin, Rocky Mountain National Park
 
 - Wilson's Warbler
 
 - date: 1999-08-14
 
-- subloc: Bear Lake
+- location: Bear Lake, Rocky Mountain National Park
 
 - Steller's Jay
 
-- subloc: Devil's Gulch Rd
+- location: Devil's Gulch Rd, Rocky Mountain National Park
 
 - Mountain Bluebird
 
 - date: 1999-08-16
 
-- region: Colorado
+- country: United States
+- state: Colorado
+- location: Colorado
 
-- subloc: Snow Mountain Ranch
+- location: Snow Mountain Ranch, Colorado
 
 - Gray Jay
 - Pygmy Nuthatch
@@ -78,13 +88,12 @@
 
 - date: 1999-08-17
 
-- subloc: Monarch Lake CO
+- location: Monarch Lake CO, Colorado
 
 - Hairy Woodpecker
 - Western Tanager
 
-- subloc: Snow Mountain Ranch
+- location: Snow Mountain Ranch, Colorado
 
 - Long-billed Dowitcher
 - White-crowned Sparrow
-

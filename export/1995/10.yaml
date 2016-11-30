@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 1995-10-27
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Idyllwild
+- location: Idyllwild, California
 
 - Acorn Woodpecker
 - Cedar Waxwing
@@ -17,4 +19,3 @@
 - date: 1995-10-29
 
 - Steller's Jay
-

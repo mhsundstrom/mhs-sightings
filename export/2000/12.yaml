@@ -2,26 +2,31 @@
 # generated 2013-10-19
 - date: 2000-12-01
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Barrow's Goldeneye:
     notes: common every winter
 
 - date: 2000-12-22
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Joshua Tree NP
+- location: Joshua Tree NP, California
 
 - Black Phoebe
 
 - date: 2000-12-24
 
-- region: Arizona
+- country: United States
+- state: Arizona
+- location: Arizona
 
-- subloc: Saguaro NP - East
+- location: Saguaro NP - East, Arizona
 
 - Northern Cardinal
 - Phainopepla
 - Red-tailed Hawk
-

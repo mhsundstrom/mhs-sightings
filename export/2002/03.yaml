@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2002-03-01
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - American Crow
 - American Robin
@@ -25,17 +27,21 @@
 
 - date: 2002-03-14
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Common Grackle
 
 - date: 2002-03-24
 
-- region: Ohio
+- country: United States
+- state: Ohio
+- location: Ohio
 
-- subloc: Big Island
+- location: Big Island, Ohio
 
 - Blue-winged Teal
 - Red-breasted Merganser:
@@ -46,41 +52,48 @@
 
 - date: 2002-03-27
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Turkey Vulture
 
 - date: 2002-03-30
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - Belted Kingfisher:
     notes: could have been seen from Miranova
 
 - date: 2002-03-31
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
-- subloc: ''
+- location: Blendon Woods Metro Park
 
 - Bufflehead
 - Wood Duck
 
-- subloc: Walden Pond
+- location: Walden Pond, Blendon Woods Metro Park
 
 - Great Blue Heron:
     notes: 3 herons in courting activity, lots of flying around
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - American Coot
 - Canada Goose
 - Mallard
 - Ring-billed Gull
-

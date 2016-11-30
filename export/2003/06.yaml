@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2003-06-01
 
-- region: Sharon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Sharon Woods Metro Park
 
 - American Goldfinch
 - Baltimore Oriole
@@ -26,13 +28,17 @@
 
 - date: 2003-06-02
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
 - Northern Mockingbird
 
 - date: 2003-06-04
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
 - American Goldfinch
 - Blue Jay
@@ -59,18 +65,22 @@
 
 - date: 2003-06-05
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Inniswood Metro Gardens
+- location: Inniswood Metro Gardens, Columbus
 
 - Blue-gray Gnatcatcher
 - House Wren
 
 - date: 2003-06-08
 
-- region: Slate Run Metro Park
+- country: United States
+- state: Ohio
+- location: Slate Run Metro Park
 
-- subloc: ''
+- location: Slate Run Metro Park
 
 - Red-bellied Woodpecker
 - Wood Thrush
@@ -79,13 +89,17 @@
 
 - date: 2003-06-09
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
 - Gray Catbird
 
 - date: 2003-06-12
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Belted Kingfisher
 - Caspian Tern:
@@ -94,7 +108,9 @@
 
 - date: 2003-06-15
 
-- region: Nisqually
+- country: United States
+- state: Washington
+- location: Nisqually
 
 - American Goldfinch
 - American Robin
@@ -128,7 +144,9 @@
 
 - date: 2003-06-18
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Belted Kingfisher
@@ -136,7 +154,9 @@
 
 - date: 2003-06-21
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Goldfinch
 - Black-capped Chickadee
@@ -156,7 +176,9 @@
 
 - date: 2003-06-24
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Caspian Tern
@@ -165,4 +187,3 @@
 
 - Bald Eagle
 - Osprey
-

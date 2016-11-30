@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2004-12-03
 
-- region: San Diego
+- country: United States
+- state: California
+- location: San Diego
 
-- subloc: San Diego River
+- location: San Diego River, San Diego
 
 - American Avocet
 - American Coot
@@ -23,7 +25,7 @@
 - Willet:
     quality: Probable
 
-- subloc: Torrey Pines
+- location: Torrey Pines, San Diego
 
 - Brown Pelican
 - California Towhee
@@ -36,9 +38,11 @@
 
 - date: 2004-12-04
 
-- region: Orange County
+- country: United States
+- state: California
+- location: Orange County
 
-- subloc: Corona del Mar
+- location: Corona del Mar, Orange County
 
 - Brown Pelican
 - California Gnatcatcher
@@ -48,17 +52,21 @@
 
 - date: 2004-12-07
 
-- region: San Diego
+- country: United States
+- state: California
+- location: San Diego
 
-- subloc: Wild Animal Park
+- location: Wild Animal Park, San Diego
 
 - American Wigeon
 
 - date: 2004-12-08
 
-- region: Orange County
+- country: United States
+- state: California
+- location: Orange County
 
-- subloc: Crystal Cove
+- location: Crystal Cove, Orange County
 
 - Brown Pelican
 - California Towhee
@@ -68,7 +76,7 @@
 
 - date: 2004-12-10
 
-- subloc: Back Bay
+- location: Back Bay, Orange County
 
 - American Avocet
 - American Coot
@@ -104,7 +112,7 @@
 - White-faced Ibis
 - Yellow-rumped Warbler
 
-- subloc: Corona del Mar
+- location: Corona del Mar, Orange County
 
 - Least Tern:
     notes: might be ComTer
@@ -112,9 +120,11 @@
 
 - date: 2004-12-13
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Coloma
+- location: Coloma, California
 
 - Black-billed Magpie
 - Canada Goose
@@ -127,15 +137,19 @@
 - new world quail sp.:
     notes: ho
 
-- region: California
-- subloc: Sacramento NWR
+- country: United States
+- state: California
+- location: California
+- location: Sacramento NWR, California
 
 - Ross's Goose
 - Snow Goose
 
 - date: 2004-12-17
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Barrow's Goldeneye
 - Brant:
@@ -150,4 +164,3 @@
 - Common Goldeneye
 - Harlequin Duck
 - Surf Scoter
-

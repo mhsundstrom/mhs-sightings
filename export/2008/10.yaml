@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2008-10-02
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Great Blue Heron:
     notes: seen daily
@@ -17,4 +19,3 @@
 
 - Belted Kingfisher:
     notes: near new bridge, bothered by raptor
-

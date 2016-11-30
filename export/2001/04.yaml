@@ -2,28 +2,34 @@
 # generated 2013-10-19
 - date: 2001-04-01
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Belted Kingfisher
 
 - date: 2001-04-08
 
-- region: Slate Run Metro Park
+- country: United States
+- state: Ohio
+- location: Slate Run Metro Park
 
 - Brown Thrasher
 - Eastern Meadowlark
 
 - date: 2001-04-10
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Beck St
+- location: Beck St, Columbus
 
 - Brown-headed Cowbird
 
 - date: 2001-04-15
 
-- subloc: Gahanna Woods
+- location: Gahanna Woods, Columbus
 
 - Blue-gray Gnatcatcher
 - White-throated Sparrow:
@@ -31,21 +37,27 @@
 
 - date: 2001-04-18
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
-- subloc: ''
+- location: Highbanks Metro Park
 
 - Pileated Woodpecker
 
 - date: 2001-04-24
 
-- region: Dawes Arboretum
+- country: United States
+- state: Ohio
+- location: Dawes Arboretum
 
 - Chipping Sparrow
 
 - date: 2001-04-29
 
-- region: Slate Run Metro Park
+- country: United States
+- state: Ohio
+- location: Slate Run Metro Park
 
 - Brown Thrasher
 - Eastern Bluebird
@@ -53,4 +65,3 @@
 - Song Sparrow
 - Tree Swallow
 - White-breasted Nuthatch
-

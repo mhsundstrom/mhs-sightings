@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2005-01-01
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Barrow's Goldeneye
 - Brant
@@ -16,7 +18,8 @@
 - crow sp.
 - gull sp.
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Double-crested Cormorant
-

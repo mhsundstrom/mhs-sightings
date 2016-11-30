@@ -2,16 +2,20 @@
 # generated 2013-10-19
 - date: 2008-08-01
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Canada Goose:
     notes: common
 
 - date: 2008-08-02
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - American Goldfinch
 - Barn Swallow
@@ -19,9 +23,11 @@
 - Pied-billed Grebe:
     notes: 2x near Santa Maria
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Double-crested Cormorant
 
@@ -53,4 +59,3 @@
     notes: h.o.
 - Killdeer:
     notes: h.o.
-

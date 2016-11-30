@@ -2,29 +2,35 @@
 # generated 2013-10-19
 - date: 2002-01-01
 
-- region: Port Alberni
+- country: Canada
+- location: Port Alberni
 
 - Northern Flicker
 
 - date: 2002-01-02
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Nanaimo
+- location: Nanaimo, British Columbia
 
 - Belted Kingfisher
 - Bufflehead
 
 - date: 2002-01-03
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - Barrow's Goldeneye
 - Surf Scoter
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
 - American Coot
 - Barrow's Goldeneye
@@ -36,22 +42,28 @@
 
 - date: 2002-01-04
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - wren sp.:
     notes: Either Bewick's or Marsh Wren in bushes at the condo
 
 - date: 2002-01-07
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - American Robin
 
 - date: 2002-01-08
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - Canada Goose
 - Dark-eyed Junco
@@ -61,7 +73,7 @@
 
 - date: 2002-01-10
 
-- subloc: Antrim Lake
+- location: Antrim Lake, Columbus
 
 - American Coot
 - American Crow
@@ -75,14 +87,16 @@
 
 - date: 2002-01-11
 
-- subloc: ''
+- location: Columbus
 
 - Carolina Wren
 - European Starling
 
 - date: 2002-01-12
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
 - American Black Duck
 - American Coot
@@ -103,25 +117,29 @@
 
 - date: 2002-01-13
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: downtown library
+- location: downtown library, Columbus
 
 - House Finch:
     notes: heard song
 
 - date: 2002-01-16
 
-- subloc: Antrim Lake
+- location: Antrim Lake, Columbus
 
 - Carolina Chickadee:
     notes: very fast song, high pitched
 
 - date: 2002-01-21
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Great Blue Heron
 
@@ -131,7 +149,9 @@
 
 - date: 2002-01-26
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
 - American Crow
 - American Goldfinch
@@ -148,4 +168,3 @@
 - Ring-necked Duck
 - Tufted Titmouse
 - White-breasted Nuthatch
-
