@@ -80,7 +80,7 @@
 - Red-tailed Hawk
 - White-crowned Sparrow
 - California Towhee
-- Western Scrub-Jay
+- California Scrub-Jay
 - date: 2013-11-14
 - subloc: Moss Landing
 - codes: AmeCoo GrBHer WesGre WhCSpa BrnPel SurSco
@@ -119,7 +119,8 @@
     notes: one, in a tree in the backyard
 - subloc: Livermore
 - codes: WhCSpa WhBNut CedWax AmeRob BlkPho
-- codes: AcoWoo WeSJay WesBlu SteJay
+- codes: AcoWoo  WesBlu SteJay
+- California Scrub-Jay
 #- Lewis's Woodpecker:
 #    notes: Excellent views after much searching
 # See info from iBird Pro
