@@ -2,14 +2,15 @@
 # generated 2013-10-19
 - date: 2001-09-07
 
-- region: Slovakia
+- country: Slovakia
+- location: Slovakia
 
-- subloc: Danube River boat
+- location: Danube River boat, Slovakia
 
 - Barn Swallow:
     notes: Forked tail - long. white underneath
 
-- subloc: Devin Castle
+- location: Devin Castle, Slovakia
 
 - Gray Heron
 - eagle sp.:
@@ -17,9 +18,10 @@
 
 - date: 2001-09-08
 
-- region: Seefeld
+- country: Austria
+- location: Seefeld
 
-- subloc: ''
+- location: Seefeld
 
 - Eurasian Coot
 - Willow Tit
@@ -64,9 +66,10 @@
 
 - date: 2001-09-13
 
-- region: Netherlands
+- country: Netherlands
+- location: Netherlands
 
-- subloc: Texel
+- location: Texel, Netherlands
 
 - Eurasian Oystercatcher:
     notes: long yellow orange legs, orange beak - long and straight, black head, very
@@ -101,16 +104,18 @@
     color head, think black streak thru eye. greyish breast, short black beak, pointy
     tail
 
-- subloc: train to Den Helder
+- location: train to Den Helder, Netherlands
 
 - Eurasian Magpie:
     notes: white/black, white wing tip, lots of black. in field
 
 - date: 2001-09-29
 
-- region: Slate Run Metro Park
+- country: United States
+- state: Ohio
+- location: Slate Run Metro Park
 
-- subloc: ''
+- location: Slate Run Metro Park
 
 - American Crow
 - American Goldfinch
@@ -121,4 +126,3 @@
     notes: same size as Killdeer on pond
 - Pied-billed Grebe
 - Turkey Vulture
-

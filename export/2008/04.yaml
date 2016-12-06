@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2008-04-22
 
-- region: Ohio
+- country: United States
+- state: Ohio
+- location: Ohio
 
-- subloc: Magee Marsh
+- location: Magee Marsh, Ohio
 
 - American Coot
 - American Robin
@@ -30,9 +32,11 @@
 
 - date: 2008-04-26
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Double-crested Cormorant:
     notes: 2x
@@ -43,17 +47,20 @@
 
 - date: 2008-04-29
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Confluence
+- location: Confluence, Columbus
 
 - Gray Catbird:
     notes: heard song and call
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - American Goldfinch
 - Canada Goose
-

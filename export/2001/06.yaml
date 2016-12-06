@@ -2,9 +2,10 @@
 # generated 2013-10-19
 - date: 2001-06-01
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Midcoast
+- location: Midcoast, British Columbia
 
 - Bald Eagle
 - Common Raven
@@ -25,16 +26,17 @@
 
 - date: 2001-06-21
 
-- subloc: near McLaughlin Bay
+- location: near McLaughlin Bay, British Columbia
 
 - Osprey
 - Sandhill Crane
 
 - date: 2001-06-30
 
-- region: Alberta
+- country: Canada
+- location: Alberta
 
-- subloc: Calgary - Inglewood
+- location: Calgary - Inglewood, Alberta
 
 - American White Pelican
 - Black-billed Magpie
@@ -49,4 +51,3 @@
 - Mallard
 - Tree Swallow
 - Yellow Warbler
-

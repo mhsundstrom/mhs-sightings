@@ -2,31 +2,38 @@
 # generated 2013-10-19
 - date: 2002-07-01
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Rock Pigeon
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Green Lake
+- location: Green Lake, Seattle
 
 - American Coot
 - Barn Swallow
 
 - date: 2002-07-02
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
-- subloc: ''
+- location: Discovery Park
 
 - Fox Sparrow
 - White-crowned Sparrow
 
 - date: 2002-07-06
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Vancouver
+- location: Vancouver, British Columbia
 
 - American Bittern:
     notes: heard only on sunset walk
@@ -34,9 +41,10 @@
 
 - date: 2002-07-07
 
-- region: Queen Charlotte Islands
+- country: Canada
+- location: Queen Charlotte Islands
 
-- subloc: ''
+- location: Queen Charlotte Islands
 
 - Bald Eagle
 - Varied Thrush:
@@ -52,14 +60,14 @@
 - thrush sp.:
     notes: two-toned call
 
-- subloc: Gordon Island
+- location: Gordon Island, Queen Charlotte Islands
 
 - Hermit Thrush:
     notes: brown tail, black eye
 
 - date: 2002-07-09
 
-- subloc: ''
+- location: Queen Charlotte Islands
 
 - Bald Eagle:
     notes: took a fish from the lagoon on the fly
@@ -90,20 +98,20 @@
 - Varied Thrush
 - o: bird burrows on small island lunch stop, apparently for Tufted Puffins
 
-- subloc: Swan Island camp
+- location: Swan Island camp, Queen Charlotte Islands
 
 - Ruby-crowned Kinglet
 
 - date: 2002-07-13
 
-- subloc: Wandering Island
+- location: Wandering Island, Queen Charlotte Islands
 
 - Hermit Thrush:
     notes: on beach
 
 - date: 2002-07-14
 
-- subloc: ''
+- location: Queen Charlotte Islands
 
 - Ancient Murrelet:
     quality: Probable
@@ -144,16 +152,18 @@
 - Ruddy Turnstone:
     quality: Probable
 
-- subloc: Tow Hill
+- location: Tow Hill, Queen Charlotte Islands
 
 - Common Loon:
     notes: two
 
 - date: 2002-07-25
 
-- region: Oregon
+- country: United States
+- state: Oregon
+- location: Oregon
 
-- subloc: Mt Hood
+- location: Mt Hood, Oregon
 
 - Chipping Sparrow
 - Common Raven
@@ -163,24 +173,26 @@
 
 - date: 2002-07-26
 
-- subloc: Crater Lake
+- location: Crater Lake, Oregon
 
 - Clark's Nutcracker
 
-- subloc: Klamath Lake
+- location: Klamath Lake, Oregon
 
 - Bald Eagle
 - grebe sp.
 
 - date: 2002-07-27
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Lassen Volcanic NP
+- location: Lassen Volcanic NP, California
 
 - American White Pelican
 
-- subloc: Tule Lake
+- location: Tule Lake, California
 
 - American Coot
 - Black-necked Stilt
@@ -193,17 +205,20 @@
       the Stilt
 - o: Jay
 
-- region: Oregon
+- country: United States
+- state: Oregon
+- location: Oregon
 
-- subloc: Klamath Falls
+- location: Klamath Falls, Oregon
 
 - American White Pelican
 
 - date: 2002-07-29
 
-- region: Wyoming
+- country: United States
+- state: Wyoming
+- location: Wyoming
 
-- subloc: Snowy Range
+- location: Snowy Range, Wyoming
 
 - o: long, graceful, long tail, white breast, white on face, falcon?
-

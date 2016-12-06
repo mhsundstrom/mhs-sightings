@@ -2,26 +2,34 @@
 # generated 2013-10-19
 - date: 2004-10-04
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Surfbird:
     notes: first sighting this fall, yellow legs, white horiz stripe on tail
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Red-breasted Merganser
 
 - date: 2004-10-21
 
-- region: South Dakota
-- subloc: Chamberlain
+- country: United States
+- state: South Dakota
+- location: South Dakota
+- location: Chamberlain, South Dakota
 - Wild Turkey:
     notes: several seen at rest area overlooking Missouri River
 
 - date: 2004-10-22
-- region: South Dakota
-- subloc: Mt Rushmore
+- country: United States
+- state: South Dakota
+- location: South Dakota
+- location: Mt Rushmore, South Dakota
 
 - Wild Turkey
 
@@ -30,8 +38,10 @@
 - Black-billed Magpie
 
 - date: 2004-10-24
-- region: Montana
-- subloc: Great Falls
+- country: United States
+- state: Montana
+- location: Montana
+- location: Great Falls, Montana
 
 - American Coot
 - Black-billed Magpie
@@ -39,8 +49,10 @@
 - Hooded Merganser
 
 - date: 2004-10-25
-- region: Washington
-- subloc: Richland
+- country: United States
+- state: Washington
+- location: Washington
+- location: Richland, Washington
 
 - American Wigeon
 - Belted Kingfisher
@@ -51,15 +63,18 @@
 
 - date: 2004-10-28
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bufflehead
 - Canada Goose
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Double-crested Cormorant
 - Great Blue Heron
 - Surf Scoter
 - crow sp.
-

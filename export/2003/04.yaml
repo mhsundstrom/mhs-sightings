@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2003-04-01
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bald Eagle
 - Barrow's Goldeneye
@@ -23,7 +25,9 @@
 
 - date: 2003-04-05
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - American Goldfinch
 - Red-breasted Merganser
@@ -32,7 +36,9 @@
 
 - Bald Eagle
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
 - American Coot
 - American Wigeon
@@ -52,7 +58,9 @@
 
 - date: 2003-04-08
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Brant
 
@@ -71,7 +79,9 @@
 
 - Brant
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Belted Kingfisher
@@ -80,9 +90,11 @@
 
 - date: 2003-04-11
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Deception Pass
+- location: Deception Pass, Washington
 
 - American Robin
 - Black Oystercatcher
@@ -99,16 +111,18 @@
 
 - date: 2003-04-12
 
-- subloc: Whidbey Island
+- location: Whidbey Island, Washington
 
 - Great Blue Heron
 - Killdeer
 
 - date: 2003-04-13
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - Bonaparte's Gull
 - Horned Grebe
@@ -117,7 +131,9 @@
 - Western Grebe
 - White-crowned Sparrow
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: juvenile
@@ -125,7 +141,9 @@
 
 - date: 2003-04-16
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Goldfinch
 - American Wigeon
@@ -154,25 +172,31 @@
 
 - date: 2003-04-17
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Brant
 - Bufflehead
 - Red-breasted Merganser
 
-- subloc: Schmitz Park
+- location: Schmitz Park, Alki
 
 - Pileated Woodpecker
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 
 - date: 2003-04-18
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Killdeer
 - Pigeon Guillemot
@@ -180,7 +204,9 @@
 
 - date: 2003-04-21
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Osprey:
     notes: dived and got a fish
@@ -197,18 +223,20 @@
 
 - date: 2003-04-26
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Everett
+- location: Everett, Washington
 
 - Great Blue Heron
 
-- subloc: Heimar Pk
+- location: Heimar Pk, Washington
 
 - American Wigeon
 - Bufflehead
 
-- subloc: North Creek Park, Mill Creek
+- location: North Creek Park, Mill Creek, Washington
 
 - American Robin
 - Marsh Wren:
@@ -220,7 +248,7 @@
 - Violet-green Swallow
 - Yellow-rumped Warbler
 
-- subloc: Spencer Island
+- location: Spencer Island, Washington
 
 - American Goldfinch:
     notes: different song from Ohio, more elaborate
@@ -242,4 +270,3 @@
 - Red-tailed Hawk
 - Red-winged Blackbird
 - White-crowned Sparrow
-

@@ -2,15 +2,19 @@
 # generated 2013-10-19
 - date: 2002-04-01
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Schiller Park
+- location: Schiller Park, Columbus
 
 - Sharp-shinned Hawk:
     notes: pair , building a nest at the east end. Small hawk
     quality: Possible
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Mourning Dove
 
@@ -21,18 +25,22 @@
 
 - date: 2002-04-06
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River at Broad Street
+- location: Scioto River at Broad Street, Columbus
 
 - gull sp.:
     notes: several hooded gulls with all black heads
 
 - date: 2002-04-07
 
-- region: Slate Run Metro Park
+- country: United States
+- state: Ohio
+- location: Slate Run Metro Park
 
-- subloc: ''
+- location: Slate Run Metro Park
 
 - American Coot
 - American Kestrel
@@ -57,9 +65,11 @@
 
 - date: 2002-04-10
 
-- region: Kentucky
+- country: United States
+- state: Kentucky
+- location: Kentucky
 
-- subloc: Mammoth Cave NP
+- location: Mammoth Cave NP, Kentucky
 
 - American Crow
 - American Robin
@@ -74,15 +84,17 @@
 
 - date: 2002-04-11
 
-- subloc: Cumberland Gap
+- location: Cumberland Gap, Kentucky
 
 - Turkey Vulture
 
 - date: 2002-04-13
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - House Finch
 - Northern Flicker
@@ -94,16 +106,20 @@
 
 - date: 2002-04-19
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Greenlawn
+- location: Greenlawn, Columbus
 
 - American Goldfinch
 - Northern Flicker
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
-- subloc: ''
+- location: Highbanks Metro Park
 
 - Black-and-white Warbler:
     notes: acted like a Nuthatch. Black and white striping was obvious. Low height,
@@ -111,11 +127,15 @@
 
 - date: 2002-04-24
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
 - Wood Duck
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Tree Swallow:
     quality: Possible
@@ -124,18 +144,22 @@
 
 - date: 2002-04-26
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Short Street
+- location: Short Street, Columbus
 
 - Killdeer
 - Northern Mockingbird
 
 - date: 2002-04-27
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
-- subloc: ''
+- location: Blendon Woods Metro Park
 
 - Blue-gray Gnatcatcher
 - Blue-winged Teal
@@ -143,37 +167,45 @@
 - Tree Swallow
 - Wood Duck
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Gahanna Woods
+- location: Gahanna Woods, Columbus
 
 - Hairy Woodpecker
 - Pileated Woodpecker
 
-- subloc: Inniswood Metro Gardens
+- location: Inniswood Metro Gardens, Columbus
 
 - Chipping Sparrow
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Double-crested Cormorant
 
 - date: 2002-04-28
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - Northern Rough-winged Swallow
 - Tree Swallow
 
 - date: 2002-04-29
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Barn Swallow:
     notes: saw the white band across the tail; about 6 or so. Black head, blue back,
@@ -181,8 +213,9 @@
 
 - date: 2002-04-30
 
-- region: Sharon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Sharon Woods Metro Park
 
 - thrush sp.:
     notes: heard a Wood/Hermit Thrush
-

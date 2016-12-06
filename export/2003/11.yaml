@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2003-11-01
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - American Wigeon
 - Bald Eagle
@@ -15,16 +17,18 @@
 
 - date: 2003-11-04
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Dodson Rd
+- location: Dodson Rd, Washington
 
 - Black-billed Magpie
 - Trumpeter Swan:
     notes: about 20, calls sounded more like Trumpeter than Tundra
 - Western Meadowlark
 
-- subloc: Spokane
+- location: Spokane, Washington
 
 - Ring-billed Gull
 - Wood Duck:
@@ -32,9 +36,10 @@
 
 - date: 2003-11-07
 
-- region: Alberta
+- country: Canada
+- location: Alberta
 
-- subloc: Banff
+- location: Banff, Alberta
 
 - American Three-toed Woodpecker
 - Black-billed Magpie
@@ -66,14 +71,18 @@
 
 - date: 2003-11-12
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Surf Scoter
 - Surfbird
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Goldfinch:
     quality: Probable
@@ -104,11 +113,15 @@
 
 - date: 2003-11-13
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 
-- region: Marymoor Park
+- country: United States
+- state: Washington
+- location: Marymoor Park
 
 - American Coot
 - American Robin
@@ -130,7 +143,9 @@
 
 - date: 2003-11-14
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - American Robin
 - Bald Eagle
@@ -140,7 +155,9 @@
 - European Starling
 - Surf Scoter
 
-- region: Nisqually
+- country: United States
+- state: Washington
+- location: Nisqually
 
 - American Coot
 - American Robin
@@ -175,7 +192,9 @@
 
 - date: 2003-11-16
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Arctic Loon:
     notes: white throat and chest, white seen near tail when diving
@@ -187,25 +206,31 @@
 - Pigeon Guillemot:
     notes: winter plumage
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Black-capped Chickadee
 - Surf Scoter
 
 - date: 2003-11-20
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Tukwila Pond
+- location: Tukwila Pond, Seattle
 
 - Hooded Merganser
 - Northern Shoveler
 
 - date: 2003-11-21
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
-- subloc: ''
+- location: Seward Park
 
 - American Coot
 - Common Goldeneye
@@ -215,7 +240,9 @@
 
 - date: 2003-11-22
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - American Coot
 - Bald Eagle:
@@ -230,7 +257,9 @@
 - Surf Scoter
 - Surfbird
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - American Robin
 - Horned Grebe
@@ -239,7 +268,9 @@
 
 - date: 2003-11-23
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Barrow's Goldeneye
 - Bufflehead
@@ -255,14 +286,18 @@
 - Surfbird
 - Western Grebe
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Black-capped Chickadee
 
 - date: 2003-11-25
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bushtit:
     notes: going up California Pl hill
@@ -275,14 +310,18 @@
 
 - date: 2003-11-26
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Surfbird
 
 - date: 2003-11-27
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Goldfinch:
     notes: heard only
@@ -320,7 +359,9 @@
     notes: Sparrow flock high in trees
 - crow sp.
 
-- region: Marymoor Park
+- country: United States
+- state: Washington
+- location: Marymoor Park
 
 - American Coot
 - American Robin
@@ -341,9 +382,11 @@
 - crow sp.
 - gull sp.
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Golden Gardens
+- location: Golden Gardens, Seattle
 
 - American Wigeon
 - Canada Goose
@@ -353,9 +396,10 @@
 
 - date: 2003-11-28
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Red-breasted Merganser
-

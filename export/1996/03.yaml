@@ -2,18 +2,19 @@
 # generated 2013-10-19
 - date: 1996-03-07
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Beck St
+- location: Beck St, Columbus
 
 - Sharp-shinned Hawk:
     notes: finch kill
 
 - date: 1996-03-17
 
-- subloc: Pickerington Pond
+- location: Pickerington Pond, Columbus
 
 - Bufflehead
 - Mute Swan
 - Song Sparrow
-

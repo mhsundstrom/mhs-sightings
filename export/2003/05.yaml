@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2003-05-03
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bald Eagle:
     notes: 2, juvenile and adult
@@ -10,9 +12,11 @@
 
 - date: 2003-05-09
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Pt Defiance Park
+- location: Pt Defiance Park, Washington
 
 - Bald Eagle:
     notes: heard only
@@ -21,9 +25,11 @@
 
 - date: 2003-05-10
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 - House Finch
@@ -31,7 +37,9 @@
 
 - date: 2003-05-13
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
 - Common Merganser
 - Great Blue Heron
@@ -42,7 +50,9 @@
 
 - date: 2003-05-15
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Great Blue Heron
 
@@ -52,7 +62,9 @@
 
 - date: 2003-05-18
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Goldfinch
 - Bald Eagle:
@@ -76,7 +88,9 @@
 
 - date: 2003-05-22
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Harlequin Duck
 - Osprey:
@@ -88,9 +102,11 @@
 
 - date: 2003-05-25
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Chestnut Ridge Metro Park
+- location: Chestnut Ridge Metro Park, Columbus
 
 - American Goldfinch
 - Blue Jay
@@ -107,31 +123,36 @@
 - vireo sp.:
     notes: heard a vireo
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Common Grackle
 
 - date: 2003-05-26
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Antrim Lake
+- location: Antrim Lake, Columbus
 
 - Baltimore Oriole
 
 - date: 2003-05-27
 
-- subloc: German Village
+- location: German Village, Columbus
 
 - Mourning Dove
 
 - date: 2003-05-28
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Gray Catbird
-

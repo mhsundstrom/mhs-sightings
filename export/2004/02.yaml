@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2004-02-01
 
-- region: San Diego
+- country: United States
+- state: California
+- location: San Diego
 
-- subloc: Sweetwater Marsh NWR
+- location: Sweetwater Marsh NWR, San Diego
 
 - American Wigeon
 - Anna's Hummingbird
@@ -30,7 +32,7 @@
 
 - date: 2004-02-02
 
-- subloc: Tijuana Slough
+- location: Tijuana Slough, San Diego
 
 - American Coot
 - Anna's Hummingbird
@@ -53,18 +55,22 @@
 
 - date: 2004-02-03
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Dana Point
+- location: Dana Point, California
 
 - Double-crested Cormorant
 - Snowy Egret
 - gull sp.:
     notes: thousands
 
-- region: Orange County
+- country: United States
+- state: California
+- location: Orange County
 
-- subloc: San Joaquin Wildlife Refuge
+- location: San Joaquin Wildlife Refuge, Orange County
 
 - American Avocet
 - American Coot
@@ -91,13 +97,15 @@
 - hummingbird sp.
 - o: Raptor
 
-- region: San Diego
+- country: United States
+- state: California
+- location: San Diego
 
-- subloc: Del Mar
+- location: Del Mar, San Diego
 
 - Great Blue Heron
 
-- subloc: San Elijo Lagoon
+- location: San Elijo Lagoon, San Diego
 
 - American Coot
 - Blue-gray Gnatcatcher
@@ -125,9 +133,11 @@
 
 - date: 2004-02-05
 
-- region: California
+- country: United States
+- state: California
+- location: California
 
-- subloc: Pacific Grove
+- location: Pacific Grove, California
 
 - Bonaparte's Gull:
     notes: orange beak,white head
@@ -135,7 +145,7 @@
 - Red-breasted Merganser
 - Say's Phoebe
 
-- subloc: Point Reyes
+- location: Point Reyes, California
 
 - American Coot
 - American Kestrel
@@ -184,7 +194,7 @@
 
 - date: 2004-02-06
 
-- subloc: Olema
+- location: Olema, California
 
 - American Crow
 - American Robin
@@ -195,7 +205,7 @@
 - Ruby-crowned Kinglet
 - Song Sparrow
 
-- subloc: Point Reyes Limantour
+- location: Point Reyes Limantour, California
 
 - American Coot
 - American Wigeon
@@ -223,21 +233,27 @@
 
 - date: 2004-02-12
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - Bald Eagle:
     notes: juvenile,near lighthouse
 
 - date: 2004-02-13
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: two adult on the platform
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Robin
 - American Wigeon
@@ -291,12 +307,16 @@
 
 - date: 2004-02-17
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Barrow's Goldeneye
 - Great Blue Heron
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
 - Chestnut-backed Chickadee
 - Common Merganser
@@ -304,7 +324,9 @@
 
 - date: 2004-02-18
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bald Eagle
 - Barrow's Goldeneye
@@ -327,16 +349,20 @@
 - gull sp.
 - crow sp.
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - House Finch
 - Northern Flicker
 
 - date: 2004-02-19
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Cedar River/Coulon Park
+- location: Cedar River/Coulon Park, Seattle
 
 - American Coot
 - Bald Eagle
@@ -353,9 +379,11 @@
 
 - date: 2004-02-21
 
-- region: Nisqually
+- country: United States
+- state: Washington
+- location: Nisqually
 
-- subloc: ''
+- location: Nisqually
 
 - American Coot
 - American Crow
@@ -404,7 +432,9 @@
 
 - date: 2004-02-25
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Brant
 
@@ -422,10 +452,11 @@
 - Red-breasted Merganser
 - Surf Scoter
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Green Lake
+- location: Green Lake, Seattle
 
 - American Wigeon
 - Eurasian Wigeon
-

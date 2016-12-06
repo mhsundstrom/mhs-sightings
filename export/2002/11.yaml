@@ -2,20 +2,26 @@
 # generated 2013-10-19
 - date: 2002-11-06
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Red-breasted Merganser
 
 - date: 2002-11-11
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - Black-capped Chickadee
 - Varied Thrush
 
 - date: 2002-11-12
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bufflehead
 - Surf Scoter
@@ -24,29 +30,35 @@
 
 - Surfbird
 
-- subloc: Harbor park viewpoint
+- location: Harbor park viewpoint, Alki
 
 - Barrow's Goldeneye
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: ''
+- location: Seattle
 
 - o: Flock of sandpipers
 
 - date: 2002-11-17
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - Red-tailed Hawk
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Ballard Locks
+- location: Ballard Locks, Seattle
 
 - Belted Kingfisher
 
-- subloc: Golden Gardens
+- location: Golden Gardens, Seattle
 
 - American Wigeon
 - Barrow's Goldeneye
@@ -55,9 +67,11 @@
 
 - date: 2002-11-28
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
-- subloc: ''
+- location: Discovery Park
 
 - American Wigeon
 - Barrow's Goldeneye
@@ -69,4 +83,3 @@
 - Mallard
 - Northern Flicker
 - White-winged Scoter
-

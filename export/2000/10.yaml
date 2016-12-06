@@ -2,13 +2,16 @@
 # generated 2013-10-19
 - date: 2000-10-01
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Western Grebe
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Broken Group
+- location: Broken Group, British Columbia
 
 - Bald Eagle
 - Belted Kingfisher
@@ -20,9 +23,11 @@
 - Western Grebe
 - Pacific Wren
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
-- subloc: ''
+- location: Discovery Park
 
 - Bewick's Wren
 - Golden-crowned Kinglet
@@ -31,4 +36,3 @@
 - Varied Thrush:
     notes: one
 - Pacific Wren
-

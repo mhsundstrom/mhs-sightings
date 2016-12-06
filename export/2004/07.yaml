@@ -2,9 +2,10 @@
 # generated 2013-10-19
 - date: 2004-07-01
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Nootka
+- location: Nootka, British Columbia
 
 - American Robin
 - Bald Eagle
@@ -34,27 +35,33 @@
 
 - date: 2004-07-08
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Barn Swallow
 - Great Blue Heron
 
 - date: 2004-07-09
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: AlkiEast
+- location: AlkiEast, Alki
 
 - Canada Goose
 - House Sparrow
 - Purple Martin
 - White-crowned Sparrow
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 - Great Blue Heron
@@ -66,11 +73,15 @@
 
 - date: 2004-07-13
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - White-crowned Sparrow
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Caspian Tern:
@@ -79,13 +90,17 @@
 
 - date: 2004-07-14
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Great Blue Heron
 - Osprey
 - Purple Martin
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Barn Swallow
 - Great Blue Heron
@@ -94,11 +109,15 @@
 
 - date: 2004-07-15
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Osprey
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Northern Flicker
 - White-crowned Sparrow
@@ -111,13 +130,17 @@
 
 - date: 2004-07-18
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Purple Martin
 
 - date: 2004-07-19
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Canada Goose
 - Caspian Tern:
@@ -125,9 +148,11 @@
 - Great Blue Heron
 - Osprey
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Ballard
+- location: Ballard, Seattle
 
 - American Robin
 - Barn Swallow
@@ -144,9 +169,11 @@
 
 - date: 2004-07-20
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Mt Rainier
+- location: Mt Rainier, Washington
 
 - Sooty Grouse:
     notes: female with several chicks, near Paradise Inn. was called Blue Grouse
@@ -161,13 +188,17 @@
 
 - date: 2004-07-21
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - American Goldfinch
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Canada Goose
@@ -175,12 +206,16 @@
 
 - date: 2004-07-23
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bald Eagle
 - Purple Martin
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Barn Swallow
 - Canada Goose
@@ -193,17 +228,21 @@
 - Osprey
 - Pigeon Guillemot
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Green Lake
+- location: Green Lake, Seattle
 
 - Pied-billed Grebe
 
 - date: 2004-07-26
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 - Caspian Tern:
@@ -213,11 +252,15 @@
 
 - date: 2004-07-27
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - White-crowned Sparrow
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Barn Swallow
@@ -243,17 +286,21 @@
 
 - date: 2004-07-29
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: Jack Block Park
+- location: Jack Block Park, Alki
 
 - Belted Kingfisher
 - Purple Martin:
     notes: numerous
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 - Caspian Tern
@@ -262,7 +309,9 @@
 - Rock Pigeon
 - crow sp.
 
-- region: Marymoor Park
+- country: United States
+- state: Washington
+- location: Marymoor Park
 
 - Black-capped Chickadee
 - Bushtit
@@ -276,7 +325,7 @@
     notes: seen, later heard
 - crow sp.
 
-- subloc: West
+- location: West, Marymoor Park
 
 - American Goldfinch
 - American Robin
@@ -292,9 +341,11 @@
 - Willow Flycatcher:
     notes: numerous heard
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Juanita Bay
+- location: Juanita Bay, Seattle
 
 - American Coot
 - Barn Swallow
@@ -312,9 +363,11 @@
 
 - date: 2004-07-30
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: Schmitz Park
+- location: Schmitz Park, Alki
 
 - American Robin
 - Black-capped Chickadee
@@ -326,9 +379,11 @@
     quality: Probable
 - o: Heard a dove coo, possibly Mourning or Pigeon-tailed?
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 - Caspian Tern
@@ -340,4 +395,3 @@
 - Canada Goose
 - Caspian Tern
 - Osprey
-

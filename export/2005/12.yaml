@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2005-12-01
 
-- region: Hawaii
+- country: United States
+- state: Hawaii
+- location: Hawaii
 
-- subloc: Honolulu
+- location: Honolulu, Hawaii
 
 - Cattle Egret:
     quality: Probable
@@ -12,20 +14,20 @@
 
 - date: 2005-12-03
 
-- subloc: Keahou
+- location: Keahou, Hawaii
 
 - Saffron Finch
 - Yellow-billed Cardinal
 
 - date: 2005-12-05
 
-- subloc: Black sand beach
+- location: Black sand beach, Hawaii
 
 - Hawaiian Coot
 
 - date: 2005-12-06
 
-- subloc: Keahou
+- location: Keahou, Hawaii
 
 - Black-crowned Night-Heron
 - Japanese White-eye
@@ -38,9 +40,10 @@
 
 - date: 2005-12-17
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Richmond, dyke walk
+- location: Richmond, dyke walk, British Columbia
 
 - American Robin
 - Bald Eagle:
@@ -54,9 +57,10 @@
 
 - date: 2005-12-23
 
-- region: Port Alberni
+- country: Canada
+- location: Port Alberni
 
-- subloc: Kitsuksis River walking trail
+- location: Kitsuksis River walking trail, Port Alberni
 
 - Belted Kingfisher
 - Common Goldeneye:
@@ -65,4 +69,3 @@
 - European Starling
 - Great Blue Heron
 - Steller's Jay
-

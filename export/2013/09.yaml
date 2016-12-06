@@ -2,56 +2,66 @@
 # generated 2013-10-19
 - date: 2013-09-01
 
-- region: Idaho
+- country: United States
+- state: Idaho
+- location: Idaho
 
-- subloc: Montpelier
+- location: Montpelier, Idaho
 
 - Black-capped Chickadee
 - Black-billed Magpie
 
-- subloc: US-30
+- location: US-30, Idaho
 
 - Mourning Dove
 
-- region: Wyoming
+- country: United States
+- state: Wyoming
+- location: Wyoming
 
-- subloc: I-80
+- location: I-80, Wyoming
 
 - Common Raven
 
-- subloc: US-30
+- location: US-30, Wyoming
 
 - Black-billed Magpie
 
 - date: 2013-09-02
 
-- region: Colorado
+- country: United States
+- state: Colorado
+- location: Colorado
 
-- subloc: CO-125
+- location: CO-125, Colorado
 
 - American Crow
 - Black-billed Magpie
 
-- subloc: Windy Gap, Colorado River, US-40
+- location: Windy Gap, Colorado River, US-40, Colorado
 
 - Canada Goose
 - American White Pelican
 
-- region: Wyoming
+- country: United States
+- state: Wyoming
+- location: Wyoming
 
-- subloc: I-80
+- location: I-80, Wyoming
 
 - American Crow
 
-- subloc: WY-130
+- location: WY-130, Wyoming
 
 - Black-billed Magpie
 
 - date: 2013-09-07
 
-- region: San Diego
+- country: United States
+- state: California
+- location: San Diego
 
-- subloc: Chula Vista
+- location: Chula Vista, San Diego
 
 - Osprey
 - Snowy Egret
@@ -92,17 +102,17 @@
 - Snowy Egret
 - Black Phoebe
 
-- subloc: Mission Bay
+- location: Mission Bay, San Diego
 
 - American Kestrel
 - Belted Kingfisher
 
-- subloc: Mission Beach
+- location: Mission Beach, San Diego
 
 - Brown Pelican
 - Heermann's Gull
 
-- subloc: San Diego River
+- location: San Diego River, San Diego
 
 - Snowy Egret
 - Little Blue Heron
@@ -112,13 +122,17 @@
 
 - date: 2013-09-21
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Double-crested Cormorant
 
-- region: Whittier Peninsula
+- country: United States
+- state: Ohio
+- location: Scioto Audubon Metro Park
 # Sep 21
 - American Robin
 - Mallard
@@ -132,7 +146,9 @@
 
 - date: 2013-09-22
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
 - Tufted Titmouse
 - American Goldfinch
@@ -153,7 +169,9 @@
 
 - date: 2013-09-23
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Double-crested Cormorant
 - Turkey Vulture
@@ -171,9 +189,11 @@
 
 - date: 2013-09-26
 
-- region: Pennsylvania
+- country: United States
+- state: Pennsylvania
+- location: Pennsylvania
 
-- subloc: Trough Creek State Park
+- location: Trough Creek State Park, Pennsylvania
 
 - Turkey Vulture
 - Pileated Woodpecker:
@@ -181,7 +201,7 @@
 
 - date: 2013-09-29
 
-- subloc: Lake house
+- location: Lake house, Pennsylvania
 
 - Hairy Woodpecker:
     notes: Observed two, dancing around a tree. Unusual call. Size and shape right
@@ -194,4 +214,3 @@
 - DaEJun
 - DoCCor
 - ReTHaw
-

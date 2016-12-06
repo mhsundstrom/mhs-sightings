@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 1998-04-02
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Beck St
+- location: Beck St, Columbus
 
 - American Goldfinch
 - Black-capped Chickadee
@@ -24,11 +26,12 @@
 
 - date: 1998-04-12
 
-- region: Dawes Arboretum
+- country: United States
+- state: Ohio
+- location: Dawes Arboretum
 
-- subloc: ''
+- location: Dawes Arboretum
 
 - Eastern Bluebird
 - Mallard
 - diurnal raptor sp.
-

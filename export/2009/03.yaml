@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2009-03-19
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - Belted Kingfisher
 - Wood Duck:
@@ -18,9 +20,11 @@
 
 - date: 2009-03-23
 
-- region: Ohio
+- country: United States
+- state: Ohio
+- location: Ohio
 
-- subloc: Clifton Gorge
+- location: Clifton Gorge, Ohio
 
 - Eastern Phoebe:
     notes: several heard
@@ -28,11 +32,12 @@
 
 - date: 2009-03-27
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - American Coot
 - Eastern Phoebe
 - Pied-billed Grebe
-

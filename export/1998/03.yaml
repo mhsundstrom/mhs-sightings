@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 1998-03-21
 
-- region: Nisqually
+- country: United States
+- state: Washington
+- location: Nisqually
 
 - American Coot
 - Canada Goose
@@ -12,16 +14,19 @@
 
 - date: 1998-03-22
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Common Goldeneye
 - Red-breasted Merganser
 
 - date: 1998-03-31
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Beck St
+- location: Beck St, Columbus
 
 - wren sp.
-

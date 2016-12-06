@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2004-03-02
 
-- region: Marymoor Park
+- country: United States
+- state: Washington
+- location: Marymoor Park
 
 - American Coot
 - American Robin
@@ -20,9 +22,11 @@
 - wren sp.
 - gull sp.
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Cedar River/Coulon Park
+- location: Cedar River/Coulon Park, Seattle
 
 - American Coot
 - American Robin
@@ -33,9 +37,11 @@
 
 - date: 2004-03-06
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - American Robin
 - Barrow's Goldeneye
@@ -70,7 +76,9 @@
     same length at body; wet steps at Bonaire stairs
 - hummingbird sp.
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: 2 adult
@@ -85,13 +93,17 @@
 
 - date: 2004-03-12
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Belted Kingfisher
 - Bufflehead
 - Double-crested Cormorant
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Barrow's Goldeneye
 - Bufflehead
@@ -106,7 +118,9 @@
 
 - date: 2004-03-15
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
 - American Coot
 - American Robin
@@ -130,7 +144,9 @@
 
 - date: 2004-03-17
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Barrow's Goldeneye
 - Brant
@@ -141,12 +157,16 @@
 
 - date: 2004-03-18
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Belted Kingfisher:
     notes: heard only
 
-- region: Marymoor Park
+- country: United States
+- state: Washington
+- location: Marymoor Park
 
 - American Coot
 - American Robin
@@ -164,9 +184,11 @@
 - Violet-green Swallow
 - crow sp.
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Juanita Bay
+- location: Juanita Bay, Seattle
 
 - American Coot
 - American Robin
@@ -190,7 +212,7 @@
     notes: heard only
 - Violet-green Swallow
 
-- subloc: Medina Park
+- location: Medina Park, Seattle
 
 - American Coot
 - American Goldfinch
@@ -213,7 +235,7 @@
 
 - date: 2004-03-19
 
-- subloc: Edmonds Marsh and Pier
+- location: Edmonds Marsh and Pier, Seattle
 
 - American Goldfinch:
     quality: Probable
@@ -246,7 +268,7 @@
 - gull sp.
 - crow sp.
 
-- subloc: Green Lake
+- location: Green Lake, Seattle
 
 - American Coot
 - American Wigeon
@@ -259,9 +281,11 @@
 
 - date: 2004-03-21
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - Brant
 - Bufflehead
@@ -270,7 +294,9 @@
 
 - date: 2004-03-27
 
-- region: Marymoor Park
+- country: United States
+- state: Washington
+- location: Marymoor Park
 
 - Fox Sparrow
 - Golden-crowned Kinglet
@@ -285,7 +311,7 @@
 - Violet-green Swallow
 - crow sp.
 
-- subloc: West
+- location: West, Marymoor Park
 
 - American Robin
 - Bewick's Wren
@@ -301,9 +327,11 @@
 - Wood Duck
 - o: tree frogs heard
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Medina Park
+- location: Medina Park, Seattle
 
 - American Coot
 - American Robin
@@ -320,14 +348,18 @@
 
 - date: 2004-03-29
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: 1 adult, 1 juv with missing feather in right wing; circling together
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
 - American Coot
 - American Robin
@@ -361,13 +393,17 @@
 
 - date: 2004-03-30
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Brant:
     notes: large group 100-200 at South Beach
 - Bufflehead
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Barrow's Goldeneye
@@ -382,8 +418,9 @@
 
 - date: 2004-03-31
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Barrow's Goldeneye
 - White-crowned Sparrow
-

@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2006-07-03
 
-- region: Oklahoma
+- country: United States
+- state: Oklahoma
+- location: Oklahoma
 
-- subloc: Norman; Jenkins Rd
+- location: Norman; Jenkins Rd, Oklahoma
 
 - American Crow
 - American Robin
@@ -52,7 +54,7 @@
 
 - date: 2006-07-05
 
-- subloc: Norman; nearby fields
+- location: Norman; nearby fields, Oklahoma
 
 - American Robin
 - Barn Swallow
@@ -83,10 +85,11 @@
 
 - date: 2006-07-30
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Ohio State University wetlands
+- location: Ohio State University wetlands, Columbus
 
 - Wood Duck
 - Baltimore Oriole
-

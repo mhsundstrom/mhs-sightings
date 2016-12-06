@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2013-10-01
 
-- region: Pennsylvania
+- country: United States
+- state: Pennsylvania
+- location: Pennsylvania
 
-- subloc: Lake house
+- location: Lake house, Pennsylvania
 
 - Mallard
 - American Crow
@@ -21,9 +23,11 @@
 
 - date: 2013-10-03
 
-- region: Connecticut
+- country: United States
+- state: Connecticut
+- location: Connecticut
 
-- subloc: Bluff Point State Park
+- location: Bluff Point State Park, Connecticut
 
 - American Crow
 - Blue Jay
@@ -47,9 +51,11 @@
 
 - date: 2013-10-06
 
-- region: New Hampshire
+- country: United States
+- state: New Hampshire
+- location: New Hampshire
 
-- subloc: Lebanon
+- location: Lebanon, New Hampshire
 
 - Pileated Woodpecker:
     notes: heard only
@@ -64,9 +70,11 @@
 
 - date: 2013-10-08
 
-- region: Vermont
+- country: United States
+- state: Vermont
+- location: Vermont
 
-- subloc: Herrick Pond
+- location: Herrick Pond, Vermont
 
 - Wild Turkey:
     notes: several along US 5 just north of the pond
@@ -84,7 +92,7 @@
       was definitely noticeable. Also heard call. My reaction was of a 'sparrow with
       blue streaks'
 
-- subloc: Woodford State Park
+- location: Woodford State Park, Vermont
 
 - Eastern Phoebe
 - Dark-eyed Junco
@@ -94,9 +102,11 @@
 
 - date: 2013-10-10
 
-- region: New York
+- country: United States
+- state: New York
+- location: New York
 
-- subloc: Plattekill KOA campground
+- location: Plattekill KOA campground, New York
 
 - Barred Owl:
     notes: heard only, early morning
@@ -104,35 +114,42 @@
 
 - date: 2013-10-16
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - Mallard
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Great Blue Heron
 - Double-crested Cormorant
 
 - date: 2013-10-17
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - White-crowned Sparrow:
     notes: heard only
 
 - date: 2013-10-18
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Ring-billed Gull
 - Double-crested Cormorant
 - Canada Goose
-

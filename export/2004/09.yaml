@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2004-09-01
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - American Goldfinch
 - Bald Eagle
@@ -58,16 +60,20 @@
 
 - date: 2004-09-10
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: AlkiEast
+- location: AlkiEast, Alki
 
 - Belted Kingfisher
 - Downy Woodpecker
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 - Osprey
@@ -83,17 +89,21 @@
 
 - date: 2004-09-13
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: AlkiEast
+- location: AlkiEast, Alki
 
 - Bald Eagle:
     notes: juvenile
 - Belted Kingfisher
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Belted Kingfisher
 - Caspian Tern
@@ -108,13 +118,17 @@
 
 - date: 2004-09-16
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Barn Swallow
 - Osprey
 - crow sp.
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: 2 adults on nav platform
@@ -123,7 +137,9 @@
 
 - date: 2004-09-18
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Barn Swallow
 - Double-crested Cormorant
@@ -131,7 +147,9 @@
     notes: 7 offshore near Alki Beach
 - crow sp.
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: 2 adults on nav platform
@@ -149,9 +167,11 @@
 - Canada Goose
 - Osprey
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Lincoln Park
+- location: Lincoln Park, Seattle
 
 - Western Grebe:
     notes: pair of 2
@@ -159,9 +179,11 @@
 
 - date: 2004-09-22
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 - Belted Kingfisher
@@ -174,8 +196,10 @@
 - Osprey
 
 - date: 2004-09-26
-- region: Washington
-- subloc: Mount Baker
+- country: United States
+- state: Washington
+- location: Washington
+- location: Mount Baker, Washington
 
 - Red-breasted Nuthatch
 - Steller's Jay
@@ -186,14 +210,15 @@
 
 - date: 2004-09-28
 
-- region: Port Alberni
+- country: Canada
+- location: Port Alberni
 
 - Ruffed Grouse:
     notes: on the log train trail
 
 - date: 2004-09-30
 
-- subloc: Stamp Falls
+- location: Stamp Falls, Port Alberni
 
 - American Dipper:
     quality: Probable
@@ -202,4 +227,3 @@
 - Pileated Woodpecker:
     notes: heard only
 - Steller's Jay
-

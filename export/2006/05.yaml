@@ -2,15 +2,19 @@
 # generated 2013-10-19
 - date: 2006-05-03
 
-- region: Idaho
+- country: United States
+- state: Idaho
+- location: Idaho
 
-- subloc: Idaho Falls
+- location: Idaho Falls, Idaho
 
 - Common Goldeneye
 
-- region: Utah
+- country: United States
+- state: Utah
+- location: Utah
 
-- subloc: Bear River NWR
+- location: Bear River NWR, Utah
 
 - American Coot
 - American White Pelican
@@ -31,9 +35,10 @@
 
 - date: 2006-05-12
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Salt spring Island
+- location: Salt spring Island, British Columbia
 
 - Bald Eagle
 - Black Oystercatcher
@@ -51,4 +56,3 @@
 - Harlequin Duck
 - Song Sparrow
 - Yellow Warbler
-

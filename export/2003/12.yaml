@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2003-12-04
 
-- region: Marymoor Park
+- country: United States
+- state: Washington
+- location: Marymoor Park
 
 - American Robin
 - American Wigeon
@@ -17,16 +19,18 @@
 - gull sp.
 - crow sp.
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Bothell Landing
+- location: Bothell Landing, Seattle
 
 - Canada Goose
 - Common Goldeneye
 - Mallard
 - Ring-billed Gull
 
-- subloc: Juanita Bay
+- location: Juanita Bay, Seattle
 
 - American Coot
 - Bufflehead
@@ -34,7 +38,7 @@
 - Wood Duck:
     notes: pair
 
-- subloc: Kenmore Logboom Park
+- location: Kenmore Logboom Park, Seattle
 
 - American Coot
 - American Goldfinch
@@ -47,21 +51,25 @@
 
 - date: 2003-12-06
 
-- subloc: Bellevue
+- location: Bellevue, Seattle
 
 - Chestnut-backed Chickadee
 
 - date: 2003-12-08
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Great Blue Heron
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Green Lake
+- location: Green Lake, Seattle
 
 - American Coot
 - American Wigeon
@@ -77,9 +85,11 @@
 
 - date: 2003-12-09
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: AlkiEast
+- location: AlkiEast, Alki
 
 - Bald Eagle:
     notes: two
@@ -113,7 +123,7 @@
 
 - date: 2003-12-11
 
-- subloc: ''
+- location: Alki
 
 - American Robin
 - Barrow's Goldeneye
@@ -141,7 +151,9 @@
 - sparrow sp.
 - gull sp.
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Black-capped Chickadee
 
@@ -161,7 +173,9 @@
 
 - date: 2003-12-15
 
-- region: Marymoor Park
+- country: United States
+- state: Washington
+- location: Marymoor Park
 
 - American Coot
 - American Goldfinch:
@@ -181,9 +195,11 @@
 
 - date: 2003-12-18
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Dash Point County Park
+- location: Dash Point County Park, Washington
 
 - Bonaparte's Gull
 - Double-crested Cormorant
@@ -195,7 +211,7 @@
 - Ring-billed Gull
 - Surf Scoter
 
-- subloc: Des Moines Marina
+- location: Des Moines Marina, Washington
 
 - Belted Kingfisher
 - Bufflehead
@@ -209,7 +225,7 @@
 - Surf Scoter
 - gull sp.
 
-- subloc: Dumas Bay
+- location: Dumas Bay, Washington
 
 - American Goldfinch
 - American Robin
@@ -232,13 +248,13 @@
 - gull sp.
 - wren sp.
 
-- subloc: Gog-Le-Hi-Te Wetland
+- location: Gog-Le-Hi-Te Wetland, Washington
 
 - Common Merganser
 - Rock Pigeon
 - gull sp.
 
-- subloc: Point Defiance
+- location: Point Defiance, Washington
 
 - Bald Eagle:
     notes: two
@@ -252,9 +268,11 @@
 
 - date: 2003-12-22
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Green Lake
+- location: Green Lake, Seattle
 
 - American Coot
 - American Goldfinch
@@ -291,9 +309,11 @@
 
 - date: 2003-12-27
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
-- subloc: ''
+- location: Discovery Park
 
 - American Robin
 - Bewick's Wren
@@ -310,15 +330,17 @@
 - sparrow sp.
 - gull sp.
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Juanita Bay
+- location: Juanita Bay, Seattle
 
 - Bufflehead
 - Double-crested Cormorant
 - Green-winged Teal
 
-- subloc: Logboom Park
+- location: Logboom Park, Seattle
 
 - American Coot
 - American Wigeon
@@ -337,9 +359,11 @@
 
 - date: 2003-12-29
 
-- region: Nisqually
+- country: United States
+- state: Washington
+- location: Nisqually
 
-- subloc: ''
+- location: Nisqually
 
 - American Robin
 - American Wigeon
@@ -355,9 +379,11 @@
 - gull sp.
 - o: 2 seals in Nisqually River. Sunny, cold and windy
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Bowerman Basin
+- location: Bowerman Basin, Washington
 
 - Canada Goose
 - Canvasback
@@ -366,7 +392,7 @@
 
 - date: 2003-12-30
 
-- subloc: Ocean Shores
+- location: Ocean Shores, Washington
 
 - Bufflehead
 - Double-crested Cormorant
@@ -385,4 +411,3 @@
 - Surf Scoter
 - White-winged Scoter
 - o: river otters with a long tail, Grays Harbor
-

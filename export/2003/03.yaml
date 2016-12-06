@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2003-03-01
 
-- region: Idaho
+- country: United States
+- state: Idaho
+- location: Idaho
 
-- subloc: Boise, along river
+- location: Boise, along river, Idaho
 
 - Belted Kingfisher
 - Black-billed Magpie
@@ -17,17 +19,21 @@
 
 - date: 2003-03-03
 
-- region: Kansas
+- country: United States
+- state: Kansas
+- location: Kansas
 
-- subloc: I-70,central
+- location: I-70,central, Kansas
 
 - Great-tailed Grackle
 
 - date: 2003-03-06
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: ''
+- location: Columbus
 
 - American Robin
 - House Finch
@@ -38,7 +44,7 @@
 
 - House Sparrow
 
-- subloc: Three Creeks Metro Park
+- location: Three Creeks Metro Park, Columbus
 
 - American Crow
 - Canada Goose
@@ -54,16 +60,20 @@
 - Tufted Titmouse
 - White-breasted Nuthatch
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Mourning Dove
 - Song Sparrow
 
 - date: 2003-03-12
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - Barrow's Goldeneye
 - Belted Kingfisher
@@ -73,7 +83,9 @@
 
 - date: 2003-03-13
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Belted Kingfisher
 
@@ -83,7 +95,9 @@
     notes: pair in trees across street, yellow above beak, yellow and red around head,
       otherwise plain, sparrow sized. Song is House Finch.
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Robin
 - American Wigeon
@@ -122,14 +136,18 @@
 
 - date: 2003-03-15
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: bird kill at the park
 
 - date: 2003-03-16
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Yellow Warbler:
     notes: heard only
@@ -137,7 +155,9 @@
 
 - date: 2003-03-17
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
 - American Wigeon
 - Bald Eagle
@@ -155,7 +175,9 @@
 
 - date: 2003-03-18
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bald Eagle
 - Barrow's Goldeneye
@@ -176,7 +198,9 @@
 
 - date: 2003-03-25
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: immature, on hill behind
@@ -185,7 +209,9 @@
 
 - date: 2003-03-27
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - American Robin
 - Bald Eagle
@@ -198,13 +224,17 @@
 
 - date: 2003-03-28
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Surf Scoter
 
 - date: 2003-03-29
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Wigeon
 - Bald Eagle:
@@ -225,13 +255,16 @@
 
 - date: 2003-03-30
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Northern Flicker
 
 - date: 2003-03-31
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Brant
-

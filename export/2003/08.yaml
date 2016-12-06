@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2003-08-07
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Great Blue Heron
@@ -20,23 +22,29 @@
 
 - date: 2003-08-15
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Osprey:
     notes: two together near lighthouse
 
 - date: 2003-08-16
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Osprey:
     notes: 2; one dove and got a fish. Flew back and forth several times just offshore
 
 - date: 2003-08-18
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Mt Rainier
+- location: Mt Rainier, Washington
 
 - American Robin
 - Clark's Nutcracker
@@ -63,9 +71,11 @@
 
 - date: 2003-08-20
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle:
     notes: 2 on the beach,morning
@@ -73,9 +83,11 @@
 
 - date: 2003-08-30
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Anacortes-Sidney ferry
+- location: Anacortes-Sidney ferry, Washington
 
 - Bald Eagle
 - Black-capped Chickadee
@@ -84,9 +96,9 @@
 
 - date: 2003-08-31
 
-- region: Port Alberni
+- country: Canada
+- location: Port Alberni
 
-- subloc: ''
+- location: Port Alberni
 
 - Northern Flicker
-

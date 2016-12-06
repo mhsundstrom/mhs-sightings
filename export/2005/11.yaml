@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2005-11-30
 
-- region: Hawaii
+- country: United States
+- state: Hawaii
+- location: Hawaii
 
-- subloc: Honolulu
+- location: Honolulu, Hawaii
 
 - Common Myna
 - Common Waxbill
@@ -15,4 +17,3 @@
     notes: (Speckled Dove)
 - White-rumped Shama
 - Zebra Dove
-

@@ -2,14 +2,16 @@
 # generated 2013-10-19
 - date: 2002-09-01
 
-- region: Colorado
+- country: United States
+- state: Colorado
+- location: Colorado
 
-- subloc: Garden of the Gods
+- location: Garden of the Gods, Colorado
 
 - Rock Pigeon
 - Woodhouse's Scrub-Jay
 
-- subloc: Pikes Peak
+- location: Pikes Peak, Colorado
 
 - grouse sp.:
     notes: crossing the tracks, brownish, fairly large
@@ -18,7 +20,7 @@
 
 - date: 2002-09-02
 
-- subloc: North Cheyenne Canon Park
+- location: North Cheyenne Canon Park, Colorado
 
 - Black-capped Chickadee
 - Brown Creeper:
@@ -32,29 +34,31 @@
 
 - date: 2002-09-03
 
-- subloc: Gunnison
+- location: Gunnison, Colorado
 
 - American White Pelican
 
 - date: 2002-09-07
 
-- region: Arizona
+- country: United States
+- state: Arizona
+- location: Arizona
 
-- subloc: Kartchner Caverns State Park
+- location: Kartchner Caverns State Park, Arizona
 
 - Black-throated Sparrow
 - Broad-billed Hummingbird
 
 - date: 2002-09-08
 
-- subloc: Mt Lemmon
+- location: Mt Lemmon, Arizona
 
 - Black-throated Gray Warbler:
     quality: Probable
 
 - date: 2002-09-09
 
-- subloc: Sedona - Hannig
+- location: Sedona - Hannig, Arizona
 
 - Green-tailed Towhee
 - Juniper Titmouse
@@ -64,7 +68,7 @@
 - Black-headed Grosbeak:
     notes: female
 
-- subloc: Sedona - Red Rock SP
+- location: Sedona - Red Rock SP, Arizona
 
 - Belted Kingfisher
 - Bewick's Wren
@@ -91,18 +95,18 @@
 
 - date: 2002-09-11
 
-- subloc: Sedona - Cathedral Rock
+- location: Sedona - Cathedral Rock, Arizona
 
 - Rock Wren:
     notes: top of trail
 
-- subloc: Sedona - Hannig
+- location: Sedona - Hannig, Arizona
 
 - Lesser Goldfinch
 
 - date: 2002-09-12
 
-- subloc: Sedona - Boynton Canyon
+- location: Sedona - Boynton Canyon, Arizona
 
 - Bewick's Wren:
     notes: buzzing sound obvious
@@ -132,9 +136,11 @@
 
 - date: 2002-09-14
 
-- region: Orange County
+- country: United States
+- state: California
+- location: Orange County
 
-- subloc: Back Bay
+- location: Back Bay, Orange County
 
 - Belted Kingfisher
 - Brown Pelican
@@ -145,9 +151,10 @@
 
 - date: 2002-09-23
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Clayoquot Sound
+- location: Clayoquot Sound, British Columbia
 
 - Belted Kingfisher:
     notes: several, numerous on entire trip
@@ -181,4 +188,3 @@
     quality: Probable
 - Steller's Jay
 - Surf Scoter
-

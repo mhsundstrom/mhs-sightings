@@ -1,19 +1,21 @@
 # Happy New Year 2014
 - date: 2014-01-01
-- region: California
-- subloc: Sacramento River, Redding
+- country: United States
+- state: California
+- location: California
+- location: Sacramento River, Redding, California
 - codes: TurVul
 - Brown-headed Cowbird
-- subloc: Orinda
+- location: Orinda, California
 - codes: BewWre
-- subloc: Lafayette Reservoir
+- location: Lafayette Reservoir, California
 - codes: AmWPel DoCCor AmeCoo Gadwal Mallar PiBGre AmeCro RudDuc BkCChi
 - date: 2014-01-02
-- subloc: Orinda
+- location: Orinda, California
 - Anna's Hummingbird
 - codes: ComRav
 - Hermit Thrush
-- subloc: Arrowhead Marsh, Oakland
+- location: Arrowhead Marsh, Oakland, California
 - codes: GrBHer AmeCoo CanGoo WesMea SnoEgr ComGol Buffle MarGod Willet HorGre
 - Black-necked Stilt
 - Ridgway's Rail
@@ -30,29 +32,33 @@
 - Sora
 - codes: BlkPho SayPho SonSpa ReTHaw
 - Burrowing Owl
-- subloc: Berkeley
+- location: Berkeley, California
 - Painted Redstart
-- subloc: Orinda
+- location: Orinda, California
 - ReBNut
 - date: 2014-01-05
-- subloc: Corona del Mar
+- location: Corona del Mar, California
 - codes: MouDov NorMoc
-- subloc: Back Bay
+- location: Back Bay, California
 - codes: AmeCoo ComYel Buffle Osprey Willet BrnPel SpoSan MarGod AmeWig
 - codes: GreEgr EarGre BlkSki AmeAvo WesGre
 - Blue-winged Teal
 - Forster's Tern:
     quality: Probable
 - date: 2014-01-08
-- region: Arizona
-- subloc: Kartchner Caverns State Park
+- country: United States
+- state: Arizona
+- location: Arizona
+- location: Kartchner Caverns State Park, Arizona
 - Rock Wren
 - Canyon Wren
 - Montezuma Quail
 - Black-throated Sparrow
 - date: 2014-02-24
-- region: Oklahoma
-- subloc: Norman; Jenkins Rd
+- country: United States
+- state: Oklahoma
+- location: Oklahoma
+- location: Norman; Jenkins Rd, Oklahoma
 - codes: NorCar DowWoo NorMoc Mallar EasBlu GrBHer BelKin CanGoo GreYel TufTit
 - codes: AmeCro ReTHaw SonSpa
 - Swamp Sparrow
@@ -60,14 +66,14 @@
     notes: numerous
 - codes: WhCSpa CarWre CarChi Gadwal NorFli TurVul EasPho AmeRob RocPig
 - Red-shouldered Hawk
-- subloc: Norman
+- location: Norman, Oklahoma
 - codes: MouDov EurSta ComGra RiBGul AmeCoo ReWBla
 - Great-tailed Grackle
 - Eurasian Collared-Dove
 - date: 2014-02-25
 - codes: AmeKes ReTHaw
 - Mute Swan
-- subloc: Lake Hefner
+- location: Lake Hefner, Oklahoma
 - codes: EurSta AmeCoo AmWPel CanGoo EuCDov HouSpa PiBGre RiBGul ComGra
 - codes: ReWBla Mallar RocPig NorSho HooMer GrBHer GnWTea DoCCor NorPin
 - codes: ReBWoo GreYel Killde NeoCor NorSho NorCar
@@ -75,7 +81,9 @@
 - codes: AmeCro AmeRob RudDuc ReBMer EarGre LesSca ComLoo ComGol Gadwal Buffle RiNDuc
 
 - date: 2012-01-12
-- region: California
-- subloc: Mercey Hot Springs
+- country: United States
+- state: California
+- location: California
+- location: Mercey Hot Springs, California
 - Long-eared Owl:
     notes: Location thanks to Sherri Cook. About a dozen or so. Paid entry.

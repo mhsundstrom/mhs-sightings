@@ -2,17 +2,21 @@
 # generated 2013-10-19
 - date: 2005-05-01
 
-- region: Nevada
+- country: United States
+- state: Nevada
+- location: Nevada
 
-- subloc: Silver City
+- location: Silver City, Nevada
 
 - Canyon Wren
 
 - date: 2005-05-06
 
-- region: Colorado
+- country: United States
+- state: Colorado
+- location: Colorado
 
-- subloc: Great Sand Dunes NP
+- location: Great Sand Dunes NP, Colorado
 
 - Lazuli Bunting
 - Black-billed Magpie
@@ -20,4 +24,3 @@
 - Spotted Towhee
 - Western Kingbird:
     quality: Probable
-

@@ -2,9 +2,10 @@
 # generated 2013-10-19
 - date: 2000-06-01
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Broken Group
+- location: Broken Group, British Columbia
 
 - Bald Eagle:
     notes: numerous daily
@@ -14,9 +15,10 @@
 
 - date: 2000-06-19
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - White-crowned Sparrow
-

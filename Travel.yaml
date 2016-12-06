@@ -1,34 +1,38 @@
 - date: 2014-09-18
-- region: Michigan
-- subloc: Upper Peninsula
+- country: United States
+- state: Michigan
+- location: Michigan
+- location: Upper Peninsula, Michigan
 - Sandhill Crane:
     quality: Probable
     notes: a group standing in a field next to highway 117
 
-- subloc: Pictured Rocks
+- location: Pictured Rocks, Michigan
 - Semipalmated Sandpiper:
     notes: two in a pool of water next to the lake. Juvenile. See photos.
 - ReBMer:
     notes: in the harbor. see photos.
 
 - date: 2014-09-19
-- subloc: Highway 28
+- location: Highway 28, Michigan
 - Wild Turkey:
     notes: along the highway between Marquette and Munising
 
 - date: 2014-09-20
-- subloc: Pictured Rocks
+- location: Pictured Rocks, Michigan
 - codes: BalEag ReBMer
 - chickadee sp.
 
 - date: 2014-09-23
-- subloc: Seney NWR
+- location: Seney NWR, Michigan
 - codes: CanGoo TruSwa WooDuc ComLoo PiBGre GrBHer BalEag BelKin GryCat NorFli AmeRob
 - codes: AmeCro BkCChi
 
 - date: 2014-11-01
-- region: Texas
-- subloc: Port Lavaca
+- country: United States
+- state: Texas
+- location: Texas
+- location: Port Lavaca, Texas
 # The boardwalk at the campground
 - codes: BrnPel GrBHer SnoEgr Willet RocPig GreEgr
 - Tri-colored Heron:
@@ -50,12 +54,12 @@
 - EuCDov
 
 - date: 2014-11-02
-- subloc: Highway TX 35
+- location: Highway TX 35, Texas
 - codes: MouDov BlkVul Anhing ComGra ReTHaw TurVul CatEgr AmeKes
 - Eastern/Western Meadowlark:
     notes: heard only
 
-- subloc: Aransas NWR
+- location: Aransas NWR, Texas
 - codes: NorMoc MouDov AmeKes
 - codes: NorPin PiBGre AmWPel BrnPel DoCCor GrBHer GreEgr SnoEgr LiBHer
 - codes: WhiIbi RosSpo BlkVul TurVul Osprey
@@ -72,18 +76,18 @@
     notes: noted as no record at Aransas
 
 
-- subloc: Highway TX474
+- location: Highway TX474, Texas
 - ScTFly
-- subloc: Highway 77
+- location: Highway 77, Texas
 - WhTHaw:
     notes: spotted by me, id'd by Paul
 - BreBla
 
-- subloc: South Padre Island
+- location: South Padre Island, Texas
 - BelKin
 
 - date: 2014-11-03
-- subloc: South Padre Island and Highway 48
+- location: South Padre Island and Highway 48, Texas
 - codes: GrBHer GrTGra MouDov RoyTer EuCDov LauGul
 - codes: WhWDov TroKin NorMoc Osprey
 - codes: ComGra BrnPel ForTer CasTer SanTer RiBGul
@@ -100,7 +104,7 @@
 - codes: HarHaw TurVul WhTHaw BlkSki RudTur Willet WooSto LesYel AmeAvo EasMea
 
 - date: 2014-11-04
-- subloc: South Padre Island, Laguna Atascosa and Brownsville
+- location: South Padre Island, Laguna Atascosa and Brownsville, Texas
 - codes: DoCCor BrnPel RiBGul HarHaw GrBHer ComGra GrTGra MouDov EurSta
 - codes: EuCDov BnHCow NorMoc CoGDov CreCar LogShr AmeKes EasMea NorHar
 - codes: GraSpa SonSpa GoFWoo TroKin TurVul GrnJay ReWBla PlaCha
@@ -114,7 +118,7 @@
 - Yellow-headed Parrot
 
 - date: 2014-11-05
-- subloc: Hugh Ramsey, Harlingen Lake
+- location: Hugh Ramsey, Harlingen Lake, Texas
 - codes: RosSpo BrnPel MarGod ForTer PecSan TriHer Willet
 - codes: RoyTer CasTer SnoEgr GrBHer LauGul RiBGul AmeKes
 - codes: AmWPel BelKin
@@ -127,7 +131,7 @@
     notes: numerous at Harlingen Lake
 
 - date: 2014-11-06
-- subloc: Estero Llano Grande, Frontera
+- location: Estero Llano Grande, Frontera, Texas
 - codes: GrTGra BnHCow ReWBla BuBHum SnoEgr PiBGre Gadwal LiBHer WhFIbi SpoSan AmeCoo
 - codes: BuWTea ComGal WilSni LeaGre BBWDuc GreKis LesYel SpoSan WhiIbi ComYel RuTHum
 - codes: Killde BkNSti LeaSan FuWDuc HouSpa MarWre GnWTea YCNHer
@@ -138,7 +142,7 @@
 - Black-and-white Warbler
 
 - date: 2014-11-07
-- subloc: Ramsey
+- location: Ramsey, Texas
 - codes: NorCar WhWDov GrnJay PlaCha
 - BBWDuc:
     notes: fly over
@@ -147,7 +151,7 @@
     notes: heard song
 
 - date: 2014-11-08
-- subloc: Anzalduas County Park, National Butterfly Center, Quinta Mazatlan
+- location: Anzalduas County Park, National Butterfly Center, Quinta Mazatlan, Texas
 - codes: GreKis GrTGra SnoEgr TurVul GreEgr AmeKes Osprey HouSpa
 - codes: GrnJay TroKin BrWHaw CooHaw WhWDov NorMoc GoFWoo RocPig HouFin
 - codes: BlkVul Anhing GrnKin CreCar GrBHer RuCKin MouDov
@@ -165,7 +169,7 @@
 - Clay-colored Thrush
 
 - date: 2014-11-09
-- subloc: Pontoon boat ride and  Anzalduas County Park
+- location: Pontoon boat ride and  Anzalduas County Park, Texas
 - codes: GrTGra GreKis SnoEgr GoFWoo MouDov GrnKin NorMoc VerFly
 - codes: OrCWar Osprey MusDuc BlkPho GreEgr SpoSan NorCar EasPho
 - codes: BarSwa GrBHer AltOri Killde TroKin EuCDov TurVul ZoTHaw
@@ -175,7 +179,7 @@
 - codes: SprPip SavSpa NRwSwa
 
 - date: 2014-11-14
-- subloc: Blackland Prairie Raptor Center
+- location: Blackland Prairie Raptor Center, Texas
 - codes: NorCar CarChi DowWoo RuCKin YeRWar
 - CooHaw:
     notes: good views of it on the trail ahead of us
@@ -184,29 +188,37 @@
 - codes: FraGul RiBGul DoCCor Killde GrBHer AmeCro LeaSan EasBlu BlkVul TurVul
 
 - date: 2014-11-19
-- region: Ohio
-- subloc: I-71 near Cincinnati
+- country: United States
+- state: Ohio
+- location: Ohio
+- location: I-71 near Cincinnati, Ohio
 - TurVul
 
 - date: 2014-12-17
-- region: Virginia
-- subloc: Staunton/Walnut Hills
+- country: United States
+- state: Virginia
+- location: Virginia
+- location: Staunton/Walnut Hills, Virginia
 - PilWoo
 
 - date: 2014-12-19
-- region: Pennsylvania
-- subloc: Myrtle Rd
+- country: United States
+- state: Pennsylvania
+- location: Pennsylvania
+- location: Myrtle Rd, Pennsylvania
 - WilTur:
     notes: large flock, on the ground and later in the trees
 
 - date: 2014-12-21
-- region: Pennsylvania
-- subloc: Shuman Point trail
+- country: United States
+- state: Pennsylvania
+- location: Pennsylvania
+- location: Shuman Point trail, Pennsylvania
 - BalEag:
     notes: near geocache site
 
 - date: 2014-12-24
-- subloc: Myrtle Rd
+- location: Myrtle Rd, Pennsylvania
 - BkCChi
 - WhBNut
 - AmeCro
@@ -217,18 +229,22 @@
 
 # Found these in the journey repo...
 - date: 2004-11-30
-- region: California
-- subloc: Pismo Beach
+- country: United States
+- state: California
+- location: California
+- location: Pismo Beach, California
 - Brown Pelican
 - Black Oystercatcher:
     notes: heard only
 - date: 2004-12-07
-- subloc: Wild Animal Park
+- location: Wild Animal Park, California
 - Lesser Goldfinch
 
 - date: 2015-02-26
-- region: Texas
-- subloc: Fort Worth
+- country: United States
+- state: Texas
+- location: Texas
+- location: Fort Worth, Texas
 - AmeCoo
 - GrBHer
 - GreEgr
@@ -236,14 +252,16 @@
 - GrTGra
 
 - date: 2015-04-06
-- region: Texas
-- subloc: Heritage Ranch, Fairview
+- country: United States
+- state: Texas
+- location: Texas
+- location: Heritage Ranch, Fairview, Texas
 - codes: NorMoc NorCar WhEVir EasPho EaWPew HouFin BnHCow BarSwa NRWSwa
 - codes: WhCSpa TufTit AmeCro ReBWoo CarChi GreEgr RuTHum TurVul EasBlu
 - codes: WhTSpa CarWre BluJay Mallar ReTHaw CanGoo Killde HarSpa HouSpa CedWax MouDov
 
 - date: 2015-04-08
-- subloc: Katy Conservancy
+- location: Katy Conservancy, Texas
 - codes: NorCar MouDov CreCar GreEgr BluJay AmeCro ScTFly DoCCor BBWDuc EuCDov GreEgr
 - codes: BnHCow BlkVul ReWBla ComGra
 - codes: AmeCoo FuWDuc NorSho PiBGre CarWre BuWTea IncDov GrBHer EurSta ReTHaw BarSwa CatEgr
@@ -253,15 +271,15 @@
 - codes: MotDuc Gadwal GnWTea GreYel SnoEgr LiBHer LoBDow CavSwa
 - codes: BuBSan UplSan Killde EasMea LesYel Anhing WhTHaw SavSpa
 
-- subloc: on the road to Galveston
+- location: on the road to Galveston, Texas
 - CooHaw
 
-- subloc: Galveston
+- location: Galveston, Texas
 - codes: BrnPel LauGul GrTGra RocPig
 - gull sp.
 
 - date: 2015-04-09
-- subloc: High Island trip
+- location: High Island trip, Texas
 - codes: BBWDuc BuWTea Redhea GreSca PiBGre AmWPel BrnPel NeoCor DoCCor GreEgr SnoEgr
 - codes: LiBHer TriHer RedEgr CatEgr WhiIbi RosSpo TurVul Osprey
 - codes: PerFal ComGal AmeCoo BkBPlo AmeOys BkNSti AmeAvo SolSan Willet MarGod ShBDow LauGul HerGul
@@ -270,7 +288,7 @@
 - codes: TufTit CarWre MarWre RuCKin NorMoc NorCar RoBGro IndBun ReWBla ComGra BoTGra BroCow BnHCow
 
 - date: 2015-04-10
-- subloc: Western Isle and Marshes
+- location: Western Isle and Marshes, Texas
 - codes: Killde NeoCor BkNSti GuBTer WhiIbi AmeCoo LogShr Osprey ForTer BBWDuc MarWre MotDuc BuWTea
 - codes: WhFIbi EurSta SolSan EasMea SwaSpa GreEgr GrBHer GrnHer LesYel BarSwa AmeWig Willet
 - codes: Gadwal ScTFly
@@ -281,11 +299,11 @@
 - codes: ComTer BlkSki LeaTer LoBDow Sander RedEgr NRWSwa SanTer
 
 
-- subloc: Galveston
+- location: Galveston, Texas
 - WhWDov
 
 - date: 2015-04-11
-- subloc: Anahuac NWR trip
+- location: Anahuac NWR trip, Texas
 - codes: LauGul BrnPel WhiIbi ReWBla TriHer Willet EasMea YCNHer EasKin WhFIbi NorMoc
 - codes: ComGal BoTGra KinRai MotDuc BBWDuc YelRai SeaSpa Killde TreSwa OrcOri AmeBit
 - codes: SedWre Sora ClaRai BarSwa
@@ -298,7 +316,7 @@
 - codes: NorCar IndBun BalOri NorPar TenWar RuTHum BAWWar YeRWar BelKin GrCFly RuCKin ComGra
 
 - date: 2015-04-12
-- subloc: Galveston Most Wanted trip
+- location: Galveston Most Wanted trip, Texas
 # I skipped recording almost all shorebirds since there was nothing new.
 - codes: ComYel NelSpa
 - ClaRai:
@@ -311,31 +329,41 @@
 - YeBCuc
 
 - date: 2015-06-27
-- region: Iowa
-- subloc: IA 44 near Guthrie Center
+- country: United States
+- state: Iowa
+- location: Iowa
+- location: IA 44 near Guthrie Center, Iowa
 - RiNPhe:
     notes: two, separately, along the road
 - EasMea:
     notes: heard several times
 
 - date: 2015-06-29
-- region: Wyoming
-- subloc: I-80
+- country: United States
+- state: Wyoming
+- location: Wyoming
+- location: I-80, Wyoming
 - codes: WesMea BkBMag
 
 - date: 2015-07-01
-- region: Utah
-- subloc: Salt Lake City
+- country: United States
+- state: Utah
+- location: Utah
+- location: Salt Lake City, Utah
 - EuCDov
 
 - date: 2015-07-03
-- region: Nevada
-- subloc: Gold Ranch RV Campground
+- country: United States
+- state: Nevada
+- location: Nevada
+- location: Gold Ranch RV Campground, Nevada
 - SteJay
 
 - date: 2015-07-04
-- region: California
-- subloc: Concord
+- country: United States
+- state: California
+- location: California
+- location: Concord, California
 # Steve and Christy's house
 - codes: HouFin AmeRob MouDov
 
@@ -355,14 +383,14 @@
 - CalTow
 
 - date: 2015-07-10
-- subloc: Glen Ellen
+- location: Glen Ellen, California
 - PilWoo
 
 - date: 2015-07-11
 - codes: ChBChi WhBNut SpoTow
 
 - date: 2015-07-12
-- subloc: Concord
+- location: Concord, California
 - codes: WesBlu BlkPho
 
 - date: 2015-07-14
@@ -370,29 +398,29 @@
     notes: female
 
 - date: 2015-07-15
-  subloc: San Francisco
+- location: San Francisco, California
   codes: RocPig BrnPel
 
 - date: 2015-07-16
-- subloc: Concord
+- location: Concord, California
   HooOri:
      notes: In the bushes near the trailer.
 
 - date: 2015-07-17
-  subloc: Petaluma
+- location: Petaluma, California
   codes: EuCDov AmeCro
 
-- subloc: Bodega Bay
+- location: Bodega Bay, California
   codes: BraCor AmeOys WhCSpa BrnPel ComRav YeHBla TurVul
 - xGull
 
-- subloc: Highway 29
+- location: Highway 29, California
 - date: 2015-07-19
 - WilTur
 
 # The best birding was at Manzanita Lake and the lake next to it.
 - date: 2015-07-20
-  subloc: Mount Lassen
+- location: Mount Lassen, California
   codes: AmeCoo GrBHer ReBNut
 - woodpecker sp.
 
@@ -407,32 +435,38 @@
     notes: 3 circling at Manzanita Lake
 
 - date: 2015-07-28
-- region: Oregon
-- subloc: KOA Albany
+- country: United States
+- state: Oregon
+- location: Oregon
+- location: KOA Albany, Oregon
 - codes: AmeGol EuCDov BkCChi
 
 - date: 2015-08-04
-- region: Washington
-- subloc: Mt Rainier
+- country: United States
+- state: Washington
+- location: Washington
+- location: Mt Rainier, Washington
 - codes: PacWre ComRav AmeRob DaEJun
 
 - date: 2015-08-05
 - codes: VarThr SemSan
 
 - date: 2015-08-06
-- subloc: Seattle KOA
+- location: Seattle KOA, Washington
 - codes: BalEag
 
 - date: 2015-08-08
-- subloc: Bellevue
+- location: Bellevue, Washington
 - codes: BkCChi ChBChi DaEJun SpoTow
 
 - date: 2015-08-12
-- subloc: Pioneer Trails RV Park
+- location: Pioneer Trails RV Park, Washington
 - codes: ReBNut AmeRob
 
 # see travel notebook
 - date: 2015-09-19
-- region: Pennsylvania
-- subloc: Honesdale
+- country: United States
+- state: Pennsylvania
+- location: Pennsylvania
+- location: Honesdale, Pennsylvania
 - WilTur

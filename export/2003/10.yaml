@@ -2,19 +2,25 @@
 # generated 2013-10-19
 - date: 2003-10-01
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 
 - date: 2003-10-02
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Western Grebe
 
 - date: 2003-10-08
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Great Blue Heron:
     notes: heard squawking at night
@@ -25,9 +31,11 @@
 
 - date: 2003-10-10
 
-- region: Oklahoma
+- country: United States
+- state: Oklahoma
+- location: Oklahoma
 
-- subloc: Salt Plains NWR R/T
+- location: Salt Plains NWR R/T, Oklahoma
 
 - American Crow
 - American Goldfinch
@@ -73,7 +81,7 @@
 
 - date: 2003-10-11
 
-- subloc: Norman
+- location: Norman, Oklahoma
 
 - American Kestrel:
     notes: 2, hovering while hunting
@@ -97,7 +105,7 @@
 
 - date: 2003-10-12
 
-- subloc: Oklahoma
+- location: Oklahoma, Oklahoma
 
 - American Kestrel
 - Bobolink:
@@ -107,7 +115,7 @@
 - Northern Mockingbird
 - Scissor-tailed Flycatcher
 
-- subloc: Sutton
+- location: Sutton, Oklahoma
 
 - Blue-headed Vireo
 - Chipping Sparrow
@@ -120,7 +128,7 @@
 
 - date: 2003-10-14
 
-- subloc: ''
+- location: Oklahoma
 
 - Great Horned Owl:
     notes: afternoon, heard only
@@ -129,18 +137,24 @@
 
 - date: 2003-10-15
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 
-- region: Oklahoma
+- country: United States
+- state: Oklahoma
+- location: Oklahoma
 
 - Great Horned Owl:
     notes: early morning, dark, heard several times
 
 - date: 2003-10-16
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Surf Scoter:
@@ -162,7 +176,9 @@
     concident with white spot on wing top; angled wings and fast flyer like a Tern,
     often flew low but did not dive, also flew high
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
 - American Coot
 - American Wigeon
@@ -175,7 +191,9 @@
 
 - date: 2003-10-18
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Coot
 - American Goldfinch
@@ -221,14 +239,18 @@
 
 - date: 2003-10-21
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Great Blue Heron:
     notes: group of 4
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Juanita Bay
+- location: Juanita Bay, Seattle
 
 - American Coot
 - American Wigeon
@@ -245,7 +267,7 @@
 
 - date: 2003-10-23
 
-- subloc: Cedar River/Coulon Park
+- location: Cedar River/Coulon Park, Seattle
 
 - American Coot
 - American Goldfinch:
@@ -271,9 +293,11 @@
 
 - date: 2003-10-24
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - American Robin
 - American Wigeon
@@ -296,9 +320,11 @@
 
 - date: 2003-10-26
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Union Bay
+- location: Union Bay, Seattle
 
 - American Coot
 - Bewick's Wren:
@@ -307,12 +333,12 @@
 
 - date: 2003-10-28
 
-- subloc: Kent Ponds
+- location: Kent Ponds, Seattle
 
 - Bald Eagle:
     notes: one adult,one juvenile
 
-- subloc: Tukwila Pond
+- location: Tukwila Pond, Seattle
 
 - American Coot
 - Belted Kingfisher
@@ -327,9 +353,11 @@
 
 - date: 2003-10-29
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Belted Kingfisher
 
@@ -340,8 +368,9 @@
 
 - date: 2003-10-31
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Surfbird:
     notes: Large flock, same group as last year?
-

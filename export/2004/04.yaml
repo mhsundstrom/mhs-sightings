@@ -2,12 +2,16 @@
 # generated 2013-10-19
 - date: 2004-04-01
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Belted Kingfisher
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Robin
 - American Wigeon
@@ -36,7 +40,9 @@
 
 - date: 2004-04-02
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Bald Eagle
 - Barrow's Goldeneye
@@ -57,18 +63,24 @@
 
 - date: 2004-04-04
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Red-breasted Merganser
 
 - date: 2004-04-06
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Brant:
     notes: large group is still at the south beach
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - Bald Eagle
 - Canada Goose
@@ -82,9 +94,11 @@
 
 - date: 2004-04-07
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: Alki East
+- location: Alki East, Alki
 
 - American Goldfinch
 - American Robin
@@ -109,9 +123,11 @@
 - White-crowned Sparrow
 - crow sp.
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bufflehead
 - Common Goldeneye
@@ -126,7 +142,9 @@
 
 - date: 2004-04-09
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - American Robin
 - Bald Eagle:
@@ -162,9 +180,11 @@
 
 - date: 2004-04-10
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: hillside
+- location: hillside, AlkiCondo
 
 - American Robin
 - Black-capped Chickadee
@@ -178,16 +198,18 @@
 
 - date: 2004-04-12
 
-- subloc: ''
+- location: AlkiCondo
 
 - Belted Kingfisher:
     notes: pair
 - Surf Scoter:
     notes: female
 
-- region: Seattle
+- country: United States
+- state: Washington
+- location: Seattle
 
-- subloc: Lake Sammamish State Park
+- location: Lake Sammamish State Park, Seattle
 
 - American Coot
 - American Goldfinch
@@ -220,9 +242,11 @@
 
 - date: 2004-04-14
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Surf Scoter
 - Western Grebe
@@ -234,9 +258,10 @@
 
 - date: 2004-04-16
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Strait of Juan de Fuca
+- location: Strait of Juan de Fuca, British Columbia
 
 - Bald Eagle
 - Brant:
@@ -251,7 +276,7 @@
 - Western Grebe
 - o: Black and white, Murrelet?
 
-- subloc: Victoria and Harbor
+- location: Victoria and Harbor, British Columbia
 
 - American Robin
 - Black Oystercatcher
@@ -269,9 +294,11 @@
 - gull sp.
 - crow sp.
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Port Angeles Harbor
+- location: Port Angeles Harbor, Washington
 
 - Bald Eagle:
     notes: '2'
@@ -284,14 +311,15 @@
 
 - date: 2004-04-17
 
-- region: Port Alberni
+- country: Canada
+- location: Port Alberni
 
-- subloc: Springfield
+- location: Springfield, Port Alberni
 
 - Common Raven
 - Dark-eyed Junco
 
-- subloc: Stamp Falls
+- location: Stamp Falls, Port Alberni
 
 - American Dipper:
     notes: frequently in the water, seemingly submerged. 2 seen total
@@ -305,7 +333,7 @@
 
 - date: 2004-04-18
 
-- subloc: Log Train Trail
+- location: Log Train Trail, Port Alberni
 
 - American Robin
 - Bald Eagle:
@@ -328,7 +356,7 @@
     quality: Probable
 - Pacific Wren
 
-- subloc: Springfield
+- location: Springfield, Port Alberni
 
 - American Robin
 - Common Raven
@@ -340,7 +368,7 @@
 
 - date: 2004-04-19
 
-- subloc: Kitsuksis River walking trail
+- location: Kitsuksis River walking trail, Port Alberni
 
 - American Robin
 - Bald Eagle
@@ -368,47 +396,54 @@
 
 - date: 2004-04-21
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Hwy 19 near Nanaimo
+- location: Hwy 19 near Nanaimo, British Columbia
 
 - Turkey Vulture
 - White-crowned Sparrow
 
-- subloc: Strait of Juan de Fuca
+- location: Strait of Juan de Fuca, British Columbia
 
 - Bonaparte's Gull:
     notes: large group with other gulls, but heard a different sound?
 
-- subloc: Victoria Harbor
+- location: Victoria Harbor, British Columbia
 
 - Black Oystercatcher
 - Pelagic Cormorant:
     quality: Probable
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Port Angeles Harbor
+- location: Port Angeles Harbor, Washington
 
 - Horned Grebe
 - Rhinoceros Auklet
 - Surf Scoter
 
-- subloc: Winslow Harbor
+- location: Winslow Harbor, Washington
 
 - Belted Kingfisher
 
 - date: 2004-04-22
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: ''
+- location: Alki
 
 - Belted Kingfisher
 - Bufflehead
 - Surf Scoter
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - American Robin
 - Bald Eagle
@@ -416,7 +451,9 @@
 
 - date: 2004-04-25
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - Brant:
     notes: Still a large group south of Lighthouse
@@ -425,12 +462,16 @@
 
 - date: 2004-04-27
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
 - White-crowned Sparrow:
     notes: heard
 
-- region: Seward Park
+- country: United States
+- state: Washington
+- location: Seward Park
 
 - American Robin
 - American Wigeon
@@ -461,9 +502,11 @@
 
 - date: 2004-04-29
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
-- subloc: AlkiEast
+- location: AlkiEast, Alki
 
 - American Coot
 - American Goldfinch
@@ -487,15 +530,19 @@
 
 - date: 2004-04-30
 
-- region: AlkiCondo
+- country: United States
+- state: Washington
+- location: AlkiCondo
 
-- subloc: ''
+- location: AlkiCondo
 
 - Bald Eagle
 - Double-crested Cormorant
 - Western Grebe
 
-- region: Discovery Park
+- country: United States
+- state: Washington
+- location: Discovery Park
 
 - American Goldfinch
 - American Robin
@@ -509,4 +556,3 @@
 - White-crowned Sparrow
 - swallow sp.
 - hummingbird sp.
-

@@ -2,24 +2,27 @@
 # generated 2013-10-19
 - date: 2000-11-01
 
-- region: Ohio
+- country: United States
+- state: Ohio
+- location: Ohio
 
-- subloc: Clear Creek Metro Park
+- location: Clear Creek Metro Park, Ohio
 
 - Golden-crowned Kinglet
 - Hairy Woodpecker
 - Red-bellied Woodpecker
 
-- subloc: Hocking Hills
+- location: Hocking Hills, Ohio
 
 - Hairy Woodpecker
 - Red-bellied Woodpecker
 
 - date: 2000-11-11
 
-- region: Arizona
+- country: United States
+- state: Arizona
+- location: Arizona
 
-- subloc: Tucson
+- location: Tucson, Arizona
 
 - Gila Woodpecker
-

@@ -2,9 +2,10 @@
 # generated 2013-10-19
 - date: 1999-02-27
 
-- region: Virginia
+- country: United States
+- state: Virginia
+- location: Virginia
 
-- subloc: Jamestown
+- location: Jamestown, Virginia
 
 - Mute Swan
-

@@ -2,13 +2,14 @@
 # generated 2013-10-19
 - date: 1996-04-01
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Beck St
+- location: Beck St, Columbus
 
 - White-throated Sparrow
 
 - date: 1996-04-05
 
 - Eastern Towhee
-

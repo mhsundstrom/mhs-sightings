@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2002-05-04
 
-- region: Dawes Arboretum
+- country: United States
+- state: Ohio
+- location: Dawes Arboretum
 
 - Baltimore Oriole
 - Rose-breasted Grosbeak
@@ -10,7 +12,9 @@
 
 - date: 2002-05-05
 
-- region: Slate Run Metro Park
+- country: United States
+- state: Ohio
+- location: Slate Run Metro Park
 
 - American Goldfinch
 - Eastern Wood-Pewee
@@ -29,25 +33,31 @@
 
 - date: 2002-05-07
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Baltimore Oriole:
     notes: First heard the call then a visual
 
 - date: 2002-05-08
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - Eastern Phoebe:
     notes: black cap head, slight white wing bars
     quality: Possible
 - o: some kind of Sandpiper
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Baltimore Oriole:
     notes: Early morning; flying among the trees along the river; same call as yesterday
@@ -59,7 +69,9 @@
 
 - date: 2002-05-10
 
-- region: Sharon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Sharon Woods Metro Park
 
 - American Redstart:
     notes: adult male
@@ -134,9 +146,11 @@
 
 - date: 2002-05-19
 
-- region: Ohio
+- country: United States
+- state: Ohio
+- location: Ohio
 
-- subloc: Magee Marsh
+- location: Magee Marsh, Ohio
 
 - American Goldfinch
 - American Redstart:
@@ -179,16 +193,18 @@
 
 - date: 2002-05-20
 
-- subloc: Oak Openings Metro Park
+- location: Oak Openings Metro Park, Ohio
 
 - Wood Thrush:
     notes: heard but not seen
 
 - date: 2002-05-23
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
-- subloc: ''
+- location: Highbanks Metro Park
 
 - American Crow
 - American Goldfinch
@@ -239,16 +255,18 @@
 
 - date: 2002-05-25
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto River
+- location: Scioto River, Columbus
 
 - Gray Catbird:
     notes: lots of singing
 
 - date: 2002-05-26
 
-- subloc: Chestnut Ridge Metro Park
+- location: Chestnut Ridge Metro Park, Columbus
 
 - Eastern Wood-Pewee
 - Field Sparrow
@@ -258,16 +276,18 @@
 
 - date: 2002-05-27
 
-- region: Highbanks Metro Park
+- country: United States
+- state: Ohio
+- location: Highbanks Metro Park
 
-- subloc: ''
+- location: Highbanks Metro Park
 
 - Baltimore Oriole
 - Eastern Phoebe
 - Eastern Wood-Pewee
 - Wood Thrush
 
-- subloc: near Olentangy River
+- location: near Olentangy River, Highbanks Metro Park
 
 - Eastern Screech-Owl:
     notes: 3 about 15 feet up in a tree, bunched together; big yellow eyes; brown
@@ -275,9 +295,10 @@
       inches
 - Indigo Bunting
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - American Goldfinch
-

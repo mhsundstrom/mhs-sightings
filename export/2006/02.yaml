@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2006-02-03
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Chestnut Ridge Metro Park
+- location: Chestnut Ridge Metro Park, Columbus
 
 - American Crow
 - Blue Jay
@@ -14,4 +16,3 @@
 - Red-bellied Woodpecker
 - Tufted Titmouse
 - White-breasted Nuthatch
-

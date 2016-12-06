@@ -2,16 +2,17 @@
 # generated 2013-10-19
 - date: 2000-07-07
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Schiller Park
+- location: Schiller Park, Columbus
 
 - Red-tailed Hawk:
     notes: immature
 
 - date: 2000-07-22
 
-- subloc: Chestnut Ridge Metro Park
+- location: Chestnut Ridge Metro Park, Columbus
 
 - Northern Mockingbird
-

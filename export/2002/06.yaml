@@ -2,16 +2,20 @@
 # generated 2013-10-19
 - date: 2002-06-01
 
-- region: Blendon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Blendon Woods Metro Park
 
 - Belted Kingfisher
 - Wood Thrush
 
 - date: 2002-06-02
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Three Creeks Metro Park
+- location: Three Creeks Metro Park, Columbus
 
 - Barn Swallow
 - Brown-headed Cowbird
@@ -20,15 +24,19 @@
 
 - date: 2002-06-07
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Baltimore Oriole
 
 - date: 2002-06-09
 
-- region: Sharon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Sharon Woods Metro Park
 
 - Baltimore Oriole
 - Brown-headed Cowbird
@@ -47,47 +55,53 @@
 
 - date: 2002-06-11
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Baltimore Oriole
 
 - date: 2002-06-17
 
-- region: Iowa
+- country: United States
+- state: Iowa
+- location: Iowa
 
-- subloc: Effigy Mounds
+- location: Effigy Mounds, Iowa
 
 - Baltimore Oriole
 - Eastern Phoebe
 - Eastern Wood-Pewee
 - Red-eyed Vireo
 
-- subloc: Great River Road
+- location: Great River Road, Iowa
 
 - Wild Turkey
 
 - date: 2002-06-20
 
-- region: North Dakota
+- country: United States
+- state: North Dakota
+- location: North Dakota
 
-- subloc: I-94
+- location: I-94, North Dakota
 
 - American White Pelican:
     notes: a flock on a pond next to the highway
 
 - date: 2002-06-21
 
-- subloc: Bismarck
+- location: Bismarck, North Dakota
 
 - Sharp-shinned Hawk:
     notes: prominent white/black bands on tail as it flew away; approx crow size
     quality: Probable
 
-- subloc: Fort Mandan
+- location: Fort Mandan, North Dakota
 
 - Baltimore Oriole
 
-- subloc: Hwy 1804
+- location: Hwy 1804, North Dakota
 
 - American White Pelican:
     notes: 2 on the Missouri River
@@ -95,12 +109,12 @@
 - Western Meadowlark
 - Wild Turkey
 
-- subloc: Lake Ilo
+- location: Lake Ilo, North Dakota
 
 - Yellow-headed Blackbird:
     notes: call is ugly
 
-- subloc: Theodore Roosevelt NP
+- location: Theodore Roosevelt NP, North Dakota
 
 - American Crow
 - American Goldfinch
@@ -127,9 +141,11 @@
 
 - date: 2002-06-23
 
-- region: South Dakota
+- country: United States
+- state: South Dakota
+- location: South Dakota
 
-- subloc: Black Hills
+- location: Black Hills, South Dakota
 
 - o: light gray;darker on top; short beak; med. long tail; robin-size
 - warbler sp.:
@@ -138,9 +154,11 @@
 
 - date: 2002-06-24
 
-- region: Wyoming
+- country: United States
+- state: Wyoming
+- location: Wyoming
 
-- subloc: Devils Tower NM
+- location: Devils Tower NM, Wyoming
 
 - Eastern Wood-Pewee:
     notes: heard only, west of normal range
@@ -156,21 +174,25 @@
 
 - date: 2002-06-25
 
-- region: Montana
+- country: United States
+- state: Montana
+- location: Montana
 
-- subloc: Beartooth Highway
+- location: Beartooth Highway, Montana
 
 - Clark's Nutcracker
 
-- region: Wyoming
+- country: United States
+- state: Wyoming
+- location: Wyoming
 
-- subloc: Yellowstone NP
+- location: Yellowstone NP, Wyoming
 
 - Black-billed Magpie
 - Red-breasted Nuthatch
 - Violet-green Swallow
 
-- subloc: Yellowstone NP - Lower Falls
+- location: Yellowstone NP - Lower Falls, Wyoming
 
 - Common Raven:
     notes: tame;accepted food handouts
@@ -179,16 +201,18 @@
 
 - date: 2002-06-26
 
-- region: Montana
+- country: United States
+- state: Montana
+- location: Montana
 
-- subloc: Lee Metcalfe NWR
+- location: Lee Metcalfe NWR, Montana
 
 - Eastern Kingbird
 - Northern Flicker
 - Yellow Warbler:
     quality: Possible
 
-- subloc: US93
+- location: US93, Montana
 
 - Wilson's Snipe:
     notes: long beak;brown/black head stripes;white stripes on back;whitish on tail;while
@@ -196,9 +220,11 @@
 
 - date: 2002-06-27
 
-- region: Idaho
+- country: United States
+- state: Idaho
+- location: Idaho
 
-- subloc: US12
+- location: US12, Idaho
 
 - Osprey:
     notes: next to Locksa River;carrying fish
@@ -206,13 +232,15 @@
 
 - date: 2002-06-28
 
-- region: Oregon
+- country: United States
+- state: Oregon
+- location: Oregon
 
-- subloc: Columbia River Gorge
+- location: Columbia River Gorge, Oregon
 
 - Wild Turkey
 
-- subloc: McNary Dam
+- location: McNary Dam, Oregon
 
 - American White Pelican
 - tern sp.:
@@ -220,9 +248,10 @@
 
 - date: 2002-06-29
 
-- region: Washington
+- country: United States
+- state: Washington
+- location: Washington
 
-- subloc: Mt St Helens
+- location: Mt St Helens, Washington
 
 - Dark-eyed Junco
-

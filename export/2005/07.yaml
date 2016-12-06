@@ -2,30 +2,32 @@
 # generated 2013-10-19
 - date: 2005-07-12
 
-- region: Manitoba
+- country: Canada
+- location: Manitoba
 
-- subloc: Highway 1
+- location: Highway 1, Manitoba
 
 - Yellow-headed Blackbird
 
-- subloc: Portage la Prairie
+- location: Portage la Prairie, Manitoba
 
 - American White Pelican
 
 - date: 2005-07-13
 
-- region: Saskatchewan
+- country: Canada
+- location: Saskatchewan
 
-- subloc: Wanukewin
+- location: Wanukewin, Saskatchewan
 
 - Eastern Kingbird
 
 - date: 2005-07-24
 
-- region: British Columbia
+- country: Canada
+- location: British Columbia
 
-- subloc: Della Falls
+- location: Della Falls, British Columbia
 
 - American Dipper:
     notes: 2 in and on the water at the sandy beach stop
-

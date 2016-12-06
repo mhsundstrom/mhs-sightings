@@ -2,23 +2,29 @@
 # generated 2013-10-19
 - date: 2008-05-01
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Great Blue Heron
 - Turkey Vulture
 
 - date: 2008-05-02
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Scioto Greenways
+- location: Scioto Greenways, Columbus
 
 - Black-crowned Night-Heron:
     notes: near Bicenntennial Park
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
-- subloc: ''
+- location: Miranova
 
 - Barn Swallow
 - Canada Goose
@@ -37,7 +43,9 @@
 
 - date: 2008-05-05
 
-- region: Whittier Peninsula
+- country: United States
+- state: Ohio
+- location: Scioto Audubon Metro Park
 
 - American Goldfinch
 - American Robin
@@ -64,7 +72,9 @@
 
 - date: 2008-05-06
 
-- region: Miranova
+- country: United States
+- state: Ohio
+- location: Miranova
 
 - Belted Kingfisher:
     notes: h.o.
@@ -83,4 +93,3 @@
 
 - Great Blue Heron:
     notes: 2 seen. At least one seen almost daily
-

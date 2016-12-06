@@ -2,9 +2,11 @@
 # generated 2013-10-19
 - date: 2001-05-04
 
-- region: Arizona
+- country: United States
+- state: Arizona
+- location: Arizona
 
-- subloc: Arizona Sonora Desert Museum
+- location: Arizona Sonora Desert Museum, Arizona
 
 - Curve-billed Thrasher:
     notes: lots of song
@@ -13,34 +15,34 @@
 
 - date: 2001-05-05
 
-- subloc: Madera Canyon
+- location: Madera Canyon, Arizona
 
 - Red-faced Warbler
 - Western Tanager:
     notes: male and female
 
-- subloc: Madera Canyon - Josephine Saddle
+- location: Madera Canyon - Josephine Saddle, Arizona
 
 - Yellow-eyed Junco
 
-- subloc: Tucson - Jacobson
+- location: Tucson - Jacobson, Arizona
 
 - Gambel's Quail:
     notes: common
 
 - date: 2001-05-06
 
-- subloc: Tucson - La Paloma Golf Course
+- location: Tucson - La Paloma Golf Course, Arizona
 
 - Greater Roadrunner
 
 - date: 2001-05-07
 
-- subloc: Sedona - Hannig
+- location: Sedona - Hannig, Arizona
 
 - Lesser Goldfinch
 
-- subloc: Sedona - Red Rock SP
+- location: Sedona - Red Rock SP, Arizona
 
 - Bewick's Wren
 - Black-chinned Hummingbird:
@@ -52,9 +54,11 @@
 
 - date: 2001-05-08
 
-- region: Utah
+- country: United States
+- state: Utah
+- location: Utah
 
-- subloc: Bryce Canyon NP
+- location: Bryce Canyon NP, Utah
 
 - Wild Turkey:
     notes: one
@@ -70,25 +74,31 @@
 
 - date: 2001-05-10
 
-- region: Wyoming
+- country: United States
+- state: Wyoming
+- location: Wyoming
 
-- subloc: near Alpine
+- location: near Alpine, Wyoming
 
 - American White Pelican
 
 - date: 2001-05-12
 
-- region: Montana
+- country: United States
+- state: Montana
+- location: Montana
 
-- subloc: Three Forks
+- location: Three Forks, Montana
 
 - Ring-necked Pheasant
 
 - date: 2001-05-21
 
-- region: Florida
+- country: United States
+- state: Florida
+- location: Florida
 
-- subloc: WDW
+- location: WDW, Florida
 
 - Great Egret
 
@@ -100,17 +110,21 @@
 
 - date: 2001-05-26
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Beck St
+- location: Beck St, Columbus
 
 - Ruby-throated Hummingbird
 
 - date: 2001-05-27
 
-- region: Sharon Woods Metro Park
+- country: United States
+- state: Ohio
+- location: Sharon Woods Metro Park
 
-- subloc: ''
+- location: Sharon Woods Metro Park
 
 - Brown-headed Cowbird
 - Eastern Kingbird
@@ -118,12 +132,13 @@
 
 - date: 2001-05-28
 
-- region: Columbus
+- country: United States
+- state: Ohio
+- location: Columbus
 
-- subloc: Darby Creek Metro Park
+- location: Darby Creek Metro Park, Columbus
 
 - Eastern Wood-Pewee:
     notes: distant;heard pee-wee sound
 - Gray Catbird:
     notes: saw two;heard song and call
-

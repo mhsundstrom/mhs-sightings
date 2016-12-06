@@ -2,7 +2,9 @@
 # generated 2013-10-19
 - date: 2004-01-01
 
-- region: Alki
+- country: United States
+- state: Washington
+- location: Alki
 
 - American Robin
 - Bald Eagle
@@ -54,9 +56,11 @@
 
 - date: 2004-01-23
 
-- region: Oklahoma
+- country: United States
+- state: Oklahoma
+- location: Oklahoma
 
-- subloc: Wichita Falls NWR
+- location: Wichita Falls NWR, Oklahoma
 
 - American Crow
 - American Kestrel
@@ -92,7 +96,7 @@
 
 - date: 2004-01-24
 
-- subloc: Lake Hefner
+- location: Lake Hefner, Oklahoma
 
 - American Crow
 - American Wigeon
@@ -112,7 +116,7 @@
 - Ring-billed Gull
 - Western Grebe
 
-- subloc: Norman
+- location: Norman, Oklahoma
 
 - American Crow
 - American Robin
@@ -140,9 +144,11 @@
 
 - date: 2004-01-26
 
-- region: Arizona
+- country: United States
+- state: Arizona
+- location: Arizona
 
-- subloc: Grand Canyon
+- location: Grand Canyon, Arizona
 
 - Common Raven
 - Dark-eyed Junco
@@ -155,17 +161,17 @@
     quality: Probable
 - Woodhouse's Scrub-Jay
 
-- subloc: Sedona - Hannig
+- location: Sedona - Hannig, Arizona
 
 - Anna's Hummingbird
 
 - date: 2004-01-28
 
-- subloc: ''
+- location: Arizona
 
 - Gambel's Quail
 
-- subloc: Arizona Sonora Desert Museum
+- location: Arizona Sonora Desert Museum, Arizona
 
 - Black Vulture:
     notes: on top of the Turkey Vulture enclosure
@@ -181,9 +187,11 @@
 
 - date: 2004-01-31
 
-- region: San Diego
+- country: United States
+- state: California
+- location: San Diego
 
-- subloc: Lighthouse
+- location: Lighthouse, San Diego
 
 - Anna's Hummingbird
 - Brown Pelican
@@ -197,7 +205,7 @@
 - White-crowned Sparrow
 - gull sp.
 
-- subloc: River channel
+- location: River channel, San Diego
 
 - American Coot
 - Belted Kingfisher
@@ -219,4 +227,3 @@
     notes: 10-20
 - Willet
 - o: Sandpipers, small,e.g. Western
-
