@@ -42,3 +42,19 @@
 - location: On the road
 - codes: GrBHer GreEgr PiBGre BluJay
 - codes: CarChi CarWre
+
+- date: 2017-01-21
+- location: Huntington Beach State Park
+- codes: CarWre MouDov YeRWar NorCar ReWBla GrBHer GreEgr SnoEgr
+- codes: RiBGul DoCCor WhTSpa RuCKin Buffle PiBGre TufTit CarChi
+- codes: Sander HorGre BrnPel WhWSco NorGan
+# Dolphin spotted in the surf.
+- codes: NorMoc WesSan AmeCro BluJay AmeCoo
+# alligator ate an AmeCoo
+- codes: ComGal GnWTea LesSca BrnThr BCNHer BelKin RudDuc
+- LiBHer:
+    notes: juvenile
+- codes: ForTer SemPlo Willet CooHaw RudTur LeaSan RedKno
+
+
+
