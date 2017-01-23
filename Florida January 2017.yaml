@@ -26,7 +26,7 @@
 
 - date: 2017-01-19
 - location: Outer Banks
-- codes: BoTGra GBBGul GrBHer NorFli EasMea EasBlu GreYel NorPin
+- codes: BoTGra GBBGul GrBHer NorFli EasMea EasBlu GreYel NorPin NorSho
 - codes: AmBDuc GnWTea WhiIbi AmeAvo Gadwal AmeRob TunSwa
 - codes: SonSpa GryCat PinWar YeRWar BelKin PiBGre SwaSpa
 - codes: ForTer ComLoo NorMoc MouDov Buffle HerGul Dunlin
@@ -47,14 +47,32 @@
 - location: Huntington Beach State Park
 - codes: CarWre MouDov YeRWar NorCar ReWBla GrBHer GreEgr SnoEgr
 - codes: RiBGul DoCCor WhTSpa RuCKin Buffle PiBGre TufTit CarChi
-- codes: Sander HorGre BrnPel WhWSco NorGan
-# Dolphin spotted in the surf.
-- codes: NorMoc WesSan AmeCro BluJay AmeCoo
-# alligator ate an AmeCoo
-- codes: ComGal GnWTea LesSca BrnThr BCNHer BelKin RudDuc
+- codes: Sander HorGre WhWSco NorGan
+- BrnPel:
+    notes: Dolphin spotted in the surf.
+- codes: NorMoc WesSan AmeCro BluJay
+- AmeCoo:
+    notes: saw a tail feather in the mouth of an alligator
+- codes: ComGal GnWTea LesSca BrnThr BCNHer BelKin RudDuc Dunlin
 - LiBHer:
     notes: juvenile
 - codes: ForTer SemPlo Willet CooHaw RudTur LeaSan RedKno
 
+- date: 2017-01-22
+- location: on the road
+- codes: TreSwa
+
+- date: 2017-01-22
+- state: Georgia
+- location: on the road
+- codes: GrTGra DoCCor BlkVul TurVul BrnPel BalEag RiBGul
+
+- state: Florida
+- location: Fort Clinch State Park
+- codes: ReBMer BrnPel Osprey Merlin ForTer DoCCor RiBGul
+
+- date: 2017-01-23
+- codes: NorCar BrnPel DoCCor TurVul BlkVul RiBGul LauGul BonGul
+- codes: CarWre AmeRob YeRWar BoTGra ReBWoo
 
 
