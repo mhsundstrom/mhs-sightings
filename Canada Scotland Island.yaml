@@ -138,8 +138,24 @@
 
 # Iceland, along drive, some kind of swans
 - country: Iceland
-- date: 2016-09-08
+- date: 2016-09-10
 - location: Iceland
-- Whooper Swan
+- Whooper Swan:
+    notes: date and location uncertain
+
+- date: 2016-09-11
+- location: Vik
+- Northern Fulmar
+
+- date: 2016-09-13
+- location: West Iceland
+- Great Black-backed Gull
+
+- date: 2016-09-14
 - Common Eider
+
+- date: 2016-09-16
+- Graylag Goose
+- Great Cormorant
+- Mallard
 
