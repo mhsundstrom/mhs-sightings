@@ -81,15 +81,36 @@
 
 - date: 2017-01-25
 - location: Central Florida Specialties
-- codes: CarWre MouDov ReCWoo ReBWoo PinWar PalWar EasBlu YeBSap
-- codes: SwaSpa GloIbi Anhing GreEgr WhiIbi WooSto TreSwa BCNHer
+# All day trip 500-1630
+- codes: CarWre MouDov ReBWoo PinWar PalWar EasBlu YeBSap
+- codes: SwaSpa GloIbi Anhing GreEgr WhiIbi TreSwa BCNHer
 - codes: AmeCoo ComGal BoTGra GrBHer PiBGre BuGGna SnoEgr AmeRob
-- codes: TriHer ReWBla BaWWar EasPho BacSpa EuCDov BlkVul TurVul
-- codes: DoCCor Limpki Osprey AmWPel ReSHaw SanCra RiBGul ForTer
-- codes: BonGul SnaKit PurGal CatEgr BalEag
+- codes: TriHer ReWBla BaWWar EasPho EuCDov BlkVul TurVul
+- codes: DoCCor Osprey AmWPel ReSHaw RiBGul ForTer
+- codes: BonGul CatEgr
+- codes: ReHWoo LogShr AmeKes BnHCow HerGul BelKin FisCro
+- WooSto:
+    notes: seen in two or three locations, good views
+- BacSpa:
+    notes: one good view by the roadside
+- ReCWoo:
+    notes: foggy, one or two decent views, no pics
+- BalEag:
+    notes: spotted in several locations, near the lakes
 - WhEVir:
     notes: heard only
-- codes: ReHWoo LogShr AmeKes BnHCow HerGul BelKin WhoCra FlSJay FisCro
-
+- Limpki:
+    notes: About 10 seen in total at several stops. Heard their loud call.
+           Close views.
+- SnaKit:
+    notes: Good view at the boat launch stop, also flying.
+- WhoCra:
+    notes: distant view in a field with 2 Sandhill Cranes
+- SanCra:
+    notes: Seen in numerous locations in the field, 2 or 3 at a time.
+- FlSJay:
+    notes: 6-8 at Cruickshank Park in Rockledge
+- PurGal:
+    notes: one, in the shore plants near the dock.
 
 
