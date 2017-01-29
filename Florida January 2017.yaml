@@ -1,20 +1,20 @@
 # Outer Banks and Florida January 2017 with Paul
 - date: 2017-01-17
-- state: Ohio
+- state: oh
 - location: Logan
 - WilTur
 
-- state: West Virginia
+- state: wv
 - location: on the road
 - codes: AmeCro RocPig AmeRob BluJay ReTHaw TurVul
 
-- state: Virginia
+- state: virGinia
 - location: Wytheville campground
 - Carolina/Black-capped Chickadee:
     notes: probably Carolina based on call
 
 - date: 2017-01-18
-- state: North Carolina
+- state: NC
 - location: on the road
 - codes: BlkVul TurVul EurSta HouSpa MouDov GrTGra AmeCro ReSHaw
 - codes: RocPig ReTHaw EasBlu RiBGul
@@ -37,7 +37,7 @@
 - location: On the road
 - codes: BalEag AmeKes GreCor TunSwa BlkVul TurVul ReSHaw PilWoo WilTur
 
-- state: South Carolina
+- state: south Carolina
 - location: On the road
 - codes: GrBHer GreEgr PiBGre BluJay
 - codes: CarChi CarWre
@@ -58,15 +58,15 @@
 - codes: ForTer SemPlo Willet CooHaw RudTur LeaSan RedKno
 
 - date: 2017-01-22
-- location: on the road
+- location: on the road in South Carolina
 - codes: TreSwa
 
 - date: 2017-01-22
-- state: Georgia
+- state: GA
 - location: on the road
 - codes: GrTGra DoCCor BlkVul TurVul BrnPel BalEag RiBGul
 
-- state: Florida
+- state: florida
 - location: Fort Clinch State Park
 - codes: ReBMer BrnPel Osprey Merlin ForTer DoCCor RiBGul
 
@@ -155,4 +155,7 @@
 - codes: NorWat ComYel PalWar YeRWar SavSpa NorCar ReWBla BoTGra
 - GrnHer
 
+- Date: 2017-01-29
+- Location: Seasons of the Sun campground
+- Codes: MouDov TufTit
 
