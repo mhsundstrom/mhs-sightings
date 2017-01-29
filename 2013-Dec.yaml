@@ -1,42 +1,36 @@
 # Actually starting 30 Nov 2013
-- country: United States
 - state: Washington
-- location: Seattle
 - location: Bothell, North Creek, Seattle
 - date: 2013-11-30
 - codes: AmeCro AmeRob Mallar BkCChi GnWTea GrBHer ReWBla FoxSpa AmeWig Buffle DowWoo
-- country: United States
-- state: Washington
-- location: Washington
-- location: Spencer Island, Washington
+
+- location: Spencer Island
 - date: 2013-12-05
 - codes: BelKin PerFal BkCChi FoxSpa HooMer PilWoo ReTHaw DowWoo NorPin
 - codes: SpoTow Mallar Killde GrBHer GnWTea LesSca
-- country: United States
-- state: Washington
-- location: Seattle
+
 - location: Kenmore Logboom Park, Seattle
 - date: 2013-12-06
 - codes: Killde Mallar AmeCoo ComMer HooMer Buffle BelKin AmeWig DoCCor Gadwal LesSca NorCro
 - white-winged gull sp.
 # I also went to Edmonds but saw almost nothing. Cold north wind and sunny
+
 - date: 2013-12-07
 - location: North Creek, Seattle
 - codes:  Mallar Buffle PiBGre BelKin
 - Ring-necked Duck
+
 - date: 2013-12-09
 - country: Canada
-- location: British Columbia
 - location: Tsawassen ferry terminal, British Columbia
 - Bald Eagle:
     notes: Two birds seen separately
+
 - date: 2013-12-10
-- country: Canada
-- location: Port Alberni
 - location: Springfield, Port Alberni
 - ComRav
 - date: 2013-12-14
-- location: Port Alberni, Port Alberni
+- location: Port Alberni
 - codes: SteJay DaEJun Buffle Mallar
 - date: 2013-12-15
 - location: Log Train Trail, Port Alberni
@@ -44,30 +38,28 @@
 - date: 2013-12-16
 - location: Kitsuksis, Port Alberni
 - codes: ReBMer ComMer
+
 - date: 2013-12-25
 - country: United States
 - state: Washington
-- location: Washington
-- location: Paradise Valley, Washington
+- location: Paradise Valley
 - GoCKin
 - date: 2013-12-26
-- country: United States
+
 - state: Oregon
-- location: Oregon
-- location: Fort Stevens State Park, Oregon
+- location: Fort Stevens State Park
 - SpoTow
 - date: 2013-12-27
-- location: Nehalem Bay State Park, Oregon
+- location: Nehalem Bay State Park
 - codes: SpoTow NorFli DaEJun ComRav
 - date: 2013-12-28
-- location: South Beach State Park, Oregon
+- location: South Beach State Park
 - codes: SurSco WesGre
 - date: 2013-12-29
 - codes: YeRWar SpoTow WhCSpa DaEJun ChBChi
 - date: 2013-12-31
-- country: United States
+
 - state: California
-- location: California
-- location: Sacramento River, Redding, California
+- location: Sacramento River, Redding
 - codes: AmeRob MouDov DoCCor ComGol GreEgr BlkPho ReTHaw WhCSpa AcoWoo
 
