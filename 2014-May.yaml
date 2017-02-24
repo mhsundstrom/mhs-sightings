@@ -18,7 +18,7 @@
 - codes: BuWTea YeRWar BawWar CedWax MouWar TreSwa OrcOri
 - white-winged gull sp.
 # Magee Marsh
-- location: Magee Marsh, Ohio
+- location: Magee Marsh
 - codes: GreEgr Killde BluJay NasWar WarVir AmeGol AmeRed TenWar
 - codes: GrnHer LeaFly MagWar RoBGro BalOri
 # PC: NorWat
@@ -55,7 +55,7 @@
 - codes: AmeRob MouDov ReWBla TufTit NorCar YelWar BkCChi Mallar HouFin
 - codes: Killde ComGra EurSta GreEgr BarSwa ChiSwi
 
-- location: Magee Marsh, Ohio
+- location: Magee Marsh
 # removed a GoCSpa, which we no longer believe.
 - codes: CarWre BalOri CanGoo YelWar TreSwa YeRWar WhCSpa
 - codes: SwaThr TufTit BluJay Killde RudTur ForTer
