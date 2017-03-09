@@ -64,8 +64,7 @@
 - codes: NorPin PiBGre AmWPel BrnPel DoCCor GrBHer GreEgr SnoEgr LiBHer
 - codes: WhiIbi RosSpo BlkVul TurVul Osprey
 - Tri-colored Heron
-- o:
-    notes: 2 Whooping Cranes seen thru scope by Paul and Richard
+- o: 2 Whooping Cranes seen thru scope by Paul and Richard
 - codes: Willet RoyTer CoGDov EasPho
 - MarWre:
     notes: heard only
@@ -399,19 +398,19 @@
 
 - date: 2015-07-15
 - location: San Francisco, California
-  codes: RocPig BrnPel
+- codes: RocPig BrnPel
 
 - date: 2015-07-16
 - location: Concord, California
-  HooOri:
+- HooOri:
      notes: In the bushes near the trailer.
 
 - date: 2015-07-17
 - location: Petaluma, California
-  codes: EuCDov AmeCro
+- codes: EuCDov AmeCro
 
 - location: Bodega Bay, California
-  codes: BraCor AmeOys WhCSpa BrnPel ComRav YeHBla TurVul
+- codes: BraCor AmeOys WhCSpa BrnPel ComRav YeHBla TurVul
 - xGull
 
 - location: Highway 29, California
@@ -421,11 +420,11 @@
 # The best birding was at Manzanita Lake and the lake next to it.
 - date: 2015-07-20
 - location: Mount Lassen, California
-  codes: AmeCoo GrBHer ReBNut
+- codes: AmeCoo GrBHer ReBNut
 - woodpecker sp.
 
 - date: 2015-07-21
-  codes: ClaNut WesTan AmeCoo
+- codes: ClaNut WesTan AmeCoo
 
 - date: 2015-07-22
 - Yellow-rumped Warbler (Audubon's)
