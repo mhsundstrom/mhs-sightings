@@ -361,8 +361,7 @@
 - date: 2015-07-04
 - country: United States
 - state: California
-- location: California
-- location: Concord, California
+- location: Concord
 # Steve and Christy's house
 - codes: HouFin AmeRob MouDov
 
@@ -382,14 +381,14 @@
 - CalTow
 
 - date: 2015-07-10
-- location: Glen Ellen, California
+- location: Glen Ellen
 - PilWoo
 
 - date: 2015-07-11
 - codes: ChBChi WhBNut SpoTow
 
 - date: 2015-07-12
-- location: Concord, California
+- location: Concord
 - codes: WesBlu BlkPho
 
 - date: 2015-07-14
@@ -397,29 +396,29 @@
     notes: female
 
 - date: 2015-07-15
-- location: San Francisco, California
+- location: San Francisco
 - codes: RocPig BrnPel
 
 - date: 2015-07-16
-- location: Concord, California
+- location: Concord
 - HooOri:
      notes: In the bushes near the trailer.
 
 - date: 2015-07-17
-- location: Petaluma, California
+- location: Petaluma
 - codes: EuCDov AmeCro
 
-- location: Bodega Bay, California
+- location: Bodega Bay
 - codes: BraCor AmeOys WhCSpa BrnPel ComRav YeHBla TurVul
 - xGull
 
-- location: Highway 29, California
+- location: Highway 29
 - date: 2015-07-19
 - WilTur
 
 # The best birding was at Manzanita Lake and the lake next to it.
 - date: 2015-07-20
-- location: Mount Lassen, California
+- location: Mount Lassen
 - codes: AmeCoo GrBHer ReBNut
 - woodpecker sp.
 
@@ -443,7 +442,6 @@
 - date: 2015-08-04
 - country: United States
 - state: Washington
-- location: Washington
 - location: Mt Rainier, Washington
 - codes: PacWre ComRav AmeRob DaEJun
 
@@ -451,21 +449,25 @@
 - codes: VarThr SemSan
 
 - date: 2015-08-06
-- location: Seattle KOA, Washington
+- location: Seattle KOA
 - codes: BalEag
 
 - date: 2015-08-08
-- location: Bellevue, Washington
+- location: Bellevue
 - codes: BkCChi ChBChi DaEJun SpoTow
 
 - date: 2015-08-12
-- location: Pioneer Trails RV Park, Washington
+- location: Pioneer Trails RV Park
 - codes: ReBNut AmeRob
 
 # see travel notebook
 - date: 2015-09-19
 - country: United States
 - state: Pennsylvania
-- location: Pennsylvania
 - location: Honesdale, Pennsylvania
 - WilTur
+
+- date: 2017-03-18
+- state: Maryland
+- location: Mount Washington, Baltimore
+- codes: PilWoo NorCar DowWoo TufTit MouDov
