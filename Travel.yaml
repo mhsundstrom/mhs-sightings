@@ -2,29 +2,29 @@
 - country: United States
 - state: Michigan
 - location: Michigan
-- location: Upper Peninsula, Michigan
+- location: Upper Peninsula
 - Sandhill Crane:
     quality: Probable
     notes: a group standing in a field next to highway 117
 
-- location: Pictured Rocks, Michigan
+- location: Pictured Rocks
 - Semipalmated Sandpiper:
     notes: two in a pool of water next to the lake. Juvenile. See photos.
 - ReBMer:
     notes: in the harbor. see photos.
 
 - date: 2014-09-19
-- location: Highway 28, Michigan
+- location: Highway 28
 - Wild Turkey:
     notes: along the highway between Marquette and Munising
 
 - date: 2014-09-20
-- location: Pictured Rocks, Michigan
+- location: Pictured Rocks
 - codes: BalEag ReBMer
 - chickadee sp.
 
 - date: 2014-09-23
-- location: Seney NWR, Michigan
+- location: Seney NWR
 - codes: CanGoo TruSwa WooDuc ComLoo PiBGre GrBHer BalEag BelKin GryCat NorFli AmeRob
 - codes: AmeCro BkCChi
 
@@ -32,7 +32,7 @@
 - country: United States
 - state: Texas
 - location: Texas
-- location: Port Lavaca, Texas
+- location: Port Lavaca
 # The boardwalk at the campground
 - codes: BrnPel GrBHer SnoEgr Willet RocPig GreEgr
 - Tri-colored Heron:
@@ -54,12 +54,12 @@
 - EuCDov
 
 - date: 2014-11-02
-- location: Highway TX 35, Texas
+- location: Highway TX 35
 - codes: MouDov BlkVul Anhing ComGra ReTHaw TurVul CatEgr AmeKes
 - Eastern/Western Meadowlark:
     notes: heard only
 
-- location: Aransas NWR, Texas
+- location: Aransas NWR
 - codes: NorMoc MouDov AmeKes
 - codes: NorPin PiBGre AmWPel BrnPel DoCCor GrBHer GreEgr SnoEgr LiBHer
 - codes: WhiIbi RosSpo BlkVul TurVul Osprey
@@ -75,18 +75,18 @@
     notes: noted as no record at Aransas
 
 
-- location: Highway TX474, Texas
+- location: Highway TX474
 - ScTFly
-- location: Highway 77, Texas
+- location: Highway 77
 - WhTHaw:
     notes: spotted by me, id'd by Paul
 - BreBla
 
-- location: South Padre Island, Texas
+- location: South Padre Island
 - BelKin
 
 - date: 2014-11-03
-- location: South Padre Island and Highway 48, Texas
+- location: South Padre Island and Highway 48
 - codes: GrBHer GrTGra MouDov RoyTer EuCDov LauGul
 - codes: WhWDov TroKin NorMoc Osprey
 - codes: ComGra BrnPel ForTer CasTer SanTer RiBGul
@@ -103,7 +103,7 @@
 - codes: HarHaw TurVul WhTHaw BlkSki RudTur Willet WooSto LesYel AmeAvo EasMea
 
 - date: 2014-11-04
-- location: South Padre Island, Laguna Atascosa and Brownsville, Texas
+- location: South Padre Island, Laguna Atascosa and Brownsville
 - codes: DoCCor BrnPel RiBGul HarHaw GrBHer ComGra GrTGra MouDov EurSta
 - codes: EuCDov BnHCow NorMoc CoGDov CreCar LogShr AmeKes EasMea NorHar
 - codes: GraSpa SonSpa GoFWoo TroKin TurVul GrnJay ReWBla PlaCha
@@ -117,7 +117,7 @@
 - Yellow-headed Parrot
 
 - date: 2014-11-05
-- location: Hugh Ramsey, Harlingen Lake, Texas
+- location: Hugh Ramsey, Harlingen Lake
 - codes: RosSpo BrnPel MarGod ForTer PecSan TriHer Willet
 - codes: RoyTer CasTer SnoEgr GrBHer LauGul RiBGul AmeKes
 - codes: AmWPel BelKin
@@ -130,7 +130,7 @@
     notes: numerous at Harlingen Lake
 
 - date: 2014-11-06
-- location: Estero Llano Grande, Frontera, Texas
+- location: Estero Llano Grande, Frontera
 - codes: GrTGra BnHCow ReWBla BuBHum SnoEgr PiBGre Gadwal LiBHer WhFIbi SpoSan AmeCoo
 - codes: BuWTea ComGal WilSni LeaGre BBWDuc GreKis LesYel SpoSan WhiIbi ComYel RuTHum
 - codes: Killde BkNSti LeaSan FuWDuc HouSpa MarWre GnWTea YCNHer
@@ -141,7 +141,7 @@
 - Black-and-white Warbler
 
 - date: 2014-11-07
-- location: Ramsey, Texas
+- location: Ramsey
 - codes: NorCar WhWDov GrnJay PlaCha
 - BBWDuc:
     notes: fly over
@@ -150,7 +150,7 @@
     notes: heard song
 
 - date: 2014-11-08
-- location: Anzalduas County Park, National Butterfly Center, Quinta Mazatlan, Texas
+- location: Anzalduas County Park, National Butterfly Center, Quinta Mazatlan
 - codes: GreKis GrTGra SnoEgr TurVul GreEgr AmeKes Osprey HouSpa
 - codes: GrnJay TroKin BrWHaw CooHaw WhWDov NorMoc GoFWoo RocPig HouFin
 - codes: BlkVul Anhing GrnKin CreCar GrBHer RuCKin MouDov
@@ -168,7 +168,7 @@
 - Clay-colored Thrush
 
 - date: 2014-11-09
-- location: Pontoon boat ride and  Anzalduas County Park, Texas
+- location: Pontoon boat ride and  Anzalduas County Park
 - codes: GrTGra GreKis SnoEgr GoFWoo MouDov GrnKin NorMoc VerFly
 - codes: OrCWar Osprey MusDuc BlkPho GreEgr SpoSan NorCar EasPho
 - codes: BarSwa GrBHer AltOri Killde TroKin EuCDov TurVul ZoTHaw
@@ -178,7 +178,7 @@
 - codes: SprPip SavSpa NRwSwa
 
 - date: 2014-11-14
-- location: Blackland Prairie Raptor Center, Texas
+- location: Blackland Prairie Raptor Center
 - codes: NorCar CarChi DowWoo RuCKin YeRWar
 - CooHaw:
     notes: good views of it on the trail ahead of us
@@ -189,35 +189,31 @@
 - date: 2014-11-19
 - country: United States
 - state: Ohio
-- location: Ohio
-- location: I-71 near Cincinnati, Ohio
+- location: I-71 near Cincinnati
 - TurVul
 
 - date: 2014-12-17
 - country: United States
 - state: Virginia
-- location: Virginia
-- location: Staunton/Walnut Hills, Virginia
+- location: Staunton/Walnut Hills
 - PilWoo
 
 - date: 2014-12-19
 - country: United States
 - state: Pennsylvania
-- location: Pennsylvania
-- location: Myrtle Rd, Pennsylvania
+- location: Myrtle Rd
 - WilTur:
     notes: large flock, on the ground and later in the trees
 
 - date: 2014-12-21
 - country: United States
 - state: Pennsylvania
-- location: Pennsylvania
-- location: Shuman Point trail, Pennsylvania
+- location: Shuman Point trail
 - BalEag:
     notes: near geocache site
 
 - date: 2014-12-24
-- location: Myrtle Rd, Pennsylvania
+- location: Myrtle Rd
 - BkCChi
 - WhBNut
 - AmeCro
@@ -230,20 +226,18 @@
 - date: 2004-11-30
 - country: United States
 - state: California
-- location: California
-- location: Pismo Beach, California
+- location: Pismo Beach
 - Brown Pelican
 - Black Oystercatcher:
     notes: heard only
 - date: 2004-12-07
-- location: Wild Animal Park, California
+- location: Wild Animal Park
 - Lesser Goldfinch
 
 - date: 2015-02-26
 - country: United States
 - state: Texas
-- location: Texas
-- location: Fort Worth, Texas
+- location: Fort Worth
 - AmeCoo
 - GrBHer
 - GreEgr
@@ -253,14 +247,13 @@
 - date: 2015-04-06
 - country: United States
 - state: Texas
-- location: Texas
-- location: Heritage Ranch, Fairview, Texas
+- location: Heritage Ranch, Fairview
 - codes: NorMoc NorCar WhEVir EasPho EaWPew HouFin BnHCow BarSwa NRWSwa
 - codes: WhCSpa TufTit AmeCro ReBWoo CarChi GreEgr RuTHum TurVul EasBlu
 - codes: WhTSpa CarWre BluJay Mallar ReTHaw CanGoo Killde HarSpa HouSpa CedWax MouDov
 
 - date: 2015-04-08
-- location: Katy Conservancy, Texas
+- location: Katy Conservancy
 - codes: NorCar MouDov CreCar GreEgr BluJay AmeCro ScTFly DoCCor BBWDuc EuCDov GreEgr
 - codes: BnHCow BlkVul ReWBla ComGra
 - codes: AmeCoo FuWDuc NorSho PiBGre CarWre BuWTea IncDov GrBHer EurSta ReTHaw BarSwa CatEgr
@@ -270,15 +263,15 @@
 - codes: MotDuc Gadwal GnWTea GreYel SnoEgr LiBHer LoBDow CavSwa
 - codes: BuBSan UplSan Killde EasMea LesYel Anhing WhTHaw SavSpa
 
-- location: on the road to Galveston, Texas
+- location: on the road to Galveston
 - CooHaw
 
-- location: Galveston, Texas
+- location: Galveston
 - codes: BrnPel LauGul GrTGra RocPig
 - gull sp.
 
 - date: 2015-04-09
-- location: High Island trip, Texas
+- location: High Island
 - codes: BBWDuc BuWTea Redhea GreSca PiBGre AmWPel BrnPel NeoCor DoCCor GreEgr SnoEgr
 - codes: LiBHer TriHer RedEgr CatEgr WhiIbi RosSpo TurVul Osprey
 - codes: PerFal ComGal AmeCoo BkBPlo AmeOys BkNSti AmeAvo SolSan Willet MarGod ShBDow LauGul HerGul
@@ -287,7 +280,7 @@
 - codes: TufTit CarWre MarWre RuCKin NorMoc NorCar RoBGro IndBun ReWBla ComGra BoTGra BroCow BnHCow
 
 - date: 2015-04-10
-- location: Western Isle and Marshes, Texas
+- location: Western Isle and Marshes
 - codes: Killde NeoCor BkNSti GuBTer WhiIbi AmeCoo LogShr Osprey ForTer BBWDuc MarWre MotDuc BuWTea
 - codes: WhFIbi EurSta SolSan EasMea SwaSpa GreEgr GrBHer GrnHer LesYel BarSwa AmeWig Willet
 - codes: Gadwal ScTFly
@@ -298,11 +291,11 @@
 - codes: ComTer BlkSki LeaTer LoBDow Sander RedEgr NRWSwa SanTer
 
 
-- location: Galveston, Texas
+- location: Galveston
 - WhWDov
 
 - date: 2015-04-11
-- location: Anahuac NWR trip, Texas
+- location: Anahuac NWR
 - codes: LauGul BrnPel WhiIbi ReWBla TriHer Willet EasMea YCNHer EasKin WhFIbi NorMoc
 - codes: ComGal BoTGra KinRai MotDuc BBWDuc YelRai SeaSpa Killde TreSwa OrcOri AmeBit
 - codes: SedWre Sora ClaRai BarSwa
@@ -315,7 +308,7 @@
 - codes: NorCar IndBun BalOri NorPar TenWar RuTHum BAWWar YeRWar BelKin GrCFly RuCKin ComGra
 
 - date: 2015-04-12
-- location: Galveston Most Wanted trip, Texas
+- location: Galveston Most Wanted
 # I skipped recording almost all shorebirds since there was nothing new.
 - codes: ComYel NelSpa
 - ClaRai:
@@ -330,8 +323,7 @@
 - date: 2015-06-27
 - country: United States
 - state: Iowa
-- location: Iowa
-- location: IA 44 near Guthrie Center, Iowa
+- location: IA 44 near Guthrie Center
 - RiNPhe:
     notes: two, separately, along the road
 - EasMea:
@@ -340,29 +332,25 @@
 - date: 2015-06-29
 - country: United States
 - state: Wyoming
-- location: Wyoming
-- location: I-80, Wyoming
+- location: I-80
 - codes: WesMea BkBMag
 
 - date: 2015-07-01
 - country: United States
 - state: Utah
-- location: Utah
-- location: Salt Lake City, Utah
+- location: Salt Lake City
 - EuCDov
 
 - date: 2015-07-03
 - country: United States
 - state: Nevada
-- location: Nevada
-- location: Gold Ranch RV Campground, Nevada
+- location: Gold Ranch RV Campground
 - SteJay
 
 - date: 2015-07-04
 - country: United States
 - state: California
-- location: Concord
-# Steve and Christy's house
+- location: Concord  # Steve and Christy's house
 - codes: HouFin AmeRob MouDov
 
 - date: 2015-07-05
@@ -435,14 +423,13 @@
 - date: 2015-07-28
 - country: United States
 - state: Oregon
-- location: Oregon
-- location: KOA Albany, Oregon
+- location: KOA Albany
 - codes: AmeGol EuCDov BkCChi
 
 - date: 2015-08-04
 - country: United States
 - state: Washington
-- location: Mt Rainier, Washington
+- location: Mt Rainier
 - codes: PacWre ComRav AmeRob DaEJun
 
 - date: 2015-08-05
@@ -464,7 +451,7 @@
 - date: 2015-09-19
 - country: United States
 - state: Pennsylvania
-- location: Honesdale, Pennsylvania
+- location: Honesdale
 - WilTur
 
 - date: 2017-03-17
@@ -481,3 +468,9 @@
 - location: Fort McHenry
 - Bufflehead
 - grebe sp.
+
+- date: 2017-03-21
+- state: PA
+- location: Honesdale
+- WilTur # lots of snow
+
