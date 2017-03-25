@@ -1,0 +1,57 @@
+# Convenient place for birds seen from Miranova
+- state: Ohio
+- location: Miranova
+
+- date: 2017-01-01
+- HooMer:
+    notes: flock south of the railroad bridge
+- GrBHer
+- CanGoo
+- RibGul
+- Mallar
+
+- date: 2017-01-11
+- HouSpa
+- GrBHer
+
+- date: 2017-01-15
+- codes: Mallar CanGoo RibGul
+
+- date: 2017-02-12
+- codes: RiBGul Mallar CanGoo
+
+- date: 2017-02-18
+- codes: HouSpa SonSpa HouFin
+
+- date: 2017-02-19
+- codes: AmeRob
+
+- date: 2017-02-22
+- AmeRob:
+    notes: Hearing much more bird song before sunrise this week.
+
+- date: 2017-02-24
+# 60° early morning, lots of bird song
+- codes: SonSpa CanGoo AmeRob GrBHer
+- TurVul:
+    notes: So far the earliest ever for here. Warm and windy today.
+
+- date: 2017-02-25
+- PerFal:
+    notes: soaring high above the river
+
+- date: 2017-03-01
+- codes: Killde SonSpa AmeRob
+
+- date: 2017-03-03
+- codes: TurVul RibGul
+
+- date: 2017-03-09
+- NorCar
+- HouFin
+
+- date: 2017-03-16
+- codes: CanGoo Mallar
+
+- date: 2017-03-24
+- Killde

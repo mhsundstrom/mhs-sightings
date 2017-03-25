@@ -1,0 +1,29 @@
+# Used for sightings along my regular walking paths.
+- state: Ohio
+
+- date: 2017-01-01
+- AmeGol
+- AmeRob
+
+- date: 2017-01-02
+- NorMoc
+
+- location: Scioto Greenways
+- date: 2017-01-11
+- SonSpa
+
+- date: 2017-01-15
+- xChickadee
+
+- date: 2017-02-12
+- GrBHer
+
+- date: 2017-03-04
+- codes: NorMoc NorCar
+
+- date: 2017-03-06
+- codes: GrBHer NorCar
+- xChickadee
+
+- date: 2017-03-11
+- codes: ReTHaw Killde HouSpa CanGoo Mallar HouFin
