@@ -351,7 +351,8 @@
 - date: 2015-07-04
 - country: United States
 - state: California
-- location: Concord  # Steve and Christy's house
+- location: Concord
+# Steve and Christy's house
 - codes: HouFin AmeRob MouDov
 
 - date: 2015-07-05
