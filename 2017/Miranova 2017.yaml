@@ -188,3 +188,13 @@
 
 - date: 2017-06-27
 - CanGoo:  # a large number were collected and removed on far side, downstream
+
+- date: 2017-06-28
+- EasPho  # continues minutes-long calls every morning, mostly before sunrise
+- codes: AmeRob AmeGol SonSpa ChiSpa HouSpa NorCar
+
+- date: 2017-06-30
+- CarWre  # heard only, several times
+
+- date: 2017-07-01
+- codes: CarWre HouSpa SonSpa AmeRob CanGoo ChiSpa AmeGol TurVul
